@@ -1,0 +1,703 @@
+[
+  {
+    "Station": "SS Helios, Colombo Harbour",
+    "Lat_Lng": [
+      6.9404,
+      79.8464
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1882,
+    "End Date": 0
+  },
+  {
+    "Station": "Bristol Hotel, Fort",
+    "Lat_Lng": [
+      6.9361,
+      79.845
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1890,
+    "End Date": 1950
+  },
+  {
+    "Station": "Bristol Building, Fort",
+    "Lat_Lng": [
+      6.9361,
+      79.845
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1895,
+    "End Date": 1950
+  },
+  {
+    "Station": "Colombo Electric Tramways",
+    "Lat_Lng": [
+      6.9368,
+      79.8525
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1899,
+    "End Date": 1950
+  },
+  {
+    "Station": "Pettah",
+    "Lat_Lng": [
+      6.9368,
+      79.8525
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1902,
+    "End Date": 1950
+  },
+  {
+    "Station": "Kandy",
+    "Lat_Lng": [
+      7.2906,
+      80.6337
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1905,
+    "End Date": 1950
+  },
+  {
+    "Station": "Black Pool",
+    "Lat_Lng": [
+      6.9449,
+      80.7727
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Hydro",
+    "Start Date": 1912,
+    "End Date": 1950
+  },
+  {
+    "Station": "Gampaha",
+    "Lat_Lng": [
+      7.084,
+      80.0098
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Veyangoda",
+    "Lat_Lng": [
+      7.1541,
+      80.0594
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Ja-Ela",
+    "Lat_Lng": [
+      7.0668,
+      79.9041
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Peliyagoda",
+    "Lat_Lng": [
+      6.9585,
+      79.9056
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Kochchikade",
+    "Lat_Lng": [
+      7.2657,
+      79.8591
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Avissawella",
+    "Lat_Lng": [
+      6.9543,
+      80.2046
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Minuwangoda",
+    "Lat_Lng": [
+      7.1842,
+      79.95
+    ],
+    "Capacity (MW)": 0,
+    "Type": "Oil",
+    "Start Date": 1920,
+    "End Date": 1950
+  },
+  {
+    "Station": "Stanley",
+    "Lat_Lng": [
+      6.9361,
+      79.845
+    ],
+    "Capacity (MW)": 3,
+    "Type": "Oil",
+    "Start Date": 1929,
+    "End Date": 1950
+  },
+  {
+    "Station": "Ace Embilipitiya",
+    "Lat_Lng": [
+      6.285,
+      80.84888888888888
+    ],
+    "Capacity (MW)": 100,
+    "Type": "Oil",
+    "Start Date": 2005,
+    "End Date": 0
+  },
+  {
+    "Station": "Ace Horana",
+    "Lat_Lng": [
+      6.7325,
+      80.13805555555557
+    ],
+    "Capacity (MW)": 25,
+    "Type": "Oil",
+    "Start Date": 2002,
+    "End Date": 2012
+  },
+  {
+    "Station": "Ace Matara",
+    "Lat_Lng": [
+      5.985277777777778,
+      80.56361111111111
+    ],
+    "Capacity (MW)": 25,
+    "Type": "Oil",
+    "Start Date": 2002,
+    "End Date": 2012
+  },
+  {
+    "Station": "Aggreko",
+    "Lat_Lng": [
+      9.740277777777777,
+      80.035
+    ],
+    "Capacity (MW)": 20,
+    "Type": "Oil",
+    "Start Date": 2003,
+    "End Date": 2012
+  },
+  {
+    "Station": "Asia Power Sapugaskanda",
+    "Lat_Lng": [
+      6.956111111111111,
+      79.94833333333334
+    ],
+    "Capacity (MW)": 51,
+    "Type": "Oil",
+    "Start Date": 1998,
+    "End Date": 0
+  },
+  {
+    "Station": "Chunnakam",
+    "Lat_Lng": [
+      9.741666666666665,
+      80.03416666666666
+    ],
+    "Capacity (MW)": 14,
+    "Type": "Oil",
+    "Start Date": 1958,
+    "End Date": 2013
+  },
+  {
+    "Station": "Colombo Port",
+    "Lat_Lng": [
+      6.953333333333333,
+      79.85583333333332
+    ],
+    "Capacity (MW)": 60,
+    "Type": "Oil",
+    "Start Date": 2000,
+    "End Date": 0
+  },
+  {
+    "Station": "Heladhanavi",
+    "Lat_Lng": [
+      8.012777777777778,
+      79.87027777777777
+    ],
+    "Capacity (MW)": 100,
+    "Type": "Oil",
+    "Start Date": 2004,
+    "End Date": 2015
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 50,
+    "Type": "Oil",
+    "Start Date": 1964,
+    "End Date": 1980
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 70,
+    "Type": "Oil",
+    "Start Date": 1980,
+    "End Date": 1981
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 130,
+    "Type": "Oil",
+    "Start Date": 1981,
+    "End Date": 1982
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 170,
+    "Type": "Oil",
+    "Start Date": 1982,
+    "End Date": 1997
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 285,
+    "Type": "Oil",
+    "Start Date": 1997,
+    "End Date": 2002
+  },
+  {
+    "Station": "Kelanitissa",
+    "Lat_Lng": [
+      6.953888888888889,
+      79.87694444444443
+    ],
+    "Capacity (MW)": 360,
+    "Type": "Oil",
+    "Start Date": 2002,
+    "End Date": 0
+  },
+  {
+    "Station": "Koolair",
+    "Lat_Lng": [
+      9.811111111111112,
+      80.03527777777778
+    ],
+    "Capacity (MW)": 20,
+    "Type": "Oil",
+    "Start Date": 1998,
+    "End Date": 2009
+  },
+  {
+    "Station": "Lakdhanavi",
+    "Lat_Lng": [
+      6.957777777777778,
+      79.95083333333334
+    ],
+    "Capacity (MW)": 24,
+    "Type": "Oil",
+    "Start Date": 1997,
+    "End Date": 0
+  },
+  {
+    "Station": "Northern Power",
+    "Lat_Lng": [
+      9.73861111111111,
+      80.03444444444445
+    ],
+    "Capacity (MW)": 36,
+    "Type": "Oil",
+    "Start Date": 2009,
+    "End Date": 0
+  },
+  {
+    "Station": "Sapugaskanda",
+    "Lat_Lng": [
+      6.960833333333333,
+      79.96111111111111
+    ],
+    "Capacity (MW)": 80,
+    "Type": "Oil",
+    "Start Date": 1984,
+    "End Date": 1997
+  },
+  {
+    "Station": "Sapugaskanda",
+    "Lat_Lng": [
+      6.960833333333333,
+      79.96111111111111
+    ],
+    "Capacity (MW)": 120,
+    "Type": "Oil",
+    "Start Date": 1997,
+    "End Date": 1999
+  },
+  {
+    "Station": "Sapugaskanda",
+    "Lat_Lng": [
+      6.960833333333333,
+      79.96111111111111
+    ],
+    "Capacity (MW)": 160,
+    "Type": "Oil",
+    "Start Date": 1999,
+    "End Date": 0
+  },
+  {
+    "Station": "Sojitz Kelanitissa",
+    "Lat_Lng": [
+      6.951666666666667,
+      79.87527777777777
+    ],
+    "Capacity (MW)": 172,
+    "Type": "Oil",
+    "Start Date": 2003,
+    "End Date": 0
+  },
+  {
+    "Station": "Uthuru Janani",
+    "Lat_Lng": [
+      9.740833333333333,
+      80.03333333333333
+    ],
+    "Capacity (MW)": 24,
+    "Type": "Oil",
+    "Start Date": 2013,
+    "End Date": 0
+  },
+  {
+    "Station": "Yugadanavi",
+    "Lat_Lng": [
+      7.011111111111111,
+      79.875
+    ],
+    "Capacity (MW)": 200,
+    "Type": "Oil",
+    "Start Date": 2010,
+    "End Date": 2013
+  },
+  {
+    "Station": "Yugadanavi",
+    "Lat_Lng": [
+      7.011111111111111,
+      79.875
+    ],
+    "Capacity (MW)": 300,
+    "Type": "Oil",
+    "Start Date": 2013,
+    "End Date": 0
+  },
+  {
+    "Station": "Lakvijaya",
+    "Lat_Lng": [
+      8.018333333333334,
+      79.72277777777778
+    ],
+    "Capacity (MW)": 300,
+    "Type": "Coal",
+    "Start Date": 2011,
+    "End Date": 2014
+  },
+  {
+    "Station": "Lakvijaya",
+    "Lat_Lng": [
+      8.018333333333334,
+      79.72277777777778
+    ],
+    "Capacity (MW)": 600,
+    "Type": "Coal",
+    "Start Date": 2014,
+    "End Date": 2017
+  },
+  {
+    "Station": "Lakvijaya",
+    "Lat_Lng": [
+      8.018333333333334,
+      79.72277777777778
+    ],
+    "Capacity (MW)": 900,
+    "Type": "Coal",
+    "Start Date": 2017,
+    "End Date": 0
+  },
+  {
+    "Station": "Black Pool",
+    "Lat_Lng": null,
+    "Capacity (MW)": 0,
+    "Type": "Hydro",
+    "Start Date": 1912,
+    "End Date": 1950
+  },
+  {
+    "Station": "Norton",
+    "Lat_Lng": [
+      6.91388888888889,
+      80.52166666666666
+    ],
+    "Capacity (MW)": 25,
+    "Type": "Hydro",
+    "Start Date": 1950,
+    "End Date": 1958
+  },
+  {
+    "Station": "Gal Oya",
+    "Lat_Lng": [
+      7.210277777777778,
+      81.53611111111111
+    ],
+    "Capacity (MW)": 6,
+    "Type": "Hydro",
+    "Start Date": 1953,
+    "End Date": 0
+  },
+  {
+    "Station": "Norton",
+    "Lat_Lng": [
+      6.91388888888889,
+      80.52166666666666
+    ],
+    "Capacity (MW)": 50,
+    "Type": "Hydro",
+    "Start Date": 1958,
+    "End Date": 0
+  },
+  {
+    "Station": "Gal Oya",
+    "Lat_Lng": [
+      7.210277777777778,
+      81.53611111111111
+    ],
+    "Capacity (MW)": 12,
+    "Type": "Hydro",
+    "Start Date": 1962,
+    "End Date": 0
+  },
+  {
+    "Station": "Castlereigh",
+    "Lat_Lng": [
+      6.873333333333334,
+      80.56638888888888
+    ],
+    "Capacity (MW)": 50,
+    "Type": "Hydro",
+    "Start Date": 1965,
+    "End Date": 0
+  },
+  {
+    "Station": "Laxapana",
+    "Lat_Lng": [
+      6.9188888888888895,
+      80.48944444444444
+    ],
+    "Capacity (MW)": 75,
+    "Type": "Hydro",
+    "Start Date": 1969,
+    "End Date": 0
+  },
+  {
+    "Station": "Udawalawe",
+    "Lat_Lng": [
+      6.433888888888889,
+      80.85416666666666
+    ],
+    "Capacity (MW)": 6,
+    "Type": "Hydro",
+    "Start Date": 1969,
+    "End Date": 0
+  },
+  {
+    "Station": "Canyon",
+    "Lat_Lng": [
+      6.871666666666667,
+      80.5261111111111
+    ],
+    "Capacity (MW)": 100,
+    "Type": "Hydro",
+    "Start Date": 1974,
+    "End Date": 0
+  },
+  {
+    "Station": "Polgolla",
+    "Lat_Lng": [
+      7.321666666666666,
+      80.64500000000001
+    ],
+    "Capacity (MW)": 40,
+    "Type": "Hydro",
+    "Start Date": 1976,
+    "End Date": 0
+  },
+  {
+    "Station": "Bowatenna",
+    "Lat_Lng": [
+      7.666666666666667,
+      80.66666666666667
+    ],
+    "Capacity (MW)": 40,
+    "Type": "Hydro",
+    "Start Date": 1981,
+    "End Date": 0
+  },
+  {
+    "Station": "Maskeliya",
+    "Lat_Lng": [
+      6.843611111111111,
+      80.54888888888888
+    ],
+    "Capacity (MW)": 60,
+    "Type": "Hydro",
+    "Start Date": 1983,
+    "End Date": 0
+  },
+  {
+    "Station": "Kotmale",
+    "Lat_Lng": [
+      7.060833333333333,
+      80.59722222222221
+    ],
+    "Capacity (MW)": 201,
+    "Type": "Hydro",
+    "Start Date": 1985,
+    "End Date": 0
+  },
+  {
+    "Station": "Victoria",
+    "Lat_Lng": [
+      7.241388888888889,
+      80.78472222222221
+    ],
+    "Capacity (MW)": 210,
+    "Type": "Hydro",
+    "Start Date": 1985,
+    "End Date": 0
+  },
+  {
+    "Station": "Randenigala",
+    "Lat_Lng": [
+      7.2,
+      80.92500000000001
+    ],
+    "Capacity (MW)": 126,
+    "Type": "Hydro",
+    "Start Date": 1986,
+    "End Date": 0
+  },
+  {
+    "Station": "Nilambe",
+    "Lat_Lng": [
+      7.1883333333333335,
+      80.63111111111111
+    ],
+    "Capacity (MW)": 3.2,
+    "Type": "Hydro",
+    "Start Date": 1988,
+    "End Date": 0
+  },
+  {
+    "Station": "Rantembe",
+    "Lat_Lng": [
+      7.2,
+      80.95
+    ],
+    "Capacity (MW)": 52,
+    "Type": "Hydro",
+    "Start Date": 1990,
+    "End Date": 0
+  },
+  {
+    "Station": "Samanala",
+    "Lat_Lng": [
+      6.681666666666667,
+      80.79833333333333
+    ],
+    "Capacity (MW)": 124,
+    "Type": "Hydro",
+    "Start Date": 1992,
+    "End Date": 0
+  },
+  {
+    "Station": "Kukule Ganga",
+    "Lat_Lng": [
+      6.58,
+      80.32694444444444
+    ],
+    "Capacity (MW)": 80,
+    "Type": "Hydro",
+    "Start Date": 2005,
+    "End Date": 0
+  },
+  {
+    "Station": "Upper Kotmale",
+    "Lat_Lng": [
+      6.946666666666667,
+      80.65805555555556
+    ],
+    "Capacity (MW)": 150,
+    "Type": "Hydro",
+    "Start Date": 2012,
+    "End Date": 0
+  },
+  {
+    "Station": "Deduru Oya",
+    "Lat_Lng": [
+      7.718333333333334,
+      80.27444444444444
+    ],
+    "Capacity (MW)": 1.5,
+    "Type": "Hydro",
+    "Start Date": 2014,
+    "End Date": 0
+  },
+  {
+    "Station": "Moragahakanda",
+    "Lat_Lng": [
+      7.704722222222222,
+      80.78305555555555
+    ],
+    "Capacity (MW)": 25,
+    "Type": "Hydro",
+    "Start Date": 2018,
+    "End Date": 0
+  }
+]
