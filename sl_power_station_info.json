@@ -8,7 +8,7 @@
     "Capacity (MW)": 0,
     "Type": "Oil",
     "Start Date": 1882,
-    "End Date": 0
+    "End Date": 1890,
   },
   {
     "Station": "Bristol Hotel, Fort",
@@ -460,14 +460,6 @@
     "Type": "Coal",
     "Start Date": 2017,
     "End Date": 0
-  },
-  {
-    "Station": "Black Pool",
-    "Lat_Lng": null,
-    "Capacity (MW)": 0,
-    "Type": "Hydro",
-    "Start Date": 1912,
-    "End Date": 1950
   },
   {
     "Station": "Norton",
