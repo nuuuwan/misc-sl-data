@@ -1,12 +1,12 @@
 name,date_start,date_end
 House of Vijaya ,-543,-437
-House of Vijaya ,-437,-237
+dynasty_name 2,-437,-237
 Sena and Guttika ,-237,-215
-House of Vijaya ,-215,-205
+dynasty_name 3,-215,-205
 Elara ,-205,-161
-House of Vijaya ,-161,-103
+dynasty_name 4,-161,-103
 The Five Dravidans ,-103,-89
-House of Vijaya ,-89,67
+dynasty_name 5,-89,67
 House of Lambakanna I ,67,429
 The Six Dravidians ,429,455
 House of Moriya ,455,691
@@ -15,14 +15,14 @@ House of Vijayabahu ,1055,1187
 House of Kalinga ,1187,1197
 House of Vijayabahu- restored ,1197,1200
 House of Kalinga- restored ,1200,1209
-House of Vijayabahu- restored ,1209,1210
+dynasty_name 2,1209,1210
 Lokissara ,1210,1211
-House of Vijayabahu- restored ,1211,1212
+dynasty_name 3,1211,1212
 Pandyan dynasty ,1212,1215
 Eastern Ganga dynasty ,1215,1236
 House of Siri Sanga Bo ,1220,1345
-House of Siri Sanga Bo ,1345,1412
-House of Siri Sanga Bo ,1412,1597
-House of Siri Sanga Bo ,1521,1594
+dynasty_name 2,1345,1412
+dynasty_name 3,1412,1597
+dynasty_name 4,1521,1594
 House of Dinajara ,1591,1739
 Nayaks of Kandy ,1739,1815
