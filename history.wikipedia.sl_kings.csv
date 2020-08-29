@@ -1,0 +1,197 @@
+name,date_birth,date_death,date_ascent,date_descent,marriages,claim,kingdom,dynasty,parent_king_name,parent_relationship
+Vijaya,None,None,-543,-505,Kuvenitwo children Pandu Princess,Founded KingdomMarriage to Kuveni,Kingdom of Tambapanni ,House of Vijaya ,0,0
+Upatissa,None,None,-505,-504,-,Prince Vijaya's Chief Minister,Kingdom of Tambapanni ,House of Vijaya ,Vijaya,0
+Panduvasdeva,None,None,-504,-474,-,Nephew of Vijaya,Kingdom of Tambapanni ,House of Vijaya ,Vijaya,Nephew
+Abhaya,None,None,-474,-454,-,Son of Panduvasdeva,Kingdom of Tambapanni ,House of Vijaya ,Panduvasdeva,Son
+Tissa,None,None,-454,-437,-,Younger brother of Abhaya,Kingdom of Tambapanni ,House of Vijaya ,Abhaya,Brother
+Pandukabhaya,-474,-367,-437,-367,-,Grandson of PanduvasudevaNephew of Abhaya and Tissa,Anuradhapura Kingdom ,None,Tissa,Nephew
+Mutasiva,None,None,-367,-307,-,Son of Pandukabhaya,Anuradhapura Kingdom ,None,Pandukabhaya,Son
+Devanampiya Tissa,None,-267,-307,-267,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
+Uttiya,None,None,-267,-257,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
+Mahasiva,None,None,-257,-247,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
+Suratissa,None,-237,-247,-237,-,Son of Pandukabhaya,Anuradhapura Kingdom ,None,0,0
+Sena and Guttika,None,None,-237,-215,-,Defeated Suratissa in battle.,Anuradhapura Kingdom ,None,Suratissa,0
+Asela,None,None,-215,-205,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
+Elara,None,None,-205,-161,-,Defeated Asela in battle,Anuradhapura Kingdom ,None,Asela,0
+Dutugamunu the Great ,None,None,-161,-137,-,Defeated ElaraEldest son of Kavan TissaOriginally the ruler of Ruhuna,Anuradhapura Kingdom ,None,Elara,Son
+Saddha Tissa,None,None,-137,-119,-,Brother of Dutugemunu,Anuradhapura Kingdom ,None,0,0
+Thulatthana,None,None,-119,-119,-,Second son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Son
+Lanja Tissa,None,None,-119,-109,-,Older brother of ThullattanaOldest son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Brother
+Khallata Naga,None,None,-109,-103,-,Brother of Lanja TissaThird son of Saddha Tissa,Anuradhapura Kingdom ,None,Lanja Tissa,Brother
+Vattagamani Abhaya,None,None,-103,-103,-,Fourth son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Son
+Pulahatta,None,None,-103,-100,-,Tamil Chief,Anuradhapura Kingdom ,None,0,0
+Bahiya,None,None,-100,-98,-,Chief Minister of Pulahatha,Anuradhapura Kingdom ,None,0,0
+Panya Mara,None,None,-98,-91,-,Prime Minister of Bahiya,Anuradhapura Kingdom ,None,Bahiya,0
+Pilaya Mara,None,None,-91,-90,-,Chief Minister of Panayamara,Anuradhapura Kingdom ,None,0,0
+Dathika,None,None,-90,-89,-,Chief Minister of Pilayamara,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Vattagamani Abhaya,None,None,-89,-77,-,Fourth son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Saddha Tissa,Son
+Mahakuli Mahatissa,None,None,-77,-63,-,Son of KhallatanagaNephew and adopted son of Valagambahu I,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Chora Naga ,None,None,-63,-51,-,Son of Valagambahu ICousin of Mahakuli Mahatissa,Anuradhapura Kingdom ,House of Vijaya ,Mahakuli Mahatissa,Son
+Kuda Tissa,None,None,-51,-48,-,Son of Mahakuli Mahatissa,Anuradhapura Kingdom ,House of Vijaya ,Mahakuli Mahatissa,Son
+Siva I,None,None,-48,-48,-,,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Vatuka,None,None,-48,-48,-,,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Darubhatika Tissa,None,None,-48,-48,-,,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Niliya,None,None,-48,-48,-,,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Anula,None,None,-48,-44,-,Widow of Chora Naga and Kuda Tissa,Anuradhapura Kingdom ,House of Vijaya ,Kuda Tissa,0
+Kutakanna Tissa,None,None,-44,-22,-,Brother of Kuda TissaSecond son of Mahakuli Mahatissa,Anuradhapura Kingdom ,House of Vijaya ,Kuda Tissa,Brother
+Bhatikabhaya Abhaya,None,None,-22,7,-,Son of Kuttakanna Tissa,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Mahadathika Mahanaga,None,None,7,19,-,Brother of Bhatika Abhaya,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Amandagamani Abhaya,None,None,19,29,-,Son of Mahadathika Mahanaga,Anuradhapura Kingdom ,House of Vijaya ,Mahadathika Mahanaga,Son
+Kanirajanu Tissa,None,None,29,32,-,Brother of Amandagamani Abhaya,Anuradhapura Kingdom ,House of Vijaya ,Amandagamani Abhaya,Brother
+Chulabhaya,None,None,32,33,-,Son of Amandagamani Abhaya,Anuradhapura Kingdom ,House of Vijaya ,Amandagamani Abhaya,Son
+Sivali,None,None,33,33,-,Sister of Chulabhaya,Anuradhapura Kingdom ,House of Vijaya ,Chulabhaya,0
+Interregnum,None,None,33,33,-,,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Ilanaga,None,None,33,43,-,Nephew of Queen Sivali,Anuradhapura Kingdom ,House of Vijaya ,Sivali,Nephew
+Chandamukha,None,None,43,52,-,Son of Ilanaga,Anuradhapura Kingdom ,House of Vijaya ,Ilanaga,Son
+Yassalalaka,None,None,52,60,-,Younger brother of Candhamuka Siva,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Subharaja,None,None,60,67,-,The hall porter of King Yasalaka Tissa,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Vasabha,None,None,67,111,-,A member of the Lambakanna clan,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Vankanasika Tissa,None,None,111,114,-,Son of Vasabha,Anuradhapura Kingdom ,House of Lambakanna I ,Vasabha,Son
+Gajabahu I,None,None,114,136,-,Son of Vankanasika Tissa,Anuradhapura Kingdom ,House of Lambakanna I ,Vankanasika Tissa,Son
+Mahallaka Naga,None,None,136,143,-,Father-in-Law of Gajabahu I,Anuradhapura Kingdom ,House of Lambakanna I ,Gajabahu I,0
+Bhatika Tissa,None,None,143,167,-,Son of Mahallaka Naga,Anuradhapura Kingdom ,House of Lambakanna I ,Mahallaka Naga,Son
+Kanittha Tissa,None,None,167,186,-,Younger brother of Bhatika Tissa,Anuradhapura Kingdom ,House of Lambakanna I ,Bhatika Tissa,Brother
+Cula Naga,None,None,186,187,-,Son of Kanitta Tissa,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Kuda Naga,None,None,187,189,-,Brother of Cula Naga,Anuradhapura Kingdom ,House of Lambakanna I ,Cula Naga,Brother
+Siri Naga I,None,None,189,209,-,Brother-in-Law of Kuda Naga,Anuradhapura Kingdom ,House of Lambakanna I ,Kuda Naga,0
+Voharika Tissa,None,None,209,231,-,Son of Siri Naga I,Anuradhapura Kingdom ,House of Lambakanna I ,Siri Naga I,Son
+Abhaya Naga,None,None,231,240,-,Brother of Voharaka Tissa,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Siri Naga II,None,None,240,242,-,Son of Voharaka Tissa,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Vijaya Kumara,None,None,242,243,-,Son of Siri Naga II,Anuradhapura Kingdom ,House of Lambakanna I ,Siri Naga II,Son
+Sangha Tissa I,None,None,243,247,-,A Lambakanna,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Siri Sangha Bodhi I,None,None,247,249,-,A Lambakanna,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Gothabhaya,None,None,249,262,-,Minister of StateA Lambakanna,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Jettha Tissa I,None,None,263,273,-,Eldest son of Gothabhaya,Anuradhapura Kingdom ,House of Lambakanna I ,Gothabhaya,Son
+Mahasena,None,None,274,301,-,Brother of Jettha TissaYounger son of Gothabhaya,Anuradhapura Kingdom ,House of Lambakanna I ,Gothabhaya,Brother
+Sirimeghavanna,None,None,301,328,-,Son of Mahasena,Anuradhapura Kingdom ,House of Lambakanna I ,Mahasena,Son
+Jettha Tissa II,None,None,328,337,-,Brother of Sirimeghavanna,Anuradhapura Kingdom ,House of Lambakanna I ,Sirimeghavanna,Brother
+Buddhadasa,None,None,337,365,-,Son of Jettha Tissa II,Anuradhapura Kingdom ,House of Lambakanna I ,Jettha Tissa II,Son
+Upatissa I,None,None,365,406,-,Eldest son of Buddhadasa,Anuradhapura Kingdom ,House of Lambakanna I ,Buddhadasa,Son
+Mahanama,None,None,406,428,-,Brother of Upatissa I,Anuradhapura Kingdom ,House of Lambakanna I ,Upatissa I,Brother
+Soththisena,None,None,428,428,-,Mahanama's son born to a Tamil mother,Anuradhapura Kingdom ,House of Lambakanna I ,Mahanama,0
+Chattagahaka Jantu,None,None,428,428,-,Husband of SanghaDaughter of Mahanama by his Sinhala Queen,Anuradhapura Kingdom ,House of Lambakanna I ,Mahanama,0
+Mittasena,None,None,428,429,-,A noted plunderer,Anuradhapura Kingdom ,House of Lambakanna I ,0,0
+Pandu,None,None,429,434,-,Pandyan Invader,Anuradhapura Kingdom ,The Six Dravidians ,0,0
+Parindu,None,None,434,437,-,Son of Pandu,Anuradhapura Kingdom ,The Six Dravidians ,Pandu,Son
+Khudda Parinda,None,None,437,452,-,Younger brother of Pandu,Anuradhapura Kingdom ,The Six Dravidians ,Pandu,Brother
+Tiritara,None,None,452,452,-,Fourth Tamil ruler,Anuradhapura Kingdom ,The Six Dravidians ,0,0
+Dathiya,None,None,452,455,-,Fifth Tamil ruler,Anuradhapura Kingdom ,The Six Dravidians ,0,0
+Pithiya,None,None,455,455,-,Sixth Tamil ruler,Anuradhapura Kingdom ,The Six Dravidians ,0,0
+Dhatusena,None,None,455,473,-,Son of Sangha; the daughter of MahanamaLiberated Anuradhapura from 27 years of Pandyan Rule,Anuradhapura Kingdom ,House of Moriya ,Mahanama,Son
+Kashyapa I,None,None,479,497,-,Son of King Dhatusena by a Pallava woman,Anuradhapura Kingdom ,House of Moriya ,Dhatusena,Son
+Moggallana I,None,None,497,515,-,Son of DhatusenaBrother of Kasyapa,Anuradhapura Kingdom ,House of Moriya ,Dhatusena,Brother
+Kumara Dhatusena,None,None,515,524,-,Son of Mogallana,Anuradhapura Kingdom ,House of Moriya ,0,0
+Kittisena,None,None,524,524,-,Son of Kumara Dhatusena,Anuradhapura Kingdom ,House of Moriya ,Kumara Dhatusena,Son
+Siva II,None,None,524,525,-,Uncle of Kirti Sena,Anuradhapura Kingdom ,House of Moriya ,0,0
+Upatissa II,None,None,525,526,-,Son-in-Law of Kumara Dhatusena,Anuradhapura Kingdom ,House of Moriya ,Kumara Dhatusena,0
+Silakala Ambosamanera,None,None,526,539,-,A Son-in-Law of Upatissa; prince of Lambakanna stock,Anuradhapura Kingdom ,House of Moriya ,0,0
+Dathappabhuti,None,None,539,540,-,Second son of Silakala,Anuradhapura Kingdom ,House of Moriya ,0,0
+Moggallana II,None,None,540,560,-,Eldest brother of Dathappabhuti,Anuradhapura Kingdom ,House of Moriya ,Dathappabhuti,Brother
+Kittisiri Meghavanna,None,None,560,561,-,Son of Mogallana II,Anuradhapura Kingdom ,House of Moriya ,0,0
+Maha Naga,None,None,561,564,-,Minister of War under King Dathapatissa,Anuradhapura Kingdom ,House of Moriya ,0,0
+Aggabodhi I,None,None,564,598,-,Mother's brother's son and Sub-King of Mahanaga,Anuradhapura Kingdom ,House of Moriya ,0,0
+Aggabodhi II,None,None,598,608,-,Nephew and son-in-law of Aggabodhi I,Anuradhapura Kingdom ,House of Moriya ,Aggabodhi I,0
+Sangha Tissa II,None,None,608,608,-,Brother and Sword-bearer of Aggabodhi II,Anuradhapura Kingdom ,House of Moriya ,Aggabodhi II,0
+Moggallana III,None,None,608,614,-,Commander-in-Chief during the reign of Aggabodhi II,Anuradhapura Kingdom ,House of Moriya ,Aggabodhi II,0
+Silameghavanna,None,None,614,623,-,King Mogallana's Sword-bearer,Anuradhapura Kingdom ,House of Moriya ,0,0
+Aggabodhi III,None,None,623,623,-,Son of Silimeghavanna,Anuradhapura Kingdom ,House of Moriya ,0,0
+Jettha Tissa III,None,None,623,624,-,Son of King Sangha Tissa,Anuradhapura Kingdom ,House of Moriya ,0,0
+Aggabodhi III,None,None,624,640,-,Son of Silimeghavanna,Anuradhapura Kingdom ,House of Moriya ,0,0
+Dathopa Tissa I,None,None,640,652,-,General of Jettha Tissa (Dathasiva),Anuradhapura Kingdom ,House of Moriya ,0,0
+Kassapa II,None,None,652,661,-,Brother of Aggabodhi IIISub-King of Dathopa Tissa,Anuradhapura Kingdom ,House of Moriya ,Aggabodhi III,Brother
+Dappula I,None,None,661,664,-,Son in law of Silimeghavanna,Anuradhapura Kingdom ,House of Moriya ,0,0
+Dathopa Tissa II,None,673,664,673,-,Nephew of Dathopa Tissa I (Hattha Datha),Anuradhapura Kingdom ,House of Moriya ,Dathopa Tissa I,Nephew
+Aggabodhi IV,None,None,673,689,-,Younger brother of Dathopa Tissa,Anuradhapura Kingdom ,House of Moriya ,0,0
+Unhanagara Hatthadatha,None,None,691,691,-,A chief of Royal blood who was placed on the throne by a wealthy Tamil Officer,Anuradhapura Kingdom ,House of Moriya ,0,0
+Manavanna,None,None,691,726,-,Son of Kassapa IDescendant of Silamegahavanna,Anuradhapura Kingdom ,House of Lambakanna II ,0,0
+Aggabodhi V,None,None,726,732,-,Son of Manavamma,Anuradhapura Kingdom ,House of Lambakanna II ,0,0
+Kassapa III,None,None,732,738,-,Brother of Aggabodhi V,Anuradhapura Kingdom ,House of Lambakanna II ,Aggabodhi V,Brother
+Mahinda I,None,None,738,741,-,Younger brother of Kassapa III,Anuradhapura Kingdom ,House of Lambakanna II ,Kassapa III,Brother
+Aggabodhi VI,None,None,741,781,-,Son of Kassapa III,Anuradhapura Kingdom ,House of Lambakanna II ,Kassapa III,Son
+Aggabodhi VII,None,None,781,787,-,Son of Mahinda,Anuradhapura Kingdom ,House of Lambakanna II ,0,0
+Mahinda II,None,None,787,807,-,Son of Aggabodhi VI,Anuradhapura Kingdom ,House of Lambakanna II ,Aggabodhi VI,Son
+Dappula II,None,None,807,812,-,Son of Mahinda IIThe sub-king of Mahinda II,Anuradhapura Kingdom ,House of Lambakanna II ,Mahinda II,Son
+Mahinda III,None,None,812,816,-,Son of Dappula II,Anuradhapura Kingdom ,House of Lambakanna II ,Dappula II,Son
+Aggabodhi VIII,None,None,816,827,-,Brother of Mahinda III,Anuradhapura Kingdom ,House of Lambakanna II ,Mahinda III,Brother
+Dappula III,None,None,827,843,-,Younger brother of Aggabodhi VIII,Anuradhapura Kingdom ,House of Lambakanna II ,Aggabodhi VIII,Brother
+Aggabodhi IX,None,None,843,846,-,Son of Dappula III,Anuradhapura Kingdom ,House of Lambakanna II ,Dappula III,Son
+Sena I,None,None,846,866,-,Younger brother of Aggabodhi IX,Anuradhapura Kingdom ,House of Lambakanna II ,Aggabodhi IX,Brother
+Sena II,None,None,866,901,-,Nephew of Sena ISon of Kassapa,Anuradhapura Kingdom ,House of Lambakanna II ,Sena I,Nephew
+Udaya I,None,None,901,912,-,Brother of sub-king of Sena II,Anuradhapura Kingdom ,House of Lambakanna II ,Sena II,Brother
+Kassapa IV,None,None,912,929,-,Son of Sena IISub-king of Udaya I,Anuradhapura Kingdom ,House of Lambakanna II ,Udaya I,Son
+Kassapa V,None,None,929,939,-,Son of Kassapa IV,Anuradhapura Kingdom ,House of Lambakanna II ,Kassapa IV,Son
+Dappula IV,None,None,939,940,-,Son of Kassapa V,Anuradhapura Kingdom ,House of Lambakanna II ,Kassapa V,Son
+Dappula V,None,None,940,952,-,Brother of Dappula IV,Anuradhapura Kingdom ,House of Lambakanna II ,Dappula IV,Brother
+Udaya II,None,None,952,955,-,Nephew of Sena IISub-king of Dappula V,Anuradhapura Kingdom ,House of Lambakanna II ,Dappula V,Nephew
+Sena III,None,None,955,964,-,Brother of Udaya II,Anuradhapura Kingdom ,House of Lambakanna II ,Udaya II,Brother
+Udaya III,None,None,964,972,-,Sub-king of Sena III (a great friend of the king),Anuradhapura Kingdom ,House of Lambakanna II ,Sena III,0
+Sena IV,None,None,972,975,-,Son of Kassapa VSub-king of Udaya III,Anuradhapura Kingdom ,House of Lambakanna II ,Udaya III,Son
+Mahinda IV,None,None,975,991,-,Brother of Sena IVNephew of Udaya IIISub-king of Sena,Anuradhapura Kingdom ,House of Lambakanna II ,Sena IV,Nephew
+Sena V,None,None,991,1001,-,Son of Mahinda IV,Anuradhapura Kingdom ,House of Lambakanna II ,Mahinda IV,Son
+Mahinda V,None,1029,1001,1029,-,Younger brother of Sena V,Chola-occupied Anuradhapura ,None,Sena V,Brother
+Kassapa VI,None,None,1029,1040,-,Son of Mahinda V,Chola-occupied Anuradhapura ,None,Mahinda V,Son
+Mahalana-Kitti,None,None,1040,1042,-,,Chola-occupied Anuradhapura ,None,0,0
+Vikrama Pandu,None,None,1042,1043,-,,Chola-occupied Anuradhapura ,None,0,0
+Jagatipala,None,None,1043,1046,-,,Chola-occupied Anuradhapura ,None,0,0
+Parakrama Pandu,None,None,1046,1048,-,,Chola-occupied Anuradhapura ,None,0,0
+Loka,None,None,1048,1054,-,,Chola-occupied Anuradhapura ,None,0,0
+Kassapa VII,None,None,1054,1055,-,,Chola-occupied Anuradhapura ,House of Vijayabahu ,0,0
+Vijayabahu I,None,None,1055,1111,-,Member of the Sinhala Royal Family,Kingdom of Polonnaruwa ,House of Vijayabahu ,0,0
+Jayabahu I,None,None,1110,1111,-,Brother of Vijayabahu IPrime Minister of Vijayabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu ,Vijayabahu I,Brother
+Vikramabahu I,None,1132,1111,1132,-,Son of Vijayabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu ,Vijayabahu I,Son
+Gajabahu II,None,None,1131,1153,-,Son of Vikramabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu ,Vikramabahu I,Son
+Parakramabahu I 'the Great',1123,1186,1153,1186,-,Grandson of Vijayabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu ,Vijayabahu I,Son
+Vijayabahu II,None,None,1186,1187,-,Parakramabahu I's nephew,Kingdom of Polonnaruwa ,House of Vijayabahu ,0,0
+Mahinda VI,None,None,1187,1187,-,A Kalinga,Kingdom of Polonnaruwa ,House of Vijayabahu ,0,0
+Nissanka Malla,1157,1196,1187,1196,-,Son-in-law or nephew to Parakramabahu I,Kingdom of Polonnaruwa ,House of Kalinga ,0,0
+Virabahu I,None,None,1196,1196,-,Son of Nissanka Malla,Kingdom of Polonnaruwa ,House of Kalinga ,Nissanka Malla,Son
+Vikramabahu II,None,None,1196,1196,-,Younger brother of Nissanka Malla,Kingdom of Polonnaruwa ,House of Kalinga ,Nissanka Malla,Brother
+Chodaganga,None,None,1196,1197,-,Nephew of Nissanka Malla,Kingdom of Polonnaruwa ,House of Kalinga ,Nissanka Malla,Nephew
+Queen Lilavati,None,None,1197,1200,-,Widow of Parakramabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu- restored ,0,0
+Sahassa Malla,None,None,1200,1202,-,Younger brother of Nissanka Malla,Kingdom of Polonnaruwa ,House of Kalinga- restored ,Nissanka Malla,Brother
+Kalyanavati,None,None,1202,1208,-,Queen of Nissanka Malla,Kingdom of Polonnaruwa ,House of Kalinga- restored ,Nissanka Malla,0
+Dharmasoka,None,None,1208,1209,-,Deposed Kalyanavati and installed by Ayasmantha,Kingdom of Polonnaruwa ,House of Kalinga- restored ,Kalyanavati,0
+Anikanga,None,None,1209,1209,-,Father of Dharmasoka,Kingdom of Polonnaruwa ,House of Kalinga- restored ,Dharmasoka,0
+Lilavati,None,None,1209,1210,-,Widow of Parakramabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu- restored ,0,0
+Lokissara,None,None,1210,1211,-,Leader of a Tamil army.,Kingdom of Polonnaruwa ,Lokissara ,0,0
+Lilavati,None,None,1211,1212,-,Widow of Parakramabahu I,Kingdom of Polonnaruwa ,House of Vijayabahu- restored ,0,0
+Parakrama Pandya,None,None,1212,1215,-,Pandyan King,Kingdom of Polonnaruwa ,Pandyan dynasty ,0,0
+Kalinga Magha,None,None,1215,1236,-,A prince of Kalinga,Kingdom of Polonnaruwa ,Eastern Ganga dynasty ,0,0
+Vijayabahu III,None,None,1220,1224,-,A patriotic Prince of Sinhala Royal blood,Kingdom of Polonnaruwa ,Eastern Ganga dynasty ,0,0
+Parakkamabahu II,None,None,1234,1269,-,Eldest son of Vijayabahu III,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,Vijayabahu III,Son
+Vijayabahu IV,None,1270,1267,1270,-,Eldest son of Panditha Parakramabahu II,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Bhuvanaikabahu I,None,None,1271,1283,-,Brother of Vijayabahu IV,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,Vijayabahu IV,Brother
+Interregnum,None,None,1283,1302,-,,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Parakkamabahu III,None,None,1302,1310,-,Nephew of Buvanekabahu ISon of Vijayabahu IV,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,Vijayabahu IV,Nephew
+Bhuvanaikabahu II,None,None,1310,1325,-,Son of Buvanekabahu ICousin of Parakramabahu III,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Parakkamabahu IV,None,None,1325,1325,-,Son of Buvanekkabahu II,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Bhuvanaikabahu III,None,None,1325,1325,-,Known as Vanni Buvanekabahu,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Vijayabahu V,None,None,1325,1344,-,Second son of Chandra Banu of Jaffnapatnam,Kingdom of Dambadeniya ,House of Siri Sanga Bo ,0,0
+Bhuvanaikabahu IV,None,None,1344,1353,-,Son of Vijayabahu V,Kingdom of Gampola ,House of Siri Sanga Bo ,Vijayabahu V,Son
+Parakkamabahu V,1311,None,1344,1359,-,Son of Vijayabahu VBrother of Buvanekabahu IV,Kingdom of Gampola ,House of Siri Sanga Bo ,Vijayabahu V,Brother
+Vikramabahu III,None,None,1357,1374,-,Son of Buvanekabahu IV,Kingdom of Gampola ,House of Siri Sanga Bo ,0,0
+Bhuvanaikabahu V,None,None,1371,1408,-,Nissanka Alakeswara's son by the sister of Vikramabahu III,Kingdom of Gampola ,House of Siri Sanga Bo ,Vikramabahu III,0
+Virabahu II,None,None,1391,1397,-,Brother in law of King Buvanekabahu V,Kingdom of Gampola ,House of Siri Sanga Bo ,0,0
+Vira Alakesvara,None,None,1397,1409,-,,Kingdom of Gampola ,House of Siri Sanga Bo ,0,0
+Parakramabahu Epa,None,None,1409,1412,-,Grandson of Senalankahikara Seneviratminister of Bhuvanaikabâhu IV.,Kingdom of Gampola ,House of Siri Sanga Bo ,0,0
+Parakramabahu VI,None,None,1412,1467,-,Son of Vijayabahu VI and his Queen Sunetra DeviOr the third son of Chandra Banu of Yapa Patuna (Jaffnapatnam),Kingdom of Kotte ,House of Siri Sanga Bo ,Vijayabahu V,Son
+Jayabahu II,None,None,1467,1472,-,Son of Parakramabahu II's natural daughter; Ulakudaya Devi,Kingdom of Kotte ,House of Siri Sanga Bo ,0,0
+Bhuvanaikabahu VI,None,None,1469,1477,-,Son of Parakramabahu VI,Kingdom of Kotte ,House of Siri Sanga Bo ,Parakramabahu VI,Son
+Pandita Parakramabahu VII,None,None,1477,1477,-,,Kingdom of Kotte ,House of Siri Sanga Bo ,0,0
+Vira Parakramabahu VIII,None,None,1477,1489,-,Ambulagala KumaraSon of Parakramabahu VI,Kingdom of Kotte ,House of Siri Sanga Bo ,Parakramabahu VI,Son
+Dharma Parakramabahu IX,None,None,1489,1513,-,Son of Vira Parakramabahu VIII,Kingdom of Kotte ,House of Siri Sanga Bo ,Vira Parakramabahu VIII,Son
+Vijayabahu VII,None,1521,1513,1521,-,Brother of Dharma Parakramabahu IXRajah of Menik Kadavara,Kingdom of Kotte ,House of Siri Sanga Bo ,Dharma Parakramabahu IX,Brother
+Bhuvanekabahu VII,None,1551,1521,1551,-,Eldest son of Vijayabahu,Kingdom of Kotte ,House of Siri Sanga Bo ,0,0
+Dharmapala,None,1597,1551,1597,-,Grandson and heir of Bhuvanekabãhu VII,Kingdom of Kotte ,House of Siri Sanga Bo ,0,0
+Mayadunne,1501,1581,1521,1581,-,Brother of Bhuvanekabahu VIISon of Vijayabahu VII,Kingdom of Kotte ,House of Siri Sanga Bo ,Bhuvanekabahu VII,Brother
+Rajasinha I,1544,1593,1581,1593,-,Son of Mayadunne,Kingdom of Kotte ,House of Siri Sanga Bo ,Mayadunne,Son
+Rajasuriya,None,None,1593,1594,-,,Kingdom of Kotte ,House of Siri Sanga Bo ,0,0
+Vimaladharmasuriya I,None,1604,1591,1604,-,Son of Vijayasundara Bandara,Kingdom of Kandy ,House of Dinajara ,0,0
+Senarat,None,1635,1604,1635,-,Cousin of Vimala Dharma Suriya I,Kingdom of Kandy ,House of Dinajara ,0,0
+Rajasinghe II,1608,1687,1635,1687,-,Son of Senarat and Dona Catherina,Kingdom of Kandy ,House of Dinajara ,Senarat,Son
+Vimaladharmasurya II,None,1707,1687,1707,-,Son of King Rajasinghe II,Kingdom of Kandy ,House of Dinajara ,Rajasinghe II,Son
+Vira Narendra Sinha,1690,1739,1707,1739,-,Son of Vimala Dharma Suriya II,Kingdom of Kandy ,House of Dinajara ,0,0
+Sri Vijaya Rajasinha,None,1747,1739,1747,1 Madurai Spouse,Brother-in-law of Vira Narendra Sinha,Kingdom of Kandy ,Nayaks of Kandy ,Vira Narendra Sinha,0
+Kirti Sri Rajasinha,1734,1782,1747,1782,6 Madurai SpousesYakada Doli2 sons; 6 daughters,Brother-in-law of Sri Vijaya Rajasinha,Kingdom of Kandy ,Nayaks of Kandy ,Sri Vijaya Rajasinha,0
+Sri Rajadhi Rajasinha,None,1798,1782,1798,Queen Upendramma,Brother of Kirti Sri Rajasinha,Kingdom of Kandy ,Nayaks of Kandy ,Kirti Sri Rajasinha,Brother
+Sri Vikrama Rajasinha,1780,1832,1798,1815,4 spouses3 children,Nephew of Sri Rajadhi Rajasinha,Kingdom of Kandy ,Nayaks of Kandy ,Sri Rajadhi Rajasinha,Nephew
