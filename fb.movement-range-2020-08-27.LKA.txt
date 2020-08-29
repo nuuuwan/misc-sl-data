@@ -1,3 +1,4 @@
+ds	country	polygon_source	polygon_id	polygon_name	all_day_bing_tiles_visited_relative_change	all_day_ratio_single_tile_users	baseline_name	baseline_type
 2020-03-01	LKA	GADM	LKA.1.16_1	Sainthamarathu	-0.03576	0.14831	full_february	DAY_OF_WEEK
 2020-03-02	LKA	GADM	LKA.1.16_1	Sainthamarathu	-0.01288	0.12947	full_february	DAY_OF_WEEK
 2020-03-03	LKA	GADM	LKA.1.16_1	Sainthamarathu	0.03811	0.13714	full_february	DAY_OF_WEEK
