@@ -4,26 +4,26 @@ Upatissa,None,None,-505,-504,-,Prince Vijaya's Chief Minister,Kingdom of Tambapa
 Panduvasdeva,None,None,-504,-474,-,Nephew of Vijaya,Kingdom of Tambapanni ,House of Vijaya ,Vijaya,Nephew
 Abhaya,None,None,-474,-454,-,Son of Panduvasdeva,Kingdom of Tambapanni ,House of Vijaya ,Panduvasdeva,Son
 Tissa,None,None,-454,-437,-,Younger brother of Abhaya,Kingdom of Tambapanni ,House of Vijaya ,Abhaya,Brother
-Pandukabhaya,-474,-367,-437,-367,-,Grandson of PanduvasudevaNephew of Abhaya and Tissa,Anuradhapura Kingdom ,None,Tissa,Nephew
-Mutasiva,None,None,-367,-307,-,Son of Pandukabhaya,Anuradhapura Kingdom ,None,Pandukabhaya,Son
-Devanampiya Tissa,None,-267,-307,-267,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
-Uttiya,None,None,-267,-257,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
-Mahasiva,None,None,-257,-247,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
-Suratissa,None,-237,-247,-237,-,Son of Pandukabhaya,Anuradhapura Kingdom ,None,0,0
-Sena and Guttika,None,None,-237,-215,-,Defeated Suratissa in battle.,Anuradhapura Kingdom ,None,Suratissa,0
-Asela,None,None,-215,-205,-,Son of Mutasiva,Anuradhapura Kingdom ,None,Mutasiva,Son
-Elara,None,None,-205,-161,-,Defeated Asela in battle,Anuradhapura Kingdom ,None,Asela,0
-Dutugamunu the Great ,None,None,-161,-137,-,Defeated ElaraEldest son of Kavan TissaOriginally the ruler of Ruhuna,Anuradhapura Kingdom ,None,Elara,Son
-Saddha Tissa,None,None,-137,-119,-,Brother of Dutugemunu,Anuradhapura Kingdom ,None,0,0
-Thulatthana,None,None,-119,-119,-,Second son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Son
-Lanja Tissa,None,None,-119,-109,-,Older brother of ThullattanaOldest son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Brother
-Khallata Naga,None,None,-109,-103,-,Brother of Lanja TissaThird son of Saddha Tissa,Anuradhapura Kingdom ,None,Lanja Tissa,Brother
-Vattagamani Abhaya,None,None,-103,-103,-,Fourth son of Saddha Tissa,Anuradhapura Kingdom ,None,Saddha Tissa,Son
-Pulahatta,None,None,-103,-100,-,Tamil Chief,Anuradhapura Kingdom ,None,0,0
-Bahiya,None,None,-100,-98,-,Chief Minister of Pulahatha,Anuradhapura Kingdom ,None,0,0
-Panya Mara,None,None,-98,-91,-,Prime Minister of Bahiya,Anuradhapura Kingdom ,None,Bahiya,0
-Pilaya Mara,None,None,-91,-90,-,Chief Minister of Panayamara,Anuradhapura Kingdom ,None,0,0
-Dathika,None,None,-90,-89,-,Chief Minister of Pilayamara,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Pandukabhaya,-474,-367,-437,-367,-,Grandson of PanduvasudevaNephew of Abhaya and Tissa,Anuradhapura Kingdom ,House of Vijaya ,Tissa,Nephew
+Mutasiva,None,None,-367,-307,-,Son of Pandukabhaya,Anuradhapura Kingdom ,House of Vijaya ,Pandukabhaya,Son
+Devanampiya Tissa,None,-267,-307,-267,-,Son of Mutasiva,Anuradhapura Kingdom ,House of Vijaya ,Mutasiva,Son
+Uttiya,None,None,-267,-257,-,Son of Mutasiva,Anuradhapura Kingdom ,House of Vijaya ,Mutasiva,Son
+Mahasiva,None,None,-257,-247,-,Son of Mutasiva,Anuradhapura Kingdom ,House of Vijaya ,Mutasiva,Son
+Suratissa,None,-237,-247,-237,-,Son of Pandukabhaya,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Sena and Guttika,None,None,-237,-215,-,Defeated Suratissa in battle.,Anuradhapura Kingdom ,Sena and Guttika ,Suratissa,0
+Asela,None,None,-215,-205,-,Son of Mutasiva,Anuradhapura Kingdom ,House of Vijaya ,Mutasiva,Son
+Elara,None,None,-205,-161,-,Defeated Asela in battle,Anuradhapura Kingdom ,Elara ,Asela,0
+Dutugamunu the Great ,None,None,-161,-137,-,Defeated ElaraEldest son of Kavan TissaOriginally the ruler of Ruhuna,Anuradhapura Kingdom ,House of Vijaya ,Elara,Son
+Saddha Tissa,None,None,-137,-119,-,Brother of Dutugemunu,Anuradhapura Kingdom ,House of Vijaya ,0,0
+Thulatthana,None,None,-119,-119,-,Second son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Saddha Tissa,Son
+Lanja Tissa,None,None,-119,-109,-,Older brother of ThullattanaOldest son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Saddha Tissa,Brother
+Khallata Naga,None,None,-109,-103,-,Brother of Lanja TissaThird son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Lanja Tissa,Brother
+Vattagamani Abhaya,None,None,-103,-103,-,Fourth son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Saddha Tissa,Son
+Pulahatta,None,None,-103,-100,-,Tamil Chief,Anuradhapura Kingdom ,The Five Dravidans ,0,0
+Bahiya,None,None,-100,-98,-,Chief Minister of Pulahatha,Anuradhapura Kingdom ,The Five Dravidans ,0,0
+Panya Mara,None,None,-98,-91,-,Prime Minister of Bahiya,Anuradhapura Kingdom ,The Five Dravidans ,Bahiya,0
+Pilaya Mara,None,None,-91,-90,-,Chief Minister of Panayamara,Anuradhapura Kingdom ,The Five Dravidans ,0,0
+Dathika,None,None,-90,-89,-,Chief Minister of Pilayamara,Anuradhapura Kingdom ,The Five Dravidans ,0,0
 Vattagamani Abhaya,None,None,-89,-77,-,Fourth son of Saddha Tissa,Anuradhapura Kingdom ,House of Vijaya ,Saddha Tissa,Son
 Mahakuli Mahatissa,None,None,-77,-63,-,Son of KhallatanagaNephew and adopted son of Valagambahu I,Anuradhapura Kingdom ,House of Vijaya ,0,0
 Chora Naga ,None,None,-63,-51,-,Son of Valagambahu ICousin of Mahakuli Mahatissa,Anuradhapura Kingdom ,House of Vijaya ,Mahakuli Mahatissa,Son
