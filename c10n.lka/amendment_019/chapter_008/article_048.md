@@ -1,0 +1,9 @@
+*Cabinet of Ministers after dissolution of Parliament.*
+
+# 48.
+
+    1. The Cabinet of Ministers functioning immediately prior to the dissolution of Parliament shall notwithstanding such dissolution continue to function and shall cease to function upon the conclusion of the General Election and accordingly, the Prime Minister, Ministers of the Cabinet of Ministers, other Ministers and Deputy Ministers shall continue to function unless they cease to hold office as provided in paragraph (a) or (b) of Article 47.
+
+    2. Notwithstanding the death, removal from office or resignation of the Prime Minister, during the period intervening between the dissolution of Parliament and the conclusion of the General Election, the Cabinet of Ministers shall continue to function with the other Ministers of the Cabinet as its members until the conclusion of the General Election. The President may appoint one such Minister to exercise, perform and discharge, or may himself exercise, perform and discharge the powers, duties and functions of the Prime Minister. If there is no such other Minister the President shall himself exercise perform and discharge the powers, duties and functions of the Cabinet of Ministers until the conclusion of the General Election.
+
+    3. On the death, removal from office or resignation, during the period intervening between the dissolution of Parliament and the conclusion of the General Election, of a Minister of the Cabinet of Ministers or any other Minister, the President may appoint any other Minister to be the Minister in charge of such Ministry or to exercise, perform and discharge the powers, duties and functions of such Minister or may himself take charge of such Ministry or exercise, perform and discharge such powers, duties and functions.

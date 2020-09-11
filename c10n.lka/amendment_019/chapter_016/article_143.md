@@ -1,0 +1,5 @@
+*Power to grant injunctions.*
+
+# 143. The Court of Appeal shall have the power to grant and issue injunctions to prevent any irremediable mischief which might ensure before a party making an application for such injunction could prevent the same by bringing an action in any Court of First Instance :
+
+Provided that it shall not be lawful for the Court of Appeal to grant an injunction to prevent a party to any action in any court from appealing to or prosecuting an appeal to the Court of Appeal or to prevent any party to any action in any court from insisting upon any ground of action, defence or appeal, or to prevent any person from suing or prosecuting in any court, except where such person has instituted two separate actions in two different courts for and in respect of the same cause of action, in which case the Court of Appeal shall have the power to intervene by restraining him from prosecuting one or other of such actions as to it may seem fit.

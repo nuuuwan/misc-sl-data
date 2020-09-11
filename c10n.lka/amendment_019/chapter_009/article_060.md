@@ -1,0 +1,5 @@
+*Interference with Public Service Commission &c. an offence.*
+
+# 60. Every person who, otherwise than in the course of his duty, directly or indirectly, by himself or by any other person, in any matter whatsoever, influences or attempts to influence any decision of the Public Service Commission, or of any Committee thereof, or of any member of such Commission or of any public officer exercising any powers delegated by such Commission or Committee, shall be guilty of an offence, and shall, on conviction by the High Court after trial without a jury be liable to a fine not exceeding one thousand rupees or to imprisonment for a term not exceeding one year or to both such fine and such imprison­ment and fine:
+
+Provided that nothing in this Article shall prohibit any person from giving a certificate or testimonial to any applicant or candidate for any public office.

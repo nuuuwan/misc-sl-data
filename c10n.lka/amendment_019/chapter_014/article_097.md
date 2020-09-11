@@ -1,0 +1,3 @@
+*Proclamation of names &c. of electoral districts.*
+
+# 97. The President shall by Proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of the provisions of paragraph (4) of Article 96 in accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.

@@ -1,0 +1,5 @@
+*First President.*
+
+# 160. Notwithstanding anything to the contrary in any other provision of the Constitution, the person holding the office of President immediately before the commencement of the Constitution shall be the first President under the Constitution and shall be deemed for all purposes to have been elected as the President of the Republic, and shall, subject, to the provisions of Article 31, hold office for a period of six  years from February 4, 1978.
+
+The President shall, notwithstanding the provisions of Article 32, be deemed to have assumed office immediately upon the commencement of the Constitution and shall be entitled thereupon to exercise, perform and discharge all the powers, duties and functions conferred or imposed on, or assigned to, the President by the Constitution or otherwise. The President shall, as soon as possible thereafter at a sitting of Parliament, take and subscribe the oath or make and subscribe the affirmation set out in the Fourth Schedule.
