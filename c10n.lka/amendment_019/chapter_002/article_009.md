@@ -2,4 +2,4 @@
 
 # 9. The Republic of Sri Lanka shall give to Buddhism the foremost place and accordingly it shall be the duty of the State to protect and foster the Buddha Sasana, while assuring to all religions the rights granted by Articles 10 and 14(1)
 
-        e. .
+    e. .

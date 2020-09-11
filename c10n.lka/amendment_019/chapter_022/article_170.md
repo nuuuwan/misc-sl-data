@@ -24,28 +24,28 @@ No act of such person or proceeding held before such person, prior to such deter
 
 “public officer” means a person who holds any paid office under the Republic other than a judicial officer but does not include—
 
-        a. the President;
+    a. the President;
 
-        b. the Speaker;
+    b. the Speaker;
 
-        c. a Minister;
+    c. a Minister;
 
-        d. a member of the Judicial Service Commission;
+    d. a member of the Judicial Service Commission;
 
-        e. a member of the Public Service Commission;
+    e. a member of the Public Service Commission;
 
-        f. a Deputy Minister;
+    f. a Deputy Minister;
 
-        g. a Member of Parliament;
+    g. a Member of Parliament;
 
-        h. the Secretary-General of Parliament;
+    h. the Secretary-General of Parliament;
 
-        i. a member of the President’s staff;
+    i. a member of the President’s staff;
 
-        j. a member of the staff of the Secretary-General of Parliament
+    j. a member of the staff of the Secretary-General of Parliament
 
-        "recognized political party” means unless Parliament otherwise provides, every political party which is treated as a recognized political party under the Ceylon (Parliamentary Elections) Order in Council, 1946;
+    "recognized political party” means unless Parliament otherwise provides, every political party which is treated as a recognized political party under the Ceylon (Parliamentary Elections) Order in Council, 1946;
 
-        “territorial waters" includes the territorial sea and the historic waters of Sri Lanka;
+    “territorial waters" includes the territorial sea and the historic waters of Sri Lanka;
 
-        “written law” means any law and subordinate legislation and includes statutes made by a Provincial Council, Orders, Proclamations, Rules, By-laws and Regulations made or issued by any body or person having power or authority under any law to make or issue the same.
+    “written law” means any law and subordinate legislation and includes statutes made by a Provincial Council, Orders, Proclamations, Rules, By-laws and Regulations made or issued by any body or person having power or authority under any law to make or issue the same.

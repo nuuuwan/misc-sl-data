@@ -4,6 +4,6 @@
 
 Provided that Parliament shall not make any law—
 
-        a. suspending the operation of the Constitution or any part thereof, or
+    a. suspending the operation of the Constitution or any part thereof, or
 
-        b. repealing the Constitution as a whole unless such law also enacts a new Constitution to replace it.
+    b. repealing the Constitution as a whole unless such law also enacts a new Constitution to replace it.
