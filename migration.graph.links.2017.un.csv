@@ -1,4 +1,4 @@
-country_name_origin,country_name_dest,population
+source,target,value
 AFG,ARG,9
 AFG,AUS,45610
 AFG,AUT,36607
