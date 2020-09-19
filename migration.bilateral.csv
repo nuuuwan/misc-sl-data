@@ -1,4 +1,4 @@
-﻿Country Origin Name,Country Origin Code,Country Dest Name,Country Dest Code,2000 [2000]
+﻿country_origin,country_origin_iso3,country_dest,country_dest_iso3,population
 Bangladesh,BGD,France,FRA,23422
 Bangladesh,BGD,Afghanistan,AFG,41817
 Bangladesh,BGD,Albania,ALB,0
