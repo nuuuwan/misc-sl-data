@@ -1,65 +1,74 @@
 source,target,value
-Australia,India,9
-India,Australia,13
-England,New Zealand,7
-South Africa,England,8
-England,South Africa,10
 South Africa,West Indies,6
+Australia,India,9
 New Zealand,Bangladesh,7
-New Zealand,England,4
-Sri Lanka,West Indies,4
-West Indies,Sri Lanka,2
-Australia,West Indies,10
+India,Australia,13
+No Result,Australia,11
 South Africa,Bangladesh,6
+New Zealand,England,4
+England,New Zealand,7
+Sri Lanka,West Indies,4
+No Result,India,14
 South Africa,India,6
+West Indies,Sri Lanka,2
 India,South Africa,10
+No Result,England,19
+Australia,West Indies,10
+No Result,West Indies,12
+South Africa,England,8
 Sri Lanka,India,4
 India,Sri Lanka,10
-England,Australia,13
-Australia,England,16
-Australia,South Africa,8
-South Africa,Australia,11
+England,South Africa,10
+No Result,Bangladesh,10
 Australia,New Zealand,12
-West Indies,England,6
 India,England,9
-India,New Zealand,7
+South Africa,Australia,11
 Sri Lanka,Bangladesh,5
+Australia,South Africa,8
+West Indies,England,6
+No Result,Pakistan,10
+India,New Zealand,7
+No Result,New Zealand,15
 England,West Indies,10
-Bangladesh,West Indies,4
 Sri Lanka,Pakistan,9
+Bangladesh,West Indies,4
+England,Australia,13
+No Result,Sri Lanka,13
+Australia,England,16
 Sri Lanka,New Zealand,4
-Australia,Pakistan,9
 New Zealand,Pakistan,6
 Pakistan,New Zealand,4
-Pakistan,Australia,4
+No Result,South Africa,7
+Australia,Pakistan,9
+India,Bangladesh,5
 England,Bangladesh,5
+Pakistan,Australia,4
 England,Pakistan,7
 Pakistan,England,9
-India,Bangladesh,5
-England,Sri Lanka,7
-England,India,13
 West Indies,Pakistan,3
 Pakistan,West Indies,5
+England,Sri Lanka,7
 India,West Indies,11
-South Africa,Sri Lanka,6
-Sri Lanka,South Africa,5
-Australia,Sri Lanka,6
-New Zealand,Australia,1
-New Zealand,Zimbabwe,4
-South Africa,New Zealand,5
-Sri Lanka,England,2
+England,India,13
 Zimbabwe,Bangladesh,3
+Australia,Sri Lanka,6
 Pakistan,Zimbabwe,2
 Pakistan,Sri Lanka,5
 West Indies,Bangladesh,6
+New Zealand,Zimbabwe,4
+New Zealand,Australia,1
 Pakistan,Bangladesh,4
+South Africa,Sri Lanka,6
+Sri Lanka,South Africa,5
+South Africa,New Zealand,5
+Sri Lanka,England,2
 West Indies,New Zealand,3
-South Africa,Pakistan,7
 New Zealand,Sri Lanka,7
+South Africa,Pakistan,7
 West Indies,Zimbabwe,3
 Bangladesh,Zimbabwe,6
-Pakistan,South Africa,1
 Zimbabwe,Pakistan,1
+Pakistan,South Africa,1
 New Zealand,West Indies,6
 New Zealand,India,3
 South Africa,Zimbabwe,2
@@ -69,9 +78,10 @@ Sri Lanka,Zimbabwe,4
 Bangladesh,Sri Lanka,1
 Bangladesh,Australia,1
 Australia,Bangladesh,1
+No Result,Zimbabwe,2
 Pakistan,Ireland,1
 India,Afghanistan,1
-England,Ireland,1
 Afghanistan,Ireland,1
-West Indies,Afghanistan,1
+England,Ireland,1
 Afghanistan,Bangladesh,1
+West Indies,Afghanistan,1
