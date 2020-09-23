@@ -1,18 +1,10 @@
 [
   {
-    "id": " A.Rajakaruna",
+    "id": "A.Rajakaruna",
     "grade": "U",
     "locations": [
       "Punchi Borella Junction",
       "Welikada Prison"
-    ]
-  },
-  {
-    "id": " E.W.Perera",
-    "grade": "U",
-    "locations": [
-      "Punchi Borella Junction",
-      "Town Hall (Colombo)"
     ]
   },
   {
@@ -528,16 +520,16 @@
     ]
   },
   {
-    "id": "AB016 ",
-    "grade": "U",
+    "id": "AB016",
+    "grade": "AB",
     "locations": [
       "Jaffna",
       "Kankesanturai"
     ]
   },
   {
-    "id": "AB017 ",
-    "grade": "U",
+    "id": "AB017",
+    "grade": "AB",
     "locations": [
       "Jaffna",
       "Manipay",
@@ -546,24 +538,24 @@
     ]
   },
   {
-    "id": "AB018 ",
-    "grade": "U",
+    "id": "AB018",
+    "grade": "AB",
     "locations": [
       "Jaffna",
       "Palali"
     ]
   },
   {
-    "id": "AB019 ",
-    "grade": "U",
+    "id": "AB019",
+    "grade": "AB",
     "locations": [
       "Jaffna",
       "Kayts"
     ]
   },
   {
-    "id": "AB020 ",
-    "grade": "U",
+    "id": "AB020",
+    "grade": "AB",
     "locations": [
       "Jaffna",
       "Puttur (Jaffna)",
@@ -583,8 +575,8 @@
     ]
   },
   {
-    "id": "AB029 ",
-    "grade": "U",
+    "id": "AB029",
+    "grade": "AB",
     "locations": [
       "Pasyala",
       "Mirigama",
@@ -601,16 +593,16 @@
     ]
   },
   {
-    "id": "AB032 ",
-    "grade": "U",
+    "id": "AB032",
+    "grade": "AB",
     "locations": [
       "Puttur (Jaffna)",
       "Meesalai"
     ]
   },
   {
-    "id": "AB039 ",
-    "grade": "U",
+    "id": "AB039",
+    "grade": "AB",
     "locations": [
       "Araly",
       "Punkudutivu",
@@ -672,7 +664,7 @@
     ]
   },
   {
-    "id": "B008 ",
+    "id": "B008",
     "grade": "B",
     "locations": [
       "Alawwa",
@@ -680,7 +672,7 @@
     ]
   },
   {
-    "id": "B009 ",
+    "id": "B009",
     "grade": "B",
     "locations": [
       "Alawwa",
@@ -688,7 +680,7 @@
     ]
   },
   {
-    "id": "B010 ",
+    "id": "B010",
     "grade": "B",
     "locations": [
       "Kantale",
@@ -696,7 +688,7 @@
     ]
   },
   {
-    "id": "B013 ",
+    "id": "B013",
     "grade": "B",
     "locations": [
       "Welisara",
@@ -705,7 +697,7 @@
     ]
   },
   {
-    "id": "B014 ",
+    "id": "B014",
     "grade": "B",
     "locations": [
       "Ambalangoda",
@@ -724,7 +716,7 @@
     ]
   },
   {
-    "id": "B036 ",
+    "id": "B036",
     "grade": "B",
     "locations": [
       "Badulla",
@@ -734,7 +726,7 @@
     ]
   },
   {
-    "id": "B038 ",
+    "id": "B038",
     "grade": "B",
     "locations": [
       "Balangoda",
@@ -742,7 +734,7 @@
     ]
   },
   {
-    "id": "B039 ",
+    "id": "B039",
     "grade": "B",
     "locations": [
       "Balangoda",
@@ -760,7 +752,7 @@
     ]
   },
   {
-    "id": "B047 ",
+    "id": "B047",
     "grade": "B",
     "locations": [
       "Battaramulla",
@@ -769,7 +761,7 @@
     ]
   },
   {
-    "id": "B054 ",
+    "id": "B054",
     "grade": "B",
     "locations": [
       "Beliatta",
@@ -777,7 +769,7 @@
     ]
   },
   {
-    "id": "B057 ",
+    "id": "B057",
     "grade": "B",
     "locations": [
       "Bibile",
@@ -787,7 +779,7 @@
     ]
   },
   {
-    "id": "B060 ",
+    "id": "B060",
     "grade": "B",
     "locations": [
       "Bogahawewa (Padaviya, Anuradhapura)",
@@ -795,7 +787,7 @@
     ]
   },
   {
-    "id": "B062 ",
+    "id": "B062",
     "grade": "B",
     "locations": [
       "Borella Tunnel",
@@ -804,7 +796,7 @@
     ]
   },
   {
-    "id": "B063 ",
+    "id": "B063",
     "grade": "B",
     "locations": [
       "Keenadeniya Junction Bus Stop",
@@ -812,7 +804,7 @@
     ]
   },
   {
-    "id": "B071 ",
+    "id": "B071",
     "grade": "B",
     "locations": [
       "Dick Oya",
@@ -829,7 +821,7 @@
     ]
   },
   {
-    "id": "B084 ",
+    "id": "B084",
     "grade": "B",
     "locations": [
       "Havelock Bo Tree (Colombo)",
@@ -843,7 +835,7 @@
     ]
   },
   {
-    "id": "B093 ",
+    "id": "B093",
     "grade": "B",
     "locations": [
       "Dehiowita",
@@ -852,7 +844,7 @@
     ]
   },
   {
-    "id": "B094 ",
+    "id": "B094",
     "grade": "B",
     "locations": [
       "Dehiwala Junction",
@@ -862,7 +854,7 @@
     ]
   },
   {
-    "id": "B096 ",
+    "id": "B096",
     "grade": "B",
     "locations": [
       "Dematagoda",
@@ -871,7 +863,7 @@
     ]
   },
   {
-    "id": "B111 ",
+    "id": "B111",
     "grade": "B",
     "locations": [
       "Ekala",
@@ -882,7 +874,7 @@
     ]
   },
   {
-    "id": "B112 ",
+    "id": "B112",
     "grade": "B",
     "locations": [
       "Elahera",
@@ -890,7 +882,7 @@
     ]
   },
   {
-    "id": "B120 ",
+    "id": "B120",
     "grade": "B",
     "locations": [
       "Etulkotte",
@@ -911,7 +903,7 @@
     ]
   },
   {
-    "id": "B146 ",
+    "id": "B146",
     "grade": "B",
     "locations": [
       "Hanwella",
@@ -951,7 +943,7 @@
     ]
   },
   {
-    "id": "B158 ",
+    "id": "B158",
     "grade": "B",
     "locations": [
       "Horawela",
@@ -961,7 +953,7 @@
     ]
   },
   {
-    "id": "B181 ",
+    "id": "B181",
     "grade": "B",
     "locations": [
       "Kalawana",
@@ -979,7 +971,7 @@
     ]
   },
   {
-    "id": "B208 ",
+    "id": "B208",
     "grade": "B",
     "locations": [
       "Katunayake",
@@ -998,7 +990,7 @@
     ]
   },
   {
-    "id": "B216 ",
+    "id": "B216",
     "grade": "B",
     "locations": [
       "Kesbewa",
@@ -1007,7 +999,7 @@
     ]
   },
   {
-    "id": "B229 ",
+    "id": "B229",
     "grade": "B",
     "locations": [
       "Kohuwela",
@@ -1015,7 +1007,7 @@
     ]
   },
   {
-    "id": "B231 ",
+    "id": "B231",
     "grade": "B",
     "locations": [
       "Kolonnawa",
@@ -1024,7 +1016,7 @@
     ]
   },
   {
-    "id": "B232 ",
+    "id": "B232",
     "grade": "B",
     "locations": [
       "Kolonnawa",
@@ -1044,7 +1036,7 @@
     ]
   },
   {
-    "id": "B247 ",
+    "id": "B247",
     "grade": "B",
     "locations": [
       "Kurunegala",
@@ -1053,7 +1045,7 @@
     ]
   },
   {
-    "id": "B263 ",
+    "id": "B263",
     "grade": "B",
     "locations": [
       "Malabe",
@@ -1062,7 +1054,7 @@
     ]
   },
   {
-    "id": "B269 ",
+    "id": "B269",
     "grade": "B",
     "locations": [
       "Mankulam (Mullaitivu)",
@@ -1071,7 +1063,7 @@
     ]
   },
   {
-    "id": "B274 ",
+    "id": "B274",
     "grade": "B",
     "locations": [
       "Matale",
@@ -1092,7 +1084,7 @@
     ]
   },
   {
-    "id": "B278 ",
+    "id": "B278",
     "grade": "B",
     "locations": [
       "Mawanella",
@@ -1109,7 +1101,7 @@
     ]
   },
   {
-    "id": "B285 ",
+    "id": "B285",
     "grade": "B",
     "locations": [
       "Meepe",
@@ -1118,7 +1110,7 @@
     ]
   },
   {
-    "id": "B291 ",
+    "id": "B291",
     "grade": "B",
     "locations": [
       "Mirihana",
@@ -1127,7 +1119,7 @@
     ]
   },
   {
-    "id": "B296 ",
+    "id": "B296",
     "grade": "B",
     "locations": [
       "Puliyankulam (Vavuniya)",
@@ -1144,7 +1136,7 @@
     ]
   },
   {
-    "id": "B304 ",
+    "id": "B304",
     "grade": "B",
     "locations": [
       "Katukurunda",
@@ -1157,7 +1149,7 @@
     ]
   },
   {
-    "id": "B307 ",
+    "id": "B307",
     "grade": "B",
     "locations": [
       "Narahenpita Police Station",
@@ -1166,7 +1158,7 @@
     ]
   },
   {
-    "id": "B308 ",
+    "id": "B308",
     "grade": "B",
     "locations": [
       "Narammala",
@@ -1176,7 +1168,7 @@
     ]
   },
   {
-    "id": "B312 ",
+    "id": "B312",
     "grade": "B",
     "locations": [
       "Naula (Matale)",
@@ -1186,7 +1178,7 @@
     ]
   },
   {
-    "id": "B317 ",
+    "id": "B317",
     "grade": "B",
     "locations": [
       "Nawalapitiya",
@@ -1194,7 +1186,7 @@
     ]
   },
   {
-    "id": "B318 ",
+    "id": "B318",
     "grade": "B",
     "locations": [
       "Nawalapitiya",
@@ -1202,7 +1194,7 @@
     ]
   },
   {
-    "id": "B319 ",
+    "id": "B319",
     "grade": "B",
     "locations": [
       "Nawalapitiya",
@@ -1210,7 +1202,7 @@
     ]
   },
   {
-    "id": "B322 ",
+    "id": "B322",
     "grade": "B",
     "locations": [
       "Negombo",
@@ -1218,7 +1210,7 @@
     ]
   },
   {
-    "id": "B324 ",
+    "id": "B324",
     "grade": "B",
     "locations": [
       "Negombo",
@@ -1227,7 +1219,7 @@
     ]
   },
   {
-    "id": "B328 ",
+    "id": "B328",
     "grade": "B",
     "locations": [
       "Norton Bridge (Nuwara Eliya)",
@@ -1244,7 +1236,7 @@
     ]
   },
   {
-    "id": "B332 ",
+    "id": "B332",
     "grade": "B",
     "locations": [
       "Nuwara Eliya",
@@ -1262,7 +1254,7 @@
     ]
   },
   {
-    "id": "B345 ",
+    "id": "B345",
     "grade": "B",
     "locations": [
       "Nugegoda Railway",
@@ -1271,7 +1263,7 @@
     ]
   },
   {
-    "id": "B355 ",
+    "id": "B355",
     "grade": "B",
     "locations": [
       "Panama (Ampara)",
@@ -1279,7 +1271,7 @@
     ]
   },
   {
-    "id": "B363 ",
+    "id": "B363",
     "grade": "B",
     "locations": [
       "Pelawatta (Kalutara)",
@@ -1288,7 +1280,7 @@
     ]
   },
   {
-    "id": "B364 ",
+    "id": "B364",
     "grade": "B",
     "locations": [
       "Peradeniya",
@@ -1297,7 +1289,7 @@
     ]
   },
   {
-    "id": "B365 ",
+    "id": "B365",
     "grade": "B",
     "locations": [
       "Peradeniya",
@@ -1306,7 +1298,7 @@
     ]
   },
   {
-    "id": "B367 ",
+    "id": "B367",
     "grade": "B",
     "locations": [
       "Piliyandala",
@@ -1314,7 +1306,7 @@
     ]
   },
   {
-    "id": "B368 ",
+    "id": "B368",
     "grade": "B",
     "locations": [
       "Pitakotte",
@@ -1323,7 +1315,7 @@
     ]
   },
   {
-    "id": "B374 ",
+    "id": "B374",
     "grade": "B",
     "locations": [
       "Pottuvil",
@@ -1340,7 +1332,7 @@
     ]
   },
   {
-    "id": "B389 ",
+    "id": "B389",
     "grade": "B",
     "locations": [
       "Rathmalana",
@@ -1351,7 +1343,7 @@
     ]
   },
   {
-    "id": "B391 ",
+    "id": "B391",
     "grade": "B",
     "locations": [
       "Ratnapura",
@@ -1360,7 +1352,7 @@
     ]
   },
   {
-    "id": "B400 ",
+    "id": "B400",
     "grade": "B",
     "locations": [
       "Seeduwa Junction",
@@ -1378,7 +1370,7 @@
     ]
   },
   {
-    "id": "B413 ",
+    "id": "B413",
     "grade": "B",
     "locations": [
       "Tennekumbura",
@@ -1399,7 +1391,7 @@
     ]
   },
   {
-    "id": "B419 ",
+    "id": "B419",
     "grade": "B",
     "locations": [
       "Kochchikade",
@@ -1408,7 +1400,7 @@
     ]
   },
   {
-    "id": "B421 ",
+    "id": "B421",
     "grade": "B",
     "locations": [
       "Tiruwanaketiya",
@@ -1418,7 +1410,7 @@
     ]
   },
   {
-    "id": "B422 ",
+    "id": "B422",
     "grade": "B",
     "locations": [
       "Tissamaharama",
@@ -1426,7 +1418,7 @@
     ]
   },
   {
-    "id": "B423 ",
+    "id": "B423",
     "grade": "B",
     "locations": [
       "Thoniyagala",
@@ -1453,7 +1445,7 @@
     ]
   },
   {
-    "id": "B430 ",
+    "id": "B430",
     "grade": "B",
     "locations": [
       "Udugampola",
@@ -1462,7 +1454,7 @@
     ]
   },
   {
-    "id": "B435 ",
+    "id": "B435",
     "grade": "B",
     "locations": [
       "Urugodawatte",
@@ -1473,7 +1465,7 @@
     ]
   },
   {
-    "id": "B445 ",
+    "id": "B445",
     "grade": "B",
     "locations": [
       "Veyangoda",
@@ -1483,7 +1475,7 @@
     ]
   },
   {
-    "id": "B456 ",
+    "id": "B456",
     "grade": "B",
     "locations": [
       "Warakapola",
@@ -1492,7 +1484,7 @@
     ]
   },
   {
-    "id": "B457 ",
+    "id": "B457",
     "grade": "B",
     "locations": [
       "Warakapola",
@@ -1525,7 +1517,7 @@
     ]
   },
   {
-    "id": "B469 ",
+    "id": "B469",
     "grade": "B",
     "locations": [
       "Welikada Plaza",
@@ -1535,7 +1527,7 @@
     ]
   },
   {
-    "id": "B470 ",
+    "id": "B470",
     "grade": "B",
     "locations": [
       "Welikada Plaza",
@@ -1543,7 +1535,7 @@
     ]
   },
   {
-    "id": "B471 ",
+    "id": "B471",
     "grade": "B",
     "locations": [
       "Welimada",
@@ -1551,7 +1543,7 @@
     ]
   },
   {
-    "id": "B479 ",
+    "id": "B479",
     "grade": "B",
     "locations": [
       "Yakkala",
@@ -1559,7 +1551,7 @@
     ]
   },
   {
-    "id": "B485 ",
+    "id": "B485",
     "grade": "B",
     "locations": [
       "Walasmulla",
@@ -1569,7 +1561,7 @@
     ]
   },
   {
-    "id": "B486 ",
+    "id": "B486",
     "grade": "B",
     "locations": [
       "Embilipitiya",
@@ -1577,7 +1569,7 @@
     ]
   },
   {
-    "id": "B488 ",
+    "id": "B488",
     "grade": "B",
     "locations": [
       "Polonnaruwa",
@@ -1589,7 +1581,7 @@
     ]
   },
   {
-    "id": "B492 ",
+    "id": "B492",
     "grade": "B",
     "locations": [
       "Kandehandiya",
@@ -1598,7 +1590,7 @@
     ]
   },
   {
-    "id": "B499 ",
+    "id": "B499",
     "grade": "B",
     "locations": [
       "Kirinda",
@@ -1606,7 +1598,7 @@
     ]
   },
   {
-    "id": "B501 ",
+    "id": "B501",
     "grade": "B",
     "locations": [
       "Andara Wewa (Anuradhapura)",
@@ -1625,7 +1617,7 @@
     ]
   },
   {
-    "id": "B504 ",
+    "id": "B504",
     "grade": "B",
     "locations": [
       "Maharagama",
@@ -1662,7 +1654,7 @@
     ]
   },
   {
-    "id": "B528 ",
+    "id": "B528",
     "grade": "B",
     "locations": [
       "Bodagama",
@@ -1671,7 +1663,7 @@
     ]
   },
   {
-    "id": "B530 ",
+    "id": "B530",
     "grade": "B",
     "locations": [
       "Udahamulla",
@@ -1679,7 +1671,7 @@
     ]
   },
   {
-    "id": "B544 ",
+    "id": "B544",
     "grade": "B",
     "locations": [
       "Moragala",
@@ -1695,7 +1687,7 @@
     ]
   },
   {
-    "id": "B627 ",
+    "id": "B627",
     "grade": "B",
     "locations": [
       "Udupussellawa",
@@ -1732,6 +1724,14 @@
     "locations": [
       "Dolosbage",
       "Aranayake"
+    ]
+  },
+  {
+    "id": "E.W.Perera",
+    "grade": "U",
+    "locations": [
+      "Punchi Borella Junction",
+      "Town Hall (Colombo)"
     ]
   },
   {
