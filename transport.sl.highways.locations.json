@@ -1,0 +1,2655 @@
+[
+  {
+    "id": "Kottawa",
+    "lat_lng": [
+      6.8412,
+      79.9654
+    ]
+  },
+  {
+    "id": "Kahathuduwa",
+    "lat_lng": [
+      6.7819,
+      79.9945
+    ]
+  },
+  {
+    "id": "Gelanigama",
+    "lat_lng": [
+      6.7197,
+      80.0012
+    ]
+  },
+  {
+    "id": "Dodangoda Interchage (E01)",
+    "lat_lng": [
+      6.5423,
+      80.0433
+    ]
+  },
+  {
+    "id": "Welipenna Exit",
+    "lat_lng": [
+      6.4525,
+      80.0887
+    ]
+  },
+  {
+    "id": "Kurundugahahetekma",
+    "lat_lng": [
+      6.2707,
+      80.1444
+    ]
+  },
+  {
+    "id": "Baddegama Exit",
+    "lat_lng": [
+      6.1688,
+      80.1794
+    ]
+  },
+  {
+    "id": "Pinnaduwa Interchange",
+    "lat_lng": [
+      6.0689,
+      80.2643
+    ]
+  },
+  {
+    "id": "Imaduwa",
+    "lat_lng": [
+      6.0375,
+      80.3907
+    ]
+  },
+  {
+    "id": "Kokmaduwa Interchange",
+    "lat_lng": [
+      6.0224,
+      80.4336
+    ]
+  },
+  {
+    "id": "Godagama (Matara)",
+    "lat_lng": [
+      5.9714,
+      80.5183
+    ]
+  },
+  {
+    "id": "Athurugiriya Interchange",
+    "lat_lng": [
+      6.8834,
+      79.9765
+    ]
+  },
+  {
+    "id": "Kothalawala Interchange",
+    "lat_lng": [
+      6.9233,
+      79.9792
+    ]
+  },
+  {
+    "id": "Kaduwela Interchange",
+    "lat_lng": [
+      6.9361,
+      79.9716
+    ]
+  },
+  {
+    "id": "Kadawatha",
+    "lat_lng": [
+      7.0014,
+      79.9499
+    ]
+  },
+  {
+    "id": "New Kelani Bridge",
+    "lat_lng": [
+      6.9548,
+      79.8822
+    ]
+  },
+  {
+    "id": "Kerawalapitiya Interchange",
+    "lat_lng": [
+      7.0175,
+      79.89
+    ]
+  },
+  {
+    "id": "Peliyagoda Interchange",
+    "lat_lng": [
+      6.9681,
+      79.8922
+    ]
+  },
+  {
+    "id": "Ja-Ela Interchage",
+    "lat_lng": [
+      7.0816,
+      79.8778
+    ]
+  },
+  {
+    "id": "Katunayake",
+    "lat_lng": [
+      7.1724,
+      79.8855
+    ]
+  },
+  {
+    "id": "6.971, 79.885",
+    "lat_lng": [
+      6.971,
+      79.8851
+    ]
+  },
+  {
+    "id": "Thorana Junction",
+    "lat_lng": [
+      6.9668,
+      79.8998
+    ]
+  },
+  {
+    "id": "Ja-Ela",
+    "lat_lng": [
+      7.0744,
+      79.9131
+    ]
+  },
+  {
+    "id": "Kollupitiya",
+    "lat_lng": [
+      6.9129,
+      79.8507
+    ]
+  },
+  {
+    "id": "Public Library (Colombo)",
+    "lat_lng": [
+      6.9126,
+      79.858
+    ]
+  },
+  {
+    "id": "Alexandra Roundabout (Colombo)",
+    "lat_lng": [
+      6.9115,
+      79.8645
+    ]
+  },
+  {
+    "id": "62 Horton Pl (Colombo)",
+    "lat_lng": [
+      6.9115,
+      79.8707
+    ]
+  },
+  {
+    "id": "96 Kanatta",
+    "lat_lng": [
+      6.9112,
+      79.8774
+    ]
+  },
+  {
+    "id": "Cotta Park (Colombo)",
+    "lat_lng": [
+      6.9105,
+      79.8873
+    ]
+  },
+  {
+    "id": "Welikada Plaza",
+    "lat_lng": [
+      6.9095,
+      79.8958
+    ]
+  },
+  {
+    "id": "Etulkotte",
+    "lat_lng": [
+      6.8914,
+      79.9052
+    ]
+  },
+  {
+    "id": "Sri Jayewardenepura",
+    "lat_lng": [
+      6.8867,
+      79.9182
+    ]
+  },
+  {
+    "id": "Colombo Fort",
+    "lat_lng": [
+      6.9365,
+      79.8451
+    ]
+  },
+  {
+    "id": "Maradana Technical College",
+    "lat_lng": [
+      6.9319,
+      79.8594
+    ]
+  },
+  {
+    "id": "Urugodawatte",
+    "lat_lng": [
+      6.9453,
+      79.8816
+    ]
+  },
+  {
+    "id": "Mudungoda",
+    "lat_lng": [
+      7.0667,
+      80.0122
+    ]
+  },
+  {
+    "id": "Yakkala",
+    "lat_lng": [
+      7.0862,
+      80.0337
+    ]
+  },
+  {
+    "id": "Nittambuwa",
+    "lat_lng": [
+      7.1421,
+      80.1038
+    ]
+  },
+  {
+    "id": "Pasyala",
+    "lat_lng": [
+      7.1666,
+      80.1232
+    ]
+  },
+  {
+    "id": "Warakapola",
+    "lat_lng": [
+      7.2268,
+      80.196
+    ]
+  },
+  {
+    "id": "Ambepussa",
+    "lat_lng": [
+      7.2417,
+      80.2114
+    ]
+  },
+  {
+    "id": "Kegalle",
+    "lat_lng": [
+      7.2512,
+      80.3459
+    ]
+  },
+  {
+    "id": "Mawanella",
+    "lat_lng": [
+      7.248,
+      80.4465
+    ]
+  },
+  {
+    "id": "Peradeniya",
+    "lat_lng": [
+      7.2699,
+      80.5939
+    ]
+  },
+  {
+    "id": "Kandy Town",
+    "lat_lng": [
+      7.2902,
+      80.6338
+    ]
+  },
+  {
+    "id": "Bambalapitiya",
+    "lat_lng": [
+      6.9009,
+      79.8549
+    ]
+  },
+  {
+    "id": "Wellawatta",
+    "lat_lng": [
+      6.8742,
+      79.8605
+    ]
+  },
+  {
+    "id": "Dehiwala Junction",
+    "lat_lng": [
+      6.8504,
+      79.8661
+    ]
+  },
+  {
+    "id": "Mount Lavinia",
+    "lat_lng": [
+      6.8301,
+      79.88
+    ]
+  },
+  {
+    "id": "Rathmalana",
+    "lat_lng": [
+      6.8194,
+      79.8801
+    ]
+  },
+  {
+    "id": "Rawatawatta Junction",
+    "lat_lng": [
+      6.7881,
+      79.8851
+    ]
+  },
+  {
+    "id": "Keselwatta",
+    "lat_lng": [
+      6.7491,
+      79.9027
+    ]
+  },
+  {
+    "id": "Panadura Clock Tower Junction",
+    "lat_lng": [
+      6.7124,
+      79.9075
+    ]
+  },
+  {
+    "id": "Waskaduwa",
+    "lat_lng": [
+      6.6275,
+      79.9429
+    ]
+  },
+  {
+    "id": "Kalutara",
+    "lat_lng": [
+      6.5854,
+      79.9606
+    ]
+  },
+  {
+    "id": "Katukurunda",
+    "lat_lng": [
+      6.5494,
+      79.9834
+    ]
+  },
+  {
+    "id": "Aluthgama",
+    "lat_lng": [
+      6.4341,
+      80.0005
+    ]
+  },
+  {
+    "id": "Ambalangoda",
+    "lat_lng": [
+      6.2442,
+      80.0593
+    ]
+  },
+  {
+    "id": "Hikkaduwa",
+    "lat_lng": [
+      6.1395,
+      80.1063
+    ]
+  },
+  {
+    "id": "Galle Town",
+    "lat_lng": [
+      6.0537,
+      80.2212
+    ]
+  },
+  {
+    "id": "Talpe",
+    "lat_lng": [
+      6.0015,
+      80.2795
+    ]
+  },
+  {
+    "id": "Weligama",
+    "lat_lng": [
+      5.9771,
+      80.4284
+    ]
+  },
+  {
+    "id": "Mirissa",
+    "lat_lng": [
+      5.9488,
+      80.4714
+    ]
+  },
+  {
+    "id": "Matara Town",
+    "lat_lng": [
+      5.955,
+      80.555
+    ]
+  },
+  {
+    "id": "Tangalle",
+    "lat_lng": [
+      6.0245,
+      80.7941
+    ]
+  },
+  {
+    "id": "Nonagama",
+    "lat_lng": [
+      6.1253,
+      80.9816
+    ]
+  },
+  {
+    "id": "Hambantota",
+    "lat_lng": [
+      6.1429,
+      81.1213
+    ]
+  },
+  {
+    "id": "Weerawila",
+    "lat_lng": [
+      6.2422,
+      81.2289
+    ]
+  },
+  {
+    "id": "Thanamalwila",
+    "lat_lng": [
+      6.4398,
+      81.1339
+    ]
+  },
+  {
+    "id": "Wellawaya",
+    "lat_lng": [
+      6.7374,
+      81.1031
+    ]
+  },
+  {
+    "id": "Welisara",
+    "lat_lng": [
+      7.0276,
+      79.8983
+    ]
+  },
+  {
+    "id": "Seeduwa Junction",
+    "lat_lng": [
+      7.1323,
+      79.876
+    ]
+  },
+  {
+    "id": "Negombo",
+    "lat_lng": [
+      7.2004,
+      79.8737
+    ]
+  },
+  {
+    "id": "Kochchikade",
+    "lat_lng": [
+      7.2656,
+      79.8593
+    ]
+  },
+  {
+    "id": "Maravila",
+    "lat_lng": [
+      7.4251,
+      79.8344
+    ]
+  },
+  {
+    "id": "Madampe (Puttalam)",
+    "lat_lng": [
+      7.4973,
+      79.8415
+    ]
+  },
+  {
+    "id": "Chilaw",
+    "lat_lng": [
+      7.5621,
+      79.8016
+    ]
+  },
+  {
+    "id": "Madurankuli",
+    "lat_lng": [
+      7.9081,
+      79.8206
+    ]
+  },
+  {
+    "id": "Puttalam",
+    "lat_lng": [
+      8.0408,
+      79.8394
+    ]
+  },
+  {
+    "id": "1 Union (Colombo)",
+    "lat_lng": [
+      6.9229,
+      79.8527
+    ]
+  },
+  {
+    "id": "Thummulla",
+    "lat_lng": [
+      6.8988,
+      79.8607
+    ]
+  },
+  {
+    "id": "1 Park Road (Colombo)",
+    "lat_lng": [
+      6.8851,
+      79.8672
+    ]
+  },
+  {
+    "id": "Havelock Bo Tree (Colombo)",
+    "lat_lng": [
+      6.8818,
+      79.8699
+    ]
+  },
+  {
+    "id": "100 High Level (Colombo)",
+    "lat_lng": [
+      6.8783,
+      79.8762
+    ]
+  },
+  {
+    "id": "Gangodawila",
+    "lat_lng": [
+      6.869,
+      79.8903
+    ]
+  },
+  {
+    "id": "Gamsabha Junction",
+    "lat_lng": [
+      6.8646,
+      79.8976
+    ]
+  },
+  {
+    "id": "Nawinna",
+    "lat_lng": [
+      6.8534,
+      79.9152
+    ]
+  },
+  {
+    "id": "Maharagama",
+    "lat_lng": [
+      6.8521,
+      79.9249
+    ]
+  },
+  {
+    "id": "Pannipitiya",
+    "lat_lng": [
+      6.8433,
+      79.9555
+    ]
+  },
+  {
+    "id": "Godagama (Colombo)",
+    "lat_lng": [
+      6.8517,
+      80.0327
+    ]
+  },
+  {
+    "id": "Meepe",
+    "lat_lng": [
+      6.8555,
+      80.0931
+    ]
+  },
+  {
+    "id": "Hanwella",
+    "lat_lng": [
+      6.8969,
+      80.0816
+    ]
+  },
+  {
+    "id": "Avissawella",
+    "lat_lng": [
+      6.9543,
+      80.2046
+    ]
+  },
+  {
+    "id": "Ratnapura",
+    "lat_lng": [
+      6.7056,
+      80.3847
+    ]
+  },
+  {
+    "id": "Tiruwanaketiya",
+    "lat_lng": [
+      6.6665,
+      80.4305
+    ]
+  },
+  {
+    "id": "Pelmadulla",
+    "lat_lng": [
+      6.6343,
+      80.5298
+    ]
+  },
+  {
+    "id": "Balangoda",
+    "lat_lng": [
+      6.6627,
+      80.7102
+    ]
+  },
+  {
+    "id": "Kalupahana Junction",
+    "lat_lng": [
+      6.766,
+      80.85
+    ]
+  },
+  {
+    "id": "Beragala",
+    "lat_lng": [
+      6.7636,
+      80.9183
+    ]
+  },
+  {
+    "id": "Koslanda",
+    "lat_lng": [
+      6.743,
+      81.0179
+    ]
+  },
+  {
+    "id": "Buttala",
+    "lat_lng": [
+      6.7596,
+      81.2492
+    ]
+  },
+  {
+    "id": "Monaragala Town",
+    "lat_lng": [
+      6.8906,
+      81.3458
+    ]
+  },
+  {
+    "id": "Siyambalanduwa",
+    "lat_lng": [
+      6.9072,
+      81.561
+    ]
+  },
+  {
+    "id": "Pottuvil",
+    "lat_lng": [
+      6.8753,
+      81.8305
+    ]
+  },
+  {
+    "id": "Akkaraipattu",
+    "lat_lng": [
+      7.2194,
+      81.8498
+    ]
+  },
+  {
+    "id": "Karaitivu",
+    "lat_lng": [
+      7.3771,
+      81.8417
+    ]
+  },
+  {
+    "id": "Kalmunai",
+    "lat_lng": [
+      7.4143,
+      81.8306
+    ]
+  },
+  {
+    "id": "Batticaloa",
+    "lat_lng": [
+      7.7308,
+      81.6753
+    ]
+  },
+  {
+    "id": "Gampola",
+    "lat_lng": [
+      7.1266,
+      80.5651
+    ]
+  },
+  {
+    "id": "Ramboda",
+    "lat_lng": [
+      7.0573,
+      80.6949
+    ]
+  },
+  {
+    "id": "Nuwara Eliya",
+    "lat_lng": [
+      6.9496,
+      80.7891
+    ]
+  },
+  {
+    "id": "Welimada",
+    "lat_lng": [
+      6.9027,
+      80.9094
+    ]
+  },
+  {
+    "id": "Hali-ela",
+    "lat_lng": [
+      6.9567,
+      81.034
+    ]
+  },
+  {
+    "id": "Badulla",
+    "lat_lng": [
+      6.9933,
+      81.0544
+    ]
+  },
+  {
+    "id": "Passara",
+    "lat_lng": [
+      6.9351,
+      81.1526
+    ]
+  },
+  {
+    "id": "Bibile",
+    "lat_lng": [
+      7.1637,
+      81.2209
+    ]
+  },
+  {
+    "id": "Padiyathalawa",
+    "lat_lng": [
+      7.3931,
+      81.2445
+    ]
+  },
+  {
+    "id": "Maha Oya (Ampara)",
+    "lat_lng": [
+      7.5298,
+      81.3452
+    ]
+  },
+  {
+    "id": "Chenkalady",
+    "lat_lng": [
+      7.786,
+      81.5899
+    ]
+  },
+  {
+    "id": "Alawwa",
+    "lat_lng": [
+      7.2955,
+      80.2366
+    ]
+  },
+  {
+    "id": "Polgahawela",
+    "lat_lng": [
+      7.3283,
+      80.293
+    ]
+  },
+  {
+    "id": "Kurunegala",
+    "lat_lng": [
+      7.4734,
+      80.3553
+    ]
+  },
+  {
+    "id": "Melsiripura",
+    "lat_lng": [
+      7.6452,
+      80.509
+    ]
+  },
+  {
+    "id": "Galewela",
+    "lat_lng": [
+      7.7569,
+      80.5772
+    ]
+  },
+  {
+    "id": "Dambulla",
+    "lat_lng": [
+      7.8743,
+      80.651
+    ]
+  },
+  {
+    "id": "Habarana",
+    "lat_lng": [
+      8.0326,
+      80.7511
+    ]
+  },
+  {
+    "id": "Kantale",
+    "lat_lng": [
+      8.3517,
+      81.0072
+    ]
+  },
+  {
+    "id": "Trincomalee",
+    "lat_lng": [
+      8.5874,
+      81.2152
+    ]
+  },
+  {
+    "id": "Dehiowita",
+    "lat_lng": [
+      6.9639,
+      80.2642
+    ]
+  },
+  {
+    "id": "Karawanella",
+    "lat_lng": [
+      7.0236,
+      80.2615
+    ]
+  },
+  {
+    "id": "Kitulgala",
+    "lat_lng": [
+      6.9891,
+      80.4271
+    ]
+  },
+  {
+    "id": "Ginigathhena",
+    "lat_lng": [
+      6.9893,
+      80.4927
+    ]
+  },
+  {
+    "id": "Watawala",
+    "lat_lng": [
+      6.9449,
+      80.5389
+    ]
+  },
+  {
+    "id": "Pathana Junction",
+    "lat_lng": [
+      6.9475,
+      80.6301
+    ]
+  },
+  {
+    "id": "Hatton (Nuwara Eliya)",
+    "lat_lng": [
+      6.9001,
+      80.5962
+    ]
+  },
+  {
+    "id": "Blackpool (Nuwara Eliya)",
+    "lat_lng": [
+      6.9424,
+      80.779
+    ]
+  },
+  {
+    "id": "Bandaragama",
+    "lat_lng": [
+      6.7144,
+      79.9891
+    ]
+  },
+  {
+    "id": "Horana",
+    "lat_lng": [
+      6.7219,
+      80.0648
+    ]
+  },
+  {
+    "id": "Ingiriya",
+    "lat_lng": [
+      6.7405,
+      80.1624
+    ]
+  },
+  {
+    "id": "Nambapana",
+    "lat_lng": [
+      6.7406,
+      80.1885
+    ]
+  },
+  {
+    "id": "Katugastota",
+    "lat_lng": [
+      7.336,
+      80.6213
+    ]
+  },
+  {
+    "id": "Matale",
+    "lat_lng": [
+      7.4675,
+      80.6235
+    ]
+  },
+  {
+    "id": "Naula (Matale)",
+    "lat_lng": [
+      7.7071,
+      80.6536
+    ]
+  },
+  {
+    "id": "Thoniyagala",
+    "lat_lng": [
+      8.0879,
+      80.5736
+    ]
+  },
+  {
+    "id": "Maradankadawala",
+    "lat_lng": [
+      8.1168,
+      80.5606
+    ]
+  },
+  {
+    "id": "Galkulama",
+    "lat_lng": [
+      8.2735,
+      80.5002
+    ]
+  },
+  {
+    "id": "Mihintale",
+    "lat_lng": [
+      8.3493,
+      80.4994
+    ]
+  },
+  {
+    "id": "Rambewa",
+    "lat_lng": [
+      8.44,
+      80.5046
+    ]
+  },
+  {
+    "id": "Medawachchiya",
+    "lat_lng": [
+      8.5375,
+      80.491
+    ]
+  },
+  {
+    "id": "Vavuniya",
+    "lat_lng": [
+      8.7542,
+      80.4982
+    ]
+  },
+  {
+    "id": "Puliyankulam (Vavuniya)",
+    "lat_lng": [
+      8.9738,
+      80.5271
+    ]
+  },
+  {
+    "id": "Mankulam (Mullaitivu)",
+    "lat_lng": [
+      9.1367,
+      80.4453
+    ]
+  },
+  {
+    "id": "Paranthan",
+    "lat_lng": [
+      9.4414,
+      80.4047
+    ]
+  },
+  {
+    "id": "Kodikamam",
+    "lat_lng": [
+      9.6816,
+      80.2197
+    ]
+  },
+  {
+    "id": "Meesalai",
+    "lat_lng": [
+      9.6741,
+      80.1963
+    ]
+  },
+  {
+    "id": "Navakkuli",
+    "lat_lng": [
+      9.661,
+      80.0807
+    ]
+  },
+  {
+    "id": "Jaffna",
+    "lat_lng": [
+      9.6616,
+      80.0254
+    ]
+  },
+  {
+    "id": "Wariyapola",
+    "lat_lng": [
+      7.6239,
+      80.2432
+    ]
+  },
+  {
+    "id": "Padeniya",
+    "lat_lng": [
+      7.6557,
+      80.2208
+    ]
+  },
+  {
+    "id": "Anamaduwa",
+    "lat_lng": [
+      7.8778,
+      80.0111
+    ]
+  },
+  {
+    "id": "Giritale",
+    "lat_lng": [
+      7.9882,
+      80.9224
+    ]
+  },
+  {
+    "id": "Polonnaruwa",
+    "lat_lng": [
+      7.9404,
+      81.0189
+    ]
+  },
+  {
+    "id": "Manampitiya",
+    "lat_lng": [
+      7.9052,
+      81.1313
+    ]
+  },
+  {
+    "id": "Thirukkondaiadimadu",
+    "lat_lng": [
+      7.9448,
+      81.5068
+    ]
+  },
+  {
+    "id": "Saliyawewa",
+    "lat_lng": [
+      8.1932,
+      80.0938
+    ]
+  },
+  {
+    "id": "Andara Wewa (Anuradhapura)",
+    "lat_lng": [
+      8.4575,
+      80.3029
+    ]
+  },
+  {
+    "id": "Anuradhapura",
+    "lat_lng": [
+      8.3114,
+      80.4036
+    ]
+  },
+  {
+    "id": "Horowupotana",
+    "lat_lng": [
+      8.5598,
+      80.8338
+    ]
+  },
+  {
+    "id": "Parayanalankulam",
+    "lat_lng": [
+      8.7461,
+      80.1926
+    ]
+  },
+  {
+    "id": "Mannar",
+    "lat_lng": [
+      8.981,
+      79.9044
+    ]
+  },
+  {
+    "id": "Talaimannar",
+    "lat_lng": [
+      9.0835,
+      79.7343
+    ]
+  },
+  {
+    "id": "Vakarai",
+    "lat_lng": [
+      8.1371,
+      81.4349
+    ]
+  },
+  {
+    "id": "Verugal",
+    "lat_lng": [
+      8.2549,
+      81.3715
+    ]
+  },
+  {
+    "id": "Serunuwara",
+    "lat_lng": [
+      8.3252,
+      81.3003
+    ]
+  },
+  {
+    "id": "Mutur",
+    "lat_lng": [
+      8.4579,
+      81.2683
+    ]
+  },
+  {
+    "id": "Bandarawela",
+    "lat_lng": [
+      6.8258,
+      80.998
+    ]
+  },
+  {
+    "id": "Kumbalwela",
+    "lat_lng": [
+      6.8818,
+      81.0346
+    ]
+  },
+  {
+    "id": "Akuressa",
+    "lat_lng": [
+      6.1003,
+      80.4758
+    ]
+  },
+  {
+    "id": "Morawaka",
+    "lat_lng": [
+      6.2655,
+      80.4911
+    ]
+  },
+  {
+    "id": "Kotapola",
+    "lat_lng": [
+      6.2757,
+      80.5414
+    ]
+  },
+  {
+    "id": "Deniyaya",
+    "lat_lng": [
+      6.3418,
+      80.5599
+    ]
+  },
+  {
+    "id": "Rakwana",
+    "lat_lng": [
+      6.465,
+      80.616
+    ]
+  },
+  {
+    "id": "Madampe (Ratnapura)",
+    "lat_lng": [
+      6.5405,
+      80.5967
+    ]
+  },
+  {
+    "id": "Udawalawe",
+    "lat_lng": [
+      6.4188,
+      80.8237
+    ]
+  },
+  {
+    "id": "Embilipitiya",
+    "lat_lng": [
+      6.3168,
+      80.8437
+    ]
+  },
+  {
+    "id": "Bulathkohupitiya",
+    "lat_lng": [
+      7.1046,
+      80.3358
+    ]
+  },
+  {
+    "id": "Ruwanwella",
+    "lat_lng": [
+      7.0458,
+      80.2537
+    ]
+  },
+  {
+    "id": "Badalkumbura",
+    "lat_lng": [
+      6.8956,
+      81.2364
+    ]
+  },
+  {
+    "id": "Ella (Badulla)",
+    "lat_lng": [
+      6.8678,
+      81.0468
+    ]
+  },
+  {
+    "id": "Damana (Ampara)",
+    "lat_lng": [
+      7.2016,
+      81.6569
+    ]
+  },
+  {
+    "id": "Ampara",
+    "lat_lng": [
+      7.3019,
+      81.6751
+    ]
+  },
+  {
+    "id": "Tennekumbura",
+    "lat_lng": [
+      7.2832,
+      80.6618
+    ]
+  },
+  {
+    "id": "Hasalaka",
+    "lat_lng": [
+      7.3546,
+      80.9523
+    ]
+  },
+  {
+    "id": "Mahiyangana",
+    "lat_lng": [
+      7.3317,
+      81.0048
+    ]
+  },
+  {
+    "id": "Uhana (Ampara)",
+    "lat_lng": [
+      7.3634,
+      81.6354
+    ]
+  },
+  {
+    "id": "Tambuttegama",
+    "lat_lng": [
+      8.154,
+      80.3046
+    ]
+  },
+  {
+    "id": "Galgamuwa",
+    "lat_lng": [
+      7.9885,
+      80.2903
+    ]
+  },
+  {
+    "id": "Kebitigollewa",
+    "lat_lng": [
+      8.6427,
+      80.6712
+    ]
+  },
+  {
+    "id": "Pooneryn",
+    "lat_lng": [
+      9.5032,
+      80.2113
+    ]
+  },
+  {
+    "id": "Mulankavil",
+    "lat_lng": [
+      9.2331,
+      80.1333
+    ]
+  },
+  {
+    "id": "Vellankulam",
+    "lat_lng": [
+      9.1862,
+      80.1259
+    ]
+  },
+  {
+    "id": "Vidataltivu",
+    "lat_lng": [
+      9.0217,
+      80.0506
+    ]
+  },
+  {
+    "id": "Ekala",
+    "lat_lng": [
+      7.1023,
+      79.9087
+    ]
+  },
+  {
+    "id": "Mullaitivu",
+    "lat_lng": [
+      9.2671,
+      80.8151
+    ]
+  },
+  {
+    "id": "Visuvamadu",
+    "lat_lng": [
+      9.3767,
+      80.5466
+    ]
+  },
+  {
+    "id": "Inginiyagala",
+    "lat_lng": [
+      7.2135,
+      81.5434
+    ]
+  },
+  {
+    "id": "Thalapathpitiya",
+    "lat_lng": [
+      6.8694,
+      79.9235
+    ]
+  },
+  {
+    "id": "Rasambula (Colombo)",
+    "lat_lng": [
+      6.8769,
+      79.9264
+    ]
+  },
+  {
+    "id": "Modera (Colombo)",
+    "lat_lng": [
+      6.9667,
+      79.871
+    ]
+  },
+  {
+    "id": "Kohilawatta",
+    "lat_lng": [
+      6.9437,
+      79.9153
+    ]
+  },
+  {
+    "id": "Ambatale Junction",
+    "lat_lng": [
+      6.9431,
+      79.9237
+    ]
+  },
+  {
+    "id": "Kaduwela",
+    "lat_lng": [
+      6.931,
+      79.9842
+    ]
+  },
+  {
+    "id": "Nawalapitiya",
+    "lat_lng": [
+      7.0427,
+      80.5179
+    ]
+  },
+  {
+    "id": "Kankesanturai",
+    "lat_lng": [
+      9.8154,
+      80.0445
+    ]
+  },
+  {
+    "id": "Manipay",
+    "lat_lng": [
+      9.7294,
+      79.9927
+    ]
+  },
+  {
+    "id": "Ponnalai",
+    "lat_lng": [
+      9.7496,
+      79.9182
+    ]
+  },
+  {
+    "id": "Karainagar",
+    "lat_lng": [
+      9.7481,
+      79.8826
+    ]
+  },
+  {
+    "id": "Palali",
+    "lat_lng": [
+      9.7978,
+      80.0907
+    ]
+  },
+  {
+    "id": "Kayts",
+    "lat_lng": [
+      9.6531,
+      79.9076
+    ]
+  },
+  {
+    "id": "Puttur (Jaffna)",
+    "lat_lng": [
+      9.7453,
+      80.1046
+    ]
+  },
+  {
+    "id": "Point Pedro",
+    "lat_lng": [
+      9.7937,
+      80.221
+    ]
+  },
+  {
+    "id": "Araly",
+    "lat_lng": [
+      9.7063,
+      79.9557
+    ]
+  },
+  {
+    "id": "Mirigama",
+    "lat_lng": [
+      7.2426,
+      80.1269
+    ]
+  },
+  {
+    "id": "Kandalama (Gampaha)",
+    "lat_lng": [
+      7.2726,
+      80.1363
+    ]
+  },
+  {
+    "id": "Giriulla",
+    "lat_lng": [
+      7.3313,
+      80.1228
+    ]
+  },
+  {
+    "id": "Punkudutivu",
+    "lat_lng": [
+      9.59,
+      79.8239
+    ]
+  },
+  {
+    "id": "Kurikadduwan",
+    "lat_lng": [
+      9.5962,
+      79.7949
+    ]
+  },
+  {
+    "id": "Dehiattakandiya",
+    "lat_lng": [
+      7.6712,
+      81.0464
+    ]
+  },
+  {
+    "id": "Dimbulagala",
+    "lat_lng": [
+      7.861,
+      81.1053
+    ]
+  },
+  {
+    "id": "Dalukkane",
+    "lat_lng": [
+      7.8841,
+      81.1391
+    ]
+  },
+  {
+    "id": "130 Wijerama Mw (Colombo)",
+    "lat_lng": [
+      6.9063,
+      79.8732
+    ]
+  },
+  {
+    "id": "Kanatta Junction",
+    "lat_lng": [
+      6.9086,
+      79.8771
+    ]
+  },
+  {
+    "id": "Dematagoda",
+    "lat_lng": [
+      6.9353,
+      79.8808
+    ]
+  },
+  {
+    "id": "Welikada Prison",
+    "lat_lng": [
+      6.9209,
+      79.8782
+    ]
+  },
+  {
+    "id": "Borella Tunnel",
+    "lat_lng": [
+      6.9148,
+      79.8776
+    ]
+  },
+  {
+    "id": "Narahenpita Police Station",
+    "lat_lng": [
+      6.8922,
+      79.8766
+    ]
+  },
+  {
+    "id": "340 Park Road (Colombo)",
+    "lat_lng": [
+      6.8891,
+      79.8767
+    ]
+  },
+  {
+    "id": "Maradana Railway",
+    "lat_lng": [
+      6.9284,
+      79.8645
+    ]
+  },
+  {
+    "id": "443 Maradana Rd",
+    "lat_lng": [
+      6.9271,
+      79.8656
+    ]
+  },
+  {
+    "id": "Punchi Borella Junction",
+    "lat_lng": [
+      6.9213,
+      79.8713
+    ]
+  },
+  {
+    "id": "Dampelessa",
+    "lat_lng": [
+      7.4101,
+      80.2078
+    ]
+  },
+  {
+    "id": "Ragama",
+    "lat_lng": [
+      7.028,
+      79.9231
+    ]
+  },
+  {
+    "id": "Elpitiya",
+    "lat_lng": [
+      6.2881,
+      80.1595
+    ]
+  },
+  {
+    "id": "Pitigala",
+    "lat_lng": [
+      6.3419,
+      80.2377
+    ]
+  },
+  {
+    "id": "Sella Kataragama",
+    "lat_lng": [
+      6.4373,
+      81.2987
+    ]
+  },
+  {
+    "id": "Karametiya (Badulla)",
+    "lat_lng": [
+      7.1912,
+      81.0301
+    ]
+  },
+  {
+    "id": "Loggal Oya",
+    "lat_lng": [
+      7.2195,
+      81.0253
+    ]
+  },
+  {
+    "id": "Andaulpotha",
+    "lat_lng": [
+      7.2583,
+      81.0805
+    ]
+  },
+  {
+    "id": "Kaltota",
+    "lat_lng": [
+      6.659,
+      80.8678
+    ]
+  },
+  {
+    "id": "Rassagala (Ratnapura)",
+    "lat_lng": [
+      6.6923,
+      80.6379
+    ]
+  },
+  {
+    "id": "Uwella",
+    "lat_lng": [
+      6.7014,
+      80.6168
+    ]
+  },
+  {
+    "id": "Wewelwatte Junction",
+    "lat_lng": [
+      6.7057,
+      80.5558
+    ]
+  },
+  {
+    "id": "Battaramulla",
+    "lat_lng": [
+      6.898,
+      79.9223
+    ]
+  },
+  {
+    "id": "Talawatugoda",
+    "lat_lng": [
+      6.8759,
+      79.9391
+    ]
+  },
+  {
+    "id": "Beliatta",
+    "lat_lng": [
+      6.0484,
+      80.734
+    ]
+  },
+  {
+    "id": "Walasmulla",
+    "lat_lng": [
+      6.1508,
+      80.6936
+    ]
+  },
+  {
+    "id": "Uraniya",
+    "lat_lng": [
+      7.2336,
+      81.1098
+    ]
+  },
+  {
+    "id": "Bogahawewa (Padaviya, Anuradhapura)",
+    "lat_lng": [
+      8.8701,
+      80.862
+    ]
+  },
+  {
+    "id": "Pulmuddai",
+    "lat_lng": [
+      8.9444,
+      80.9827
+    ]
+  },
+  {
+    "id": "Keenadeniya Junction Bus Stop",
+    "lat_lng": [
+      7.2536,
+      80.1724
+    ]
+  },
+  {
+    "id": "Dick Oya",
+    "lat_lng": [
+      6.8749,
+      80.6028
+    ]
+  },
+  {
+    "id": "Norton Bridge (Nuwara Eliya)",
+    "lat_lng": [
+      6.9111,
+      80.5218
+    ]
+  },
+  {
+    "id": "Kohuwala",
+    "lat_lng": [
+      6.8624,
+      79.8858
+    ]
+  },
+  {
+    "id": "360 Papiliyana",
+    "lat_lng": [
+      6.8566,
+      79.8903
+    ]
+  },
+  {
+    "id": "Boralesgamuwa",
+    "lat_lng": [
+      6.8412,
+      79.9025
+    ]
+  },
+  {
+    "id": "Piliyandala",
+    "lat_lng": [
+      6.8018,
+      79.9227
+    ]
+  },
+  {
+    "id": "Kesbewa",
+    "lat_lng": [
+      6.7789,
+      79.9473
+    ]
+  },
+  {
+    "id": "Deraniyagala",
+    "lat_lng": [
+      6.9344,
+      80.337
+    ]
+  },
+  {
+    "id": "Noori (Ratnapura)",
+    "lat_lng": [
+      6.7056,
+      80.3847
+    ]
+  },
+  {
+    "id": "Bellanthota Junction",
+    "lat_lng": [
+      6.8483,
+      79.8854
+    ]
+  },
+  {
+    "id": "Kolonnawa",
+    "lat_lng": [
+      6.9285,
+      79.8952
+    ]
+  },
+  {
+    "id": "Wellampitiya",
+    "lat_lng": [
+      6.9426,
+      79.9045
+    ]
+  },
+  {
+    "id": "Kotugoda (Gampaha)",
+    "lat_lng": [
+      7.1234,
+      79.9241
+    ]
+  },
+  {
+    "id": "Minuwangoda",
+    "lat_lng": [
+      7.1847,
+      79.9505
+    ]
+  },
+  {
+    "id": "Divulapitiya",
+    "lat_lng": [
+      7.2308,
+      80.0164
+    ]
+  },
+  {
+    "id": "Kotadeniyawa",
+    "lat_lng": [
+      7.2839,
+      80.0661
+    ]
+  },
+  {
+    "id": "Elahera",
+    "lat_lng": [
+      7.7347,
+      80.7931
+    ]
+  },
+  {
+    "id": "Pitakotte",
+    "lat_lng": [
+      6.8807,
+      79.9053
+    ]
+  },
+  {
+    "id": "Mirihana",
+    "lat_lng": [
+      6.8688,
+      79.904
+    ]
+  },
+  {
+    "id": "Nugegoda Railway",
+    "lat_lng": [
+      6.8717,
+      79.891
+    ]
+  },
+  {
+    "id": "Kohuwela",
+    "lat_lng": [
+      6.8624,
+      79.8858
+    ]
+  },
+  {
+    "id": "Hakmana",
+    "lat_lng": [
+      6.0797,
+      80.6577
+    ]
+  },
+  {
+    "id": "Pugoda",
+    "lat_lng": [
+      6.975,
+      80.1181
+    ]
+  },
+  {
+    "id": "Urapola",
+    "lat_lng": [
+      7.098,
+      80.1446
+    ]
+  },
+  {
+    "id": "Norwood (Nuwara Eliya)",
+    "lat_lng": [
+      6.838,
+      80.6144
+    ]
+  },
+  {
+    "id": "Maskeliya",
+    "lat_lng": [
+      6.833,
+      80.5708
+    ]
+  },
+  {
+    "id": "Ballapitiya",
+    "lat_lng": [
+      6.6941,
+      80.0732
+    ]
+  },
+  {
+    "id": "Anguruwatota",
+    "lat_lng": [
+      6.6448,
+      80.0744
+    ]
+  },
+  {
+    "id": "Matugama",
+    "lat_lng": [
+      6.5217,
+      80.1134
+    ]
+  },
+  {
+    "id": "Horawela",
+    "lat_lng": [
+      6.4809,
+      80.1289
+    ]
+  },
+  {
+    "id": "Moragala",
+    "lat_lng": [
+      6.4608,
+      80.1807
+    ]
+  },
+  {
+    "id": "Pelawatta (Kalutara)",
+    "lat_lng": [
+      6.4005,
+      80.2121
+    ]
+  },
+  {
+    "id": "Kalawana",
+    "lat_lng": [
+      6.5316,
+      80.3968
+    ]
+  },
+  {
+    "id": "Weddagala",
+    "lat_lng": [
+      6.4647,
+      80.4322
+    ]
+  },
+  {
+    "id": "Depdene",
+    "lat_lng": [
+      6.4595,
+      80.5582
+    ]
+  },
+  {
+    "id": "Kataragama",
+    "lat_lng": [
+      6.4135,
+      81.3325
+    ]
+  },
+  {
+    "id": "Naiwala (Gampaha)",
+    "lat_lng": [
+      7.1584,
+      80.0316
+    ]
+  },
+  {
+    "id": "Veyangoda",
+    "lat_lng": [
+      7.1541,
+      80.0594
+    ]
+  },
+  {
+    "id": "Padaviya",
+    "lat_lng": [
+      8.8344,
+      80.7607
+    ]
+  },
+  {
+    "id": "Kindelpitiya Temple",
+    "lat_lng": [
+      6.752,
+      79.9553
+    ]
+  },
+  {
+    "id": "Gothatuwa New Town",
+    "lat_lng": [
+      6.9248,
+      79.9151
+    ]
+  },
+  {
+    "id": "Angoda",
+    "lat_lng": [
+      6.9366,
+      79.9269
+    ]
+  },
+  {
+    "id": "Malabe",
+    "lat_lng": [
+      6.9063,
+      79.9696
+    ]
+  },
+  {
+    "id": "Bope (Colombo)",
+    "lat_lng": [
+      6.8248,
+      80.1381
+    ]
+  },
+  {
+    "id": "Narammala",
+    "lat_lng": [
+      7.4326,
+      80.2153
+    ]
+  },
+  {
+    "id": "Mallavi",
+    "lat_lng": [
+      9.1395,
+      80.3026
+    ]
+  },
+  {
+    "id": "Rattota",
+    "lat_lng": [
+      7.5172,
+      80.6714
+    ]
+  },
+  {
+    "id": "Pitawala Pathana",
+    "lat_lng": [
+      7.5477,
+      80.7534
+    ]
+  },
+  {
+    "id": "Pallegama (Matale)",
+    "lat_lng": [
+      7.5426,
+      80.8268
+    ]
+  },
+  {
+    "id": "Hettipola",
+    "lat_lng": [
+      7.5331,
+      80.9134
+    ]
+  },
+  {
+    "id": "Thihagoda",
+    "lat_lng": [
+      6.0134,
+      80.566
+    ]
+  },
+  {
+    "id": "Aranayake",
+    "lat_lng": [
+      7.1496,
+      80.4647
+    ]
+  },
+  {
+    "id": "Horewala Buddhist Temple",
+    "lat_lng": [
+      7.142,
+      80.4685
+    ]
+  },
+  {
+    "id": "Udahamulla",
+    "lat_lng": [
+      6.8665,
+      79.9151
+    ]
+  },
+  {
+    "id": "Mullaittivu",
+    "lat_lng": [
+      9.2671,
+      80.8151
+    ]
+  },
+  {
+    "id": "9.091, 80.898",
+    "lat_lng": [
+      9.091,
+      80.898
+    ]
+  },
+  {
+    "id": "Kokkilai",
+    "lat_lng": [
+      8.9981,
+      80.9491
+    ]
+  },
+  {
+    "id": "Nagoda Junction (Kalutara)",
+    "lat_lng": [
+      6.5687,
+      79.9893
+    ]
+  },
+  {
+    "id": "Agalawatte",
+    "lat_lng": [
+      6.5423,
+      80.1576
+    ]
+  },
+  {
+    "id": "Kalawellawa",
+    "lat_lng": [
+      6.6285,
+      80.1597
+    ]
+  },
+  {
+    "id": "Nawala",
+    "lat_lng": [
+      6.8964,
+      79.8885
+    ]
+  },
+  {
+    "id": "Dankotuwa",
+    "lat_lng": [
+      7.2975,
+      79.8822
+    ]
+  },
+  {
+    "id": "Dolosbage",
+    "lat_lng": [
+      7.0878,
+      80.4644
+    ]
+  },
+  {
+    "id": "Ginigathena",
+    "lat_lng": [
+      6.9894,
+      80.4927
+    ]
+  },
+  {
+    "id": "Bogowantalawa",
+    "lat_lng": [
+      6.7972,
+      80.6758
+    ]
+  },
+  {
+    "id": "Campion Estate (Nuwara Eliya)",
+    "lat_lng": [
+      6.7819,
+      80.6974
+    ]
+  },
+  {
+    "id": "Ragala",
+    "lat_lng": [
+      7.0111,
+      80.8555
+    ]
+  },
+  {
+    "id": "Uda Pussellawa",
+    "lat_lng": [
+      7.0001,
+      80.9041
+    ]
+  },
+  {
+    "id": "Pagoda (Nugegoda, Colombo)",
+    "lat_lng": [
+      6.882,
+      79.8955
+    ]
+  },
+  {
+    "id": "Panama (Ampara)",
+    "lat_lng": [
+      6.7581,
+      81.8088
+    ]
+  },
+  {
+    "id": "Kuda Kebaliththa Devalaya",
+    "lat_lng": [
+      6.517,
+      81.6984
+    ]
+  },
+  {
+    "id": "Neluwa",
+    "lat_lng": [
+      6.3738,
+      80.3582
+    ]
+  },
+  {
+    "id": "Deltota",
+    "lat_lng": [
+      7.1727,
+      80.7016
+    ]
+  },
+  {
+    "id": "Rikiligaskada",
+    "lat_lng": [
+      7.1488,
+      80.7905
+    ]
+  },
+  {
+    "id": "Halloluwa",
+    "lat_lng": [
+      7.3014,
+      80.5929
+    ]
+  },
+  {
+    "id": "Eluwankulama",
+    "lat_lng": [
+      8.2732,
+      79.8798
+    ]
+  },
+  {
+    "id": "Mullikulam Beach",
+    "lat_lng": [
+      8.5835,
+      79.9201
+    ]
+  },
+  {
+    "id": "Wewelwatte",
+    "lat_lng": [
+      6.7053,
+      80.4761
+    ]
+  },
+  {
+    "id": "Udugampola",
+    "lat_lng": [
+      7.1262,
+      79.9773
+    ]
+  },
+  {
+    "id": "Nanattan",
+    "lat_lng": [
+      8.8356,
+      79.9676
+    ]
+  },
+  {
+    "id": "Kandehandiya",
+    "lat_lng": [
+      7.2135,
+      80.7551
+    ]
+  },
+  {
+    "id": "Walapane",
+    "lat_lng": [
+      7.103,
+      80.8614
+    ]
+  },
+  {
+    "id": "Kamburupitiya",
+    "lat_lng": [
+      6.0783,
+      80.5639
+    ]
+  },
+  {
+    "id": "Mawarala",
+    "lat_lng": [
+      6.2009,
+      80.5911
+    ]
+  },
+  {
+    "id": "Bellana",
+    "lat_lng": [
+      6.5217,
+      80.1731
+    ]
+  },
+  {
+    "id": "Tissamaharama",
+    "lat_lng": [
+      6.2792,
+      81.2868
+    ]
+  },
+  {
+    "id": "Kirinda",
+    "lat_lng": [
+      6.2337,
+      81.3325
+    ]
+  },
+  {
+    "id": "Kalawewa",
+    "lat_lng": [
+      8.0118,
+      80.5374
+    ]
+  },
+  {
+    "id": "Balaluwewa",
+    "lat_lng": [
+      7.9783,
+      80.5244
+    ]
+  },
+  {
+    "id": "Pulmoddai",
+    "lat_lng": [
+      8.9444,
+      80.9827
+    ]
+  },
+  {
+    "id": "Bodagama",
+    "lat_lng": [
+      6.4279,
+      81.0974
+    ]
+  },
+  {
+    "id": "Kotikawatta",
+    "lat_lng": [
+      6.9345,
+      79.9062
+    ]
+  },
+  {
+    "id": "Keenadeniya Junction",
+    "lat_lng": [
+      7.2536,
+      80.1724
+    ]
+  },
+  {
+    "id": "Radawana",
+    "lat_lng": [
+      7.032,
+      80.0933
+    ]
+  },
+  {
+    "id": "Kirama",
+    "lat_lng": [
+      6.2065,
+      80.6635
+    ]
+  },
+  {
+    "id": "Katuwana",
+    "lat_lng": [
+      6.2641,
+      80.6906
+    ]
+  },
+  {
+    "id": "Middeniya",
+    "lat_lng": [
+      6.2514,
+      80.7642
+    ]
+  },
+  {
+    "id": "Tambala (Polonnaruwa)",
+    "lat_lng": [
+      8.0094,
+      81.0697
+    ]
+  },
+  {
+    "id": "Sungawila",
+    "lat_lng": [
+      8.0758,
+      81.0914
+    ]
+  },
+  {
+    "id": "Somawathiya",
+    "lat_lng": [
+      8.1187,
+      81.1674
+    ]
+  },
+  {
+    "id": "Trikonamadu Nature Reserve",
+    "lat_lng": [
+      8.1456,
+      81.2804
+    ]
+  },
+  {
+    "id": "Randenigala",
+    "lat_lng": [
+      7.1995,
+      80.9251
+    ]
+  },
+  {
+    "id": "Yala Wildlife Office",
+    "lat_lng": [
+      6.3633,
+      81.5181
+    ]
+  },
+  {
+    "id": "Aralaganwila",
+    "lat_lng": [
+      7.7683,
+      81.1747
+    ]
+  },
+  {
+    "id": "Pamunuwa",
+    "lat_lng": [
+      6.8589,
+      79.9319
+    ]
+  },
+  {
+    "id": "Boralanda",
+    "lat_lng": [
+      6.828,
+      80.8943
+    ]
+  },
+  {
+    "id": "Ohiya",
+    "lat_lng": [
+      6.8189,
+      80.8447
+    ]
+  },
+  {
+    "id": "Horton Plains",
+    "lat_lng": [
+      6.8021,
+      80.8074
+    ]
+  },
+  {
+    "id": "Pattipola",
+    "lat_lng": [
+      6.856,
+      80.8312
+    ]
+  },
+  {
+    "id": "Pitakumbura",
+    "lat_lng": [
+      7.1793,
+      81.2925
+    ]
+  },
+  {
+    "id": "Hambegamuwa",
+    "lat_lng": [
+      6.5356,
+      80.9824
+    ]
+  },
+  {
+    "id": "Udupussellawa",
+    "lat_lng": [
+      7.0,
+      80.9043
+    ]
+  },
+  {
+    "id": "Town Hall (Colombo)",
+    "lat_lng": [
+      6.9156,
+      79.8635
+    ]
+  },
+  {
+    "id": "1 Wijerama Mw (Colombo)",
+    "lat_lng": [
+      6.916,
+      79.8692
+    ]
+  },
+  {
+    "id": "Hyde Park Corner (Colombo)",
+    "lat_lng": [
+      6.9173,
+      79.8601
+    ]
+  },
+  {
+    "id": "Hokandara",
+    "lat_lng": [
+      6.8744,
+      79.9696
+    ]
+  },
+  {
+    "id": "Situlpawwa",
+    "lat_lng": [
+      6.3871,
+      81.4489
+    ]
+  },
+  {
+    "id": "Palampiddi",
+    "lat_lng": [
+      8.9219,
+      80.2124
+    ]
+  },
+  {
+    "id": "Welioya",
+    "lat_lng": [
+      8.9661,
+      80.7879
+    ]
+  }
+]

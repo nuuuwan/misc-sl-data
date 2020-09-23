@@ -1,0 +1,1897 @@
+[
+  {
+    "id": " A.Rajakaruna",
+    "grade": "U",
+    "locations": [
+      "Punchi Borella Junction",
+      "Welikada Prison"
+    ]
+  },
+  {
+    "id": " E.W.Perera",
+    "grade": "U",
+    "locations": [
+      "Punchi Borella Junction",
+      "Town Hall (Colombo)"
+    ]
+  },
+  {
+    "id": "A0",
+    "grade": "A",
+    "locations": [
+      "Kollupitiya",
+      "Public Library (Colombo)",
+      "Alexandra Roundabout (Colombo)",
+      "62 Horton Pl (Colombo)",
+      "96 Kanatta",
+      "Cotta Park (Colombo)",
+      "Welikada Plaza",
+      "Etulkotte",
+      "Sri Jayewardenepura"
+    ]
+  },
+  {
+    "id": "A1",
+    "grade": "A",
+    "locations": [
+      "Colombo Fort",
+      "Maradana Technical College",
+      "Urugodawatte",
+      "New Kelani Bridge",
+      "Thorana Junction",
+      "Kadawatha",
+      "Mudungoda",
+      "Yakkala",
+      "Nittambuwa",
+      "Pasyala",
+      "Warakapola",
+      "Ambepussa",
+      "Kegalle",
+      "Mawanella",
+      "Peradeniya",
+      "Kandy Town"
+    ]
+  },
+  {
+    "id": "A10",
+    "grade": "A",
+    "locations": [
+      "Katugastota",
+      "Kurunegala",
+      "Wariyapola",
+      "Padeniya",
+      "Anamaduwa",
+      "Puttalam"
+    ]
+  },
+  {
+    "id": "A11",
+    "grade": "A",
+    "locations": [
+      "Maradankadawala",
+      "Habarana",
+      "Giritale",
+      "Polonnaruwa",
+      "Manampitiya",
+      "Thirukkondaiadimadu"
+    ]
+  },
+  {
+    "id": "A12",
+    "grade": "A",
+    "locations": [
+      "Puttalam",
+      "Saliyawewa",
+      "Andara Wewa (Anuradhapura)",
+      "Anuradhapura",
+      "Mihintale",
+      "Horowupotana",
+      "Trincomalee"
+    ]
+  },
+  {
+    "id": "A13",
+    "grade": "A",
+    "locations": [
+      "Galkulama",
+      "Anuradhapura"
+    ]
+  },
+  {
+    "id": "A14",
+    "grade": "A",
+    "locations": [
+      "Medawachchiya",
+      "Parayanalankulam",
+      "Mannar",
+      "Talaimannar"
+    ]
+  },
+  {
+    "id": "A15",
+    "grade": "A",
+    "locations": [
+      "Batticaloa",
+      "Chenkalady",
+      "Thirukkondaiadimadu",
+      "Vakarai",
+      "Verugal",
+      "Serunuwara",
+      "Mutur",
+      "Trincomalee"
+    ]
+  },
+  {
+    "id": "A16",
+    "grade": "A",
+    "locations": [
+      "Beragala",
+      "Bandarawela",
+      "Kumbalwela",
+      "Hali-ela"
+    ]
+  },
+  {
+    "id": "A17",
+    "grade": "A",
+    "locations": [
+      "Galle Town",
+      "Imaduwa",
+      "Akuressa",
+      "Morawaka",
+      "Kotapola",
+      "Deniyaya",
+      "Rakwana",
+      "Madampe (Ratnapura)"
+    ]
+  },
+  {
+    "id": "A18",
+    "grade": "A",
+    "locations": [
+      "Pelmadulla",
+      "Madampe (Ratnapura)",
+      "Udawalawe",
+      "Embilipitiya",
+      "Nonagama"
+    ]
+  },
+  {
+    "id": "A19",
+    "grade": "A",
+    "locations": [
+      "Polgahawela",
+      "Kegalle"
+    ]
+  },
+  {
+    "id": "A2",
+    "grade": "A",
+    "locations": [
+      "Colombo Fort",
+      "Kollupitiya",
+      "Bambalapitiya",
+      "Wellawatta",
+      "Dehiwala Junction",
+      "Mount Lavinia",
+      "Rathmalana",
+      "Rawatawatta Junction",
+      "Keselwatta",
+      "Panadura Clock Tower Junction",
+      "Waskaduwa",
+      "Kalutara",
+      "Katukurunda",
+      "Aluthgama",
+      "Ambalangoda",
+      "Hikkaduwa",
+      "Galle Town",
+      "Talpe",
+      "Weligama",
+      "Mirissa",
+      "Matara Town",
+      "Tangalle",
+      "Nonagama",
+      "Hambantota",
+      "Weerawila",
+      "Thanamalwila",
+      "Wellawaya"
+    ]
+  },
+  {
+    "id": "A20",
+    "grade": "A",
+    "locations": [
+      "Anuradhapura",
+      "Rambewa"
+    ]
+  },
+  {
+    "id": "A21",
+    "grade": "A",
+    "locations": [
+      "Kegalle",
+      "Bulathkohupitiya",
+      "Ruwanwella",
+      "Karawanella"
+    ]
+  },
+  {
+    "id": "A22",
+    "grade": "A",
+    "locations": [
+      "Passara",
+      "Badalkumbura",
+      "Monaragala Town"
+    ]
+  },
+  {
+    "id": "A23",
+    "grade": "A",
+    "locations": [
+      "Wellawaya",
+      "Ella (Badulla)",
+      "Kumbalwela"
+    ]
+  },
+  {
+    "id": "A24",
+    "grade": "A",
+    "locations": [
+      "Matara Town",
+      "Godagama (Matara)",
+      "Akuressa"
+    ]
+  },
+  {
+    "id": "A25",
+    "grade": "A",
+    "locations": [
+      "Siyambalanduwa",
+      "Damana (Ampara)",
+      "Ampara"
+    ]
+  },
+  {
+    "id": "A26",
+    "grade": "A",
+    "locations": [
+      "Kandy Town",
+      "Tennekumbura",
+      "Hasalaka",
+      "Mahiyangana",
+      "Padiyathalawa"
+    ]
+  },
+  {
+    "id": "A27",
+    "grade": "A",
+    "locations": [
+      "Ampara",
+      "Uhana (Ampara)",
+      "Maha Oya (Ampara)"
+    ]
+  },
+  {
+    "id": "A28",
+    "grade": "A",
+    "locations": [
+      "Anuradhapura",
+      "Tambuttegama",
+      "Galgamuwa",
+      "Padeniya"
+    ]
+  },
+  {
+    "id": "A29",
+    "grade": "A",
+    "locations": [
+      "Vavuniya",
+      "Kebitigollewa",
+      "Horowupotana"
+    ]
+  },
+  {
+    "id": "A3",
+    "grade": "A",
+    "locations": [
+      "New Kelani Bridge",
+      "6.971, 79.885",
+      "Welisara",
+      "Ja-Ela",
+      "Seeduwa Junction",
+      "Katunayake",
+      "Negombo",
+      "Kochchikade",
+      "Maravila",
+      "Madampe (Puttalam)",
+      "Chilaw",
+      "Madurankuli",
+      "Puttalam"
+    ]
+  },
+  {
+    "id": "A30",
+    "grade": "A",
+    "locations": [
+      "Vavuniya",
+      "Parayanalankulam"
+    ]
+  },
+  {
+    "id": "A31",
+    "grade": "A",
+    "locations": [
+      "Ampara",
+      "Karaitivu"
+    ]
+  },
+  {
+    "id": "A32",
+    "grade": "A",
+    "locations": [
+      "Navakkuli",
+      "Pooneryn",
+      "Mulankavil",
+      "Vellankulam",
+      "Vidataltivu",
+      "Mannar"
+    ]
+  },
+  {
+    "id": "A33",
+    "grade": "A",
+    "locations": [
+      "Ja-Ela",
+      "Ekala",
+      "Yakkala"
+    ]
+  },
+  {
+    "id": "A34",
+    "grade": "A",
+    "locations": [
+      "Mullaitivu",
+      "Mankulam (Mullaitivu)"
+    ]
+  },
+  {
+    "id": "A35",
+    "grade": "A",
+    "locations": [
+      "Paranthan",
+      "Visuvamadu",
+      "Mullaitivu"
+    ]
+  },
+  {
+    "id": "A4",
+    "grade": "A",
+    "locations": [
+      "Colombo Fort",
+      "1 Union (Colombo)",
+      "Public Library (Colombo)",
+      "Thummulla",
+      "1 Park Road (Colombo)",
+      "Havelock Bo Tree (Colombo)",
+      "100 High Level (Colombo)",
+      "Gangodawila",
+      "Gamsabha Junction",
+      "Nawinna",
+      "Maharagama",
+      "Pannipitiya",
+      "Kottawa",
+      "Godagama (Colombo)",
+      "Meepe",
+      "Hanwella",
+      "Avissawella",
+      "Ratnapura",
+      "Tiruwanaketiya",
+      "Pelmadulla",
+      "Balangoda",
+      "Kalupahana Junction",
+      "Beragala",
+      "Koslanda",
+      "Wellawaya",
+      "Buttala",
+      "Monaragala Town",
+      "Siyambalanduwa",
+      "Pottuvil",
+      "Akkaraipattu",
+      "Karaitivu",
+      "Kalmunai",
+      "Batticaloa"
+    ]
+  },
+  {
+    "id": "A5",
+    "grade": "A",
+    "locations": [
+      "Peradeniya",
+      "Gampola",
+      "Ramboda",
+      "Nuwara Eliya",
+      "Welimada",
+      "Hali-ela",
+      "Badulla",
+      "Passara",
+      "Bibile",
+      "Padiyathalawa",
+      "Maha Oya (Ampara)",
+      "Chenkalady"
+    ]
+  },
+  {
+    "id": "A6",
+    "grade": "A",
+    "locations": [
+      "Ambepussa",
+      "Alawwa",
+      "Polgahawela",
+      "Kurunegala",
+      "Melsiripura",
+      "Galewela",
+      "Dambulla",
+      "Habarana",
+      "Kantale",
+      "Trincomalee"
+    ]
+  },
+  {
+    "id": "A7",
+    "grade": "A",
+    "locations": [
+      "Avissawella",
+      "Dehiowita",
+      "Karawanella",
+      "Kitulgala",
+      "Ginigathhena",
+      "Watawala",
+      "Hatton (Nuwara Eliya)",
+      "Pathana Junction",
+      "Blackpool (Nuwara Eliya)",
+      "Nuwara Eliya"
+    ]
+  },
+  {
+    "id": "A8",
+    "grade": "A",
+    "locations": [
+      "Panadura Clock Tower Junction",
+      "Bandaragama",
+      "Gelanigama",
+      "Horana",
+      "Ingiriya",
+      "Nambapana",
+      "Ratnapura"
+    ]
+  },
+  {
+    "id": "A9",
+    "grade": "A",
+    "locations": [
+      "Kandy Town",
+      "Katugastota",
+      "Matale",
+      "Naula (Matale)",
+      "Dambulla",
+      "Thoniyagala",
+      "Maradankadawala",
+      "Galkulama",
+      "Mihintale",
+      "Rambewa",
+      "Medawachchiya",
+      "Vavuniya",
+      "Puliyankulam (Vavuniya)",
+      "Mankulam (Mullaitivu)",
+      "Paranthan",
+      "Kodikamam",
+      "Meesalai",
+      "Navakkuli",
+      "Jaffna"
+    ]
+  },
+  {
+    "id": "AB001",
+    "grade": "AB",
+    "locations": [
+      "Ampara",
+      "Inginiyagala"
+    ]
+  },
+  {
+    "id": "AB005",
+    "grade": "AB",
+    "locations": [
+      "Thalapathpitiya",
+      "Rasambula (Colombo)"
+    ]
+  },
+  {
+    "id": "AB010",
+    "grade": "AB",
+    "locations": [
+      "Modera (Colombo)",
+      "New Kelani Bridge",
+      "Kohilawatta",
+      "Ambatale Junction",
+      "Kaduwela Interchange",
+      "Kaduwela",
+      "Hanwella"
+    ]
+  },
+  {
+    "id": "AB013",
+    "grade": "AB",
+    "locations": [
+      "Gampola",
+      "Nawalapitiya"
+    ]
+  },
+  {
+    "id": "AB016 ",
+    "grade": "U",
+    "locations": [
+      "Jaffna",
+      "Kankesanturai"
+    ]
+  },
+  {
+    "id": "AB017 ",
+    "grade": "U",
+    "locations": [
+      "Jaffna",
+      "Manipay",
+      "Ponnalai",
+      "Karainagar"
+    ]
+  },
+  {
+    "id": "AB018 ",
+    "grade": "U",
+    "locations": [
+      "Jaffna",
+      "Palali"
+    ]
+  },
+  {
+    "id": "AB019 ",
+    "grade": "U",
+    "locations": [
+      "Jaffna",
+      "Kayts"
+    ]
+  },
+  {
+    "id": "AB020 ",
+    "grade": "U",
+    "locations": [
+      "Jaffna",
+      "Puttur (Jaffna)",
+      "Point Pedro"
+    ]
+  },
+  {
+    "id": "AB021",
+    "grade": "AB",
+    "locations": [
+      "Jaffna",
+      "Araly",
+      "Ponnalai",
+      "Kankesanturai",
+      "Palali",
+      "Point Pedro"
+    ]
+  },
+  {
+    "id": "AB029 ",
+    "grade": "U",
+    "locations": [
+      "Pasyala",
+      "Mirigama",
+      "Kandalama (Gampaha)",
+      "Giriulla"
+    ]
+  },
+  {
+    "id": "AB031",
+    "grade": "AB",
+    "locations": [
+      "Kodikamam",
+      "Point Pedro"
+    ]
+  },
+  {
+    "id": "AB032 ",
+    "grade": "U",
+    "locations": [
+      "Puttur (Jaffna)",
+      "Meesalai"
+    ]
+  },
+  {
+    "id": "AB039 ",
+    "grade": "U",
+    "locations": [
+      "Araly",
+      "Punkudutivu",
+      "Kurikadduwan"
+    ]
+  },
+  {
+    "id": "AB044",
+    "grade": "AB",
+    "locations": [
+      "Mahiyangana",
+      "Dehiattakandiya",
+      "Dimbulagala",
+      "Dalukkane"
+    ]
+  },
+  {
+    "id": "AC02",
+    "grade": "AC",
+    "locations": [
+      "Bambalapitiya",
+      "Thummulla",
+      "130 Wijerama Mw (Colombo)",
+      "Kanatta Junction"
+    ]
+  },
+  {
+    "id": "AC026",
+    "grade": "AC",
+    "locations": [
+      "Modera (Colombo)",
+      "Colombo Fort"
+    ]
+  },
+  {
+    "id": "AC08",
+    "grade": "AC",
+    "locations": [
+      "Urugodawatte",
+      "Dematagoda",
+      "Welikada Prison",
+      "Borella Tunnel",
+      "96 Kanatta",
+      "Kanatta Junction",
+      "Narahenpita Police Station",
+      "340 Park Road (Colombo)",
+      "100 High Level (Colombo)"
+    ]
+  },
+  {
+    "id": "AC19",
+    "grade": "AC",
+    "locations": [
+      "Maradana Technical College",
+      "Maradana Railway",
+      "443 Maradana Rd",
+      "Punchi Borella Junction",
+      "Borella Tunnel"
+    ]
+  },
+  {
+    "id": "B008 ",
+    "grade": "B",
+    "locations": [
+      "Alawwa",
+      "Dampelessa"
+    ]
+  },
+  {
+    "id": "B009 ",
+    "grade": "B",
+    "locations": [
+      "Alawwa",
+      "Giriulla"
+    ]
+  },
+  {
+    "id": "B010 ",
+    "grade": "B",
+    "locations": [
+      "Kantale",
+      "Serunuwara"
+    ]
+  },
+  {
+    "id": "B013 ",
+    "grade": "B",
+    "locations": [
+      "Welisara",
+      "Ragama",
+      "Kadawatha"
+    ]
+  },
+  {
+    "id": "B014 ",
+    "grade": "B",
+    "locations": [
+      "Ambalangoda",
+      "Kurundugahahetekma",
+      "Elpitiya",
+      "Pitigala"
+    ]
+  },
+  {
+    "id": "B035",
+    "grade": "B",
+    "locations": [
+      "Badalkumbura",
+      "Buttala",
+      "Sella Kataragama"
+    ]
+  },
+  {
+    "id": "B036 ",
+    "grade": "B",
+    "locations": [
+      "Badulla",
+      "Karametiya (Badulla)",
+      "Loggal Oya",
+      "Andaulpotha"
+    ]
+  },
+  {
+    "id": "B038 ",
+    "grade": "B",
+    "locations": [
+      "Balangoda",
+      "Kaltota"
+    ]
+  },
+  {
+    "id": "B039 ",
+    "grade": "B",
+    "locations": [
+      "Balangoda",
+      "Rassagala (Ratnapura)",
+      "Uwella",
+      "Wewelwatte Junction"
+    ]
+  },
+  {
+    "id": "B044",
+    "grade": "B",
+    "locations": [
+      "Bandarawela",
+      "Welimada"
+    ]
+  },
+  {
+    "id": "B047 ",
+    "grade": "B",
+    "locations": [
+      "Battaramulla",
+      "Talawatugoda",
+      "Pannipitiya"
+    ]
+  },
+  {
+    "id": "B054 ",
+    "grade": "B",
+    "locations": [
+      "Beliatta",
+      "Walasmulla"
+    ]
+  },
+  {
+    "id": "B057 ",
+    "grade": "B",
+    "locations": [
+      "Bibile",
+      "Uraniya",
+      "Andaulpotha",
+      "Mahiyangana"
+    ]
+  },
+  {
+    "id": "B060 ",
+    "grade": "B",
+    "locations": [
+      "Bogahawewa (Padaviya, Anuradhapura)",
+      "Pulmuddai"
+    ]
+  },
+  {
+    "id": "B062 ",
+    "grade": "B",
+    "locations": [
+      "Borella Tunnel",
+      "Cotta Park (Colombo)",
+      "Welikada Plaza"
+    ]
+  },
+  {
+    "id": "B063 ",
+    "grade": "B",
+    "locations": [
+      "Keenadeniya Junction Bus Stop",
+      "Mirigama"
+    ]
+  },
+  {
+    "id": "B071 ",
+    "grade": "B",
+    "locations": [
+      "Dick Oya",
+      "Norton Bridge (Nuwara Eliya)",
+      "Watawala"
+    ]
+  },
+  {
+    "id": "B079",
+    "grade": "B",
+    "locations": [
+      "Chilaw",
+      "Wariyapola"
+    ]
+  },
+  {
+    "id": "B084 ",
+    "grade": "B",
+    "locations": [
+      "Havelock Bo Tree (Colombo)",
+      "Kohuwala",
+      "360 Papiliyana",
+      "Boralesgamuwa",
+      "Piliyandala",
+      "Kesbewa",
+      "Kahathuduwa",
+      "Horana"
+    ]
+  },
+  {
+    "id": "B093 ",
+    "grade": "B",
+    "locations": [
+      "Dehiowita",
+      "Deraniyagala",
+      "Noori (Ratnapura)"
+    ]
+  },
+  {
+    "id": "B094 ",
+    "grade": "B",
+    "locations": [
+      "Dehiwala Junction",
+      "Bellanthota Junction",
+      "Boralesgamuwa",
+      "Maharagama"
+    ]
+  },
+  {
+    "id": "B096 ",
+    "grade": "B",
+    "locations": [
+      "Dematagoda",
+      "Kolonnawa",
+      "Wellampitiya"
+    ]
+  },
+  {
+    "id": "B111 ",
+    "grade": "B",
+    "locations": [
+      "Ekala",
+      "Kotugoda (Gampaha)",
+      "Minuwangoda",
+      "Divulapitiya",
+      "Kotadeniyawa"
+    ]
+  },
+  {
+    "id": "B112 ",
+    "grade": "B",
+    "locations": [
+      "Elahera",
+      "Giritale"
+    ]
+  },
+  {
+    "id": "B120 ",
+    "grade": "B",
+    "locations": [
+      "Etulkotte",
+      "Pitakotte",
+      "Mirihana",
+      "Nugegoda Railway",
+      "Gangodawila",
+      "Kohuwela"
+    ]
+  },
+  {
+    "id": "B141",
+    "grade": "B",
+    "locations": [
+      "Hakmana",
+      "Beliatta",
+      "Tangalle"
+    ]
+  },
+  {
+    "id": "B146 ",
+    "grade": "B",
+    "locations": [
+      "Hanwella",
+      "Pugoda",
+      "Urapola"
+    ]
+  },
+  {
+    "id": "B149",
+    "grade": "B",
+    "locations": [
+      "Hatton (Nuwara Eliya)",
+      "Dick Oya",
+      "Norwood (Nuwara Eliya)",
+      "Maskeliya"
+    ]
+  },
+  {
+    "id": "B153",
+    "grade": "B",
+    "locations": [
+      "Hikkaduwa",
+      "Baddegama Exit"
+    ]
+  },
+  {
+    "id": "B157",
+    "grade": "B",
+    "locations": [
+      "Horana",
+      "Ballapitiya",
+      "Anguruwatota",
+      "Matugama",
+      "Horawela",
+      "Welipenna Exit",
+      "Aluthgama"
+    ]
+  },
+  {
+    "id": "B158 ",
+    "grade": "B",
+    "locations": [
+      "Horawela",
+      "Moragala",
+      "Pelawatta (Kalutara)",
+      "Pitigala"
+    ]
+  },
+  {
+    "id": "B181 ",
+    "grade": "B",
+    "locations": [
+      "Kalawana",
+      "Weddagala",
+      "Depdene",
+      "Rakwana"
+    ]
+  },
+  {
+    "id": "B202",
+    "grade": "B",
+    "locations": [
+      "Kataragama",
+      "Sella Kataragama"
+    ]
+  },
+  {
+    "id": "B208 ",
+    "grade": "B",
+    "locations": [
+      "Katunayake",
+      "Minuwangoda",
+      "Naiwala (Gampaha)",
+      "Veyangoda"
+    ]
+  },
+  {
+    "id": "B211",
+    "grade": "B",
+    "locations": [
+      "Padaviya",
+      "Bogahawewa (Padaviya, Anuradhapura)",
+      "Kebitigollewa"
+    ]
+  },
+  {
+    "id": "B216 ",
+    "grade": "B",
+    "locations": [
+      "Kesbewa",
+      "Kindelpitiya Temple",
+      "Bandaragama"
+    ]
+  },
+  {
+    "id": "B229 ",
+    "grade": "B",
+    "locations": [
+      "Kohuwela",
+      "Dehiwala Junction"
+    ]
+  },
+  {
+    "id": "B231 ",
+    "grade": "B",
+    "locations": [
+      "Kolonnawa",
+      "Gothatuwa New Town",
+      "Angoda"
+    ]
+  },
+  {
+    "id": "B232 ",
+    "grade": "B",
+    "locations": [
+      "Kolonnawa",
+      "Cotta Park (Colombo)"
+    ]
+  },
+  {
+    "id": "B240",
+    "grade": "B",
+    "locations": [
+      "Sri Jayewardenepura",
+      "Battaramulla",
+      "Malabe",
+      "Athurugiriya Interchange",
+      "Godagama (Colombo)",
+      "Bope (Colombo)"
+    ]
+  },
+  {
+    "id": "B247 ",
+    "grade": "B",
+    "locations": [
+      "Kurunegala",
+      "Narammala",
+      "Madampe (Puttalam)"
+    ]
+  },
+  {
+    "id": "B263 ",
+    "grade": "B",
+    "locations": [
+      "Malabe",
+      "Kothalawala Interchange",
+      "Kaduwela"
+    ]
+  },
+  {
+    "id": "B269 ",
+    "grade": "B",
+    "locations": [
+      "Mankulam (Mullaitivu)",
+      "Mallavi",
+      "Vellankulam"
+    ]
+  },
+  {
+    "id": "B274 ",
+    "grade": "B",
+    "locations": [
+      "Matale",
+      "Rattota",
+      "Pitawala Pathana",
+      "Pallegama (Matale)",
+      "Hettipola",
+      "Hasalaka"
+    ]
+  },
+  {
+    "id": "B275",
+    "grade": "B",
+    "locations": [
+      "Matara Town",
+      "Thihagoda",
+      "Hakmana"
+    ]
+  },
+  {
+    "id": "B278 ",
+    "grade": "B",
+    "locations": [
+      "Mawanella",
+      "Aranayake",
+      "Horewala Buddhist Temple"
+    ]
+  },
+  {
+    "id": "B279",
+    "grade": "B",
+    "locations": [
+      "Mawanella",
+      "Gampola"
+    ]
+  },
+  {
+    "id": "B285 ",
+    "grade": "B",
+    "locations": [
+      "Meepe",
+      "Bope (Colombo)",
+      "Ingiriya"
+    ]
+  },
+  {
+    "id": "B291 ",
+    "grade": "B",
+    "locations": [
+      "Mirihana",
+      "Udahamulla",
+      "Nawinna"
+    ]
+  },
+  {
+    "id": "B296 ",
+    "grade": "B",
+    "locations": [
+      "Puliyankulam (Vavuniya)",
+      "Mullaittivu"
+    ]
+  },
+  {
+    "id": "B297",
+    "grade": "B",
+    "locations": [
+      "Mullaitivu",
+      "9.091, 80.898",
+      "Kokkilai"
+    ]
+  },
+  {
+    "id": "B304 ",
+    "grade": "B",
+    "locations": [
+      "Katukurunda",
+      "Nagoda Junction (Kalutara)",
+      "Dodangoda Interchage (E01)",
+      "Matugama",
+      "Agalawatte",
+      "Kalawellawa",
+      "Ballapitiya"
+    ]
+  },
+  {
+    "id": "B307 ",
+    "grade": "B",
+    "locations": [
+      "Narahenpita Police Station",
+      "Nawala",
+      "Nugegoda Railway"
+    ]
+  },
+  {
+    "id": "B308 ",
+    "grade": "B",
+    "locations": [
+      "Narammala",
+      "Dampelessa",
+      "Giriulla",
+      "Dankotuwa"
+    ]
+  },
+  {
+    "id": "B312 ",
+    "grade": "B",
+    "locations": [
+      "Naula (Matale)",
+      "Elahera",
+      "Pallegama (Matale)",
+      "Hettipola"
+    ]
+  },
+  {
+    "id": "B317 ",
+    "grade": "B",
+    "locations": [
+      "Nawalapitiya",
+      "Pathana Junction"
+    ]
+  },
+  {
+    "id": "B318 ",
+    "grade": "B",
+    "locations": [
+      "Nawalapitiya",
+      "Dolosbage"
+    ]
+  },
+  {
+    "id": "B319 ",
+    "grade": "B",
+    "locations": [
+      "Nawalapitiya",
+      "Ginigathena"
+    ]
+  },
+  {
+    "id": "B322 ",
+    "grade": "B",
+    "locations": [
+      "Negombo",
+      "Giriulla"
+    ]
+  },
+  {
+    "id": "B324 ",
+    "grade": "B",
+    "locations": [
+      "Negombo",
+      "Divulapitiya",
+      "Mirigama"
+    ]
+  },
+  {
+    "id": "B328 ",
+    "grade": "B",
+    "locations": [
+      "Norton Bridge (Nuwara Eliya)",
+      "Maskeliya"
+    ]
+  },
+  {
+    "id": "B329",
+    "grade": "B",
+    "locations": [
+      "Norwood (Nuwara Eliya)",
+      "Bogowantalawa",
+      "Campion Estate (Nuwara Eliya)"
+    ]
+  },
+  {
+    "id": "B332 ",
+    "grade": "B",
+    "locations": [
+      "Nuwara Eliya",
+      "Ragala",
+      "Uda Pussellawa"
+    ]
+  },
+  {
+    "id": "B339",
+    "grade": "B",
+    "locations": [
+      "Balangoda",
+      "Campion Estate (Nuwara Eliya)",
+      "Bogowantalawa"
+    ]
+  },
+  {
+    "id": "B345 ",
+    "grade": "B",
+    "locations": [
+      "Nugegoda Railway",
+      "Pagoda (Nugegoda, Colombo)",
+      "Pitakotte"
+    ]
+  },
+  {
+    "id": "B355 ",
+    "grade": "B",
+    "locations": [
+      "Panama (Ampara)",
+      "Kuda Kebaliththa Devalaya"
+    ]
+  },
+  {
+    "id": "B363 ",
+    "grade": "B",
+    "locations": [
+      "Pelawatta (Kalutara)",
+      "Neluwa",
+      "Morawaka"
+    ]
+  },
+  {
+    "id": "B364 ",
+    "grade": "B",
+    "locations": [
+      "Peradeniya",
+      "Deltota",
+      "Rikiligaskada"
+    ]
+  },
+  {
+    "id": "B365 ",
+    "grade": "B",
+    "locations": [
+      "Peradeniya",
+      "Halloluwa",
+      "Katugastota"
+    ]
+  },
+  {
+    "id": "B367 ",
+    "grade": "B",
+    "locations": [
+      "Piliyandala",
+      "Maharagama"
+    ]
+  },
+  {
+    "id": "B368 ",
+    "grade": "B",
+    "locations": [
+      "Pitakotte",
+      "Rasambula (Colombo)",
+      "Talawatugoda"
+    ]
+  },
+  {
+    "id": "B374 ",
+    "grade": "B",
+    "locations": [
+      "Pottuvil",
+      "Panama (Ampara)"
+    ]
+  },
+  {
+    "id": "B379",
+    "grade": "B",
+    "locations": [
+      "Puttalam",
+      "Eluwankulama",
+      "Mullikulam Beach"
+    ]
+  },
+  {
+    "id": "B389 ",
+    "grade": "B",
+    "locations": [
+      "Rathmalana",
+      "Bellanthota Junction",
+      "360 Papiliyana",
+      "Gamsabha Junction",
+      "Mirihana"
+    ]
+  },
+  {
+    "id": "B391 ",
+    "grade": "B",
+    "locations": [
+      "Ratnapura",
+      "Wewelwatte",
+      "Wewelwatte Junction"
+    ]
+  },
+  {
+    "id": "B400 ",
+    "grade": "B",
+    "locations": [
+      "Seeduwa Junction",
+      "Kotugoda (Gampaha)",
+      "Udugampola"
+    ]
+  },
+  {
+    "id": "B403",
+    "grade": "B",
+    "locations": [
+      "Mullikulam Beach",
+      "Nanattan",
+      "Mannar"
+    ]
+  },
+  {
+    "id": "B413 ",
+    "grade": "B",
+    "locations": [
+      "Tennekumbura",
+      "Kandehandiya",
+      "Rikiligaskada",
+      "Walapane",
+      "Ragala"
+    ]
+  },
+  {
+    "id": "B415",
+    "grade": "B",
+    "locations": [
+      "Thihagoda",
+      "Kamburupitiya",
+      "Mawarala",
+      "Kotapola"
+    ]
+  },
+  {
+    "id": "B419 ",
+    "grade": "B",
+    "locations": [
+      "Kochchikade",
+      "Dankotuwa",
+      "Madampe (Puttalam)"
+    ]
+  },
+  {
+    "id": "B421 ",
+    "grade": "B",
+    "locations": [
+      "Tiruwanaketiya",
+      "Kalawana",
+      "Bellana",
+      "Agalawatte"
+    ]
+  },
+  {
+    "id": "B422 ",
+    "grade": "B",
+    "locations": [
+      "Tissamaharama",
+      "Kirinda"
+    ]
+  },
+  {
+    "id": "B423 ",
+    "grade": "B",
+    "locations": [
+      "Thoniyagala",
+      "Kalawewa",
+      "Balaluwewa",
+      "Galewela"
+    ]
+  },
+  {
+    "id": "B424",
+    "grade": "B",
+    "locations": [
+      "Trincomalee",
+      "Pulmoddai"
+    ]
+  },
+  {
+    "id": "B427",
+    "grade": "B",
+    "locations": [
+      "Udawalawe",
+      "Bodagama",
+      "Thanamalwila"
+    ]
+  },
+  {
+    "id": "B430 ",
+    "grade": "B",
+    "locations": [
+      "Udugampola",
+      "Naiwala (Gampaha)",
+      "Divulapitiya"
+    ]
+  },
+  {
+    "id": "B435 ",
+    "grade": "B",
+    "locations": [
+      "Urugodawatte",
+      "Wellampitiya",
+      "Kotikawatta",
+      "Angoda",
+      "Ambatale Junction"
+    ]
+  },
+  {
+    "id": "B445 ",
+    "grade": "B",
+    "locations": [
+      "Veyangoda",
+      "Nittambuwa",
+      "Urapola",
+      "Ruwanwella"
+    ]
+  },
+  {
+    "id": "B456 ",
+    "grade": "B",
+    "locations": [
+      "Warakapola",
+      "Keenadeniya Junction",
+      "Kandalama (Gampaha)"
+    ]
+  },
+  {
+    "id": "B457 ",
+    "grade": "B",
+    "locations": [
+      "Warakapola",
+      "Ruwanwella"
+    ]
+  },
+  {
+    "id": "B458",
+    "grade": "B",
+    "locations": [
+      "Waskaduwa",
+      "Bandaragama"
+    ]
+  },
+  {
+    "id": "B464",
+    "grade": "B",
+    "locations": [
+      "Weerawila",
+      "Tissamaharama",
+      "Kataragama"
+    ]
+  },
+  {
+    "id": "B465",
+    "grade": "B",
+    "locations": [
+      "Kokmaduwa Interchange",
+      "Weligama"
+    ]
+  },
+  {
+    "id": "B469 ",
+    "grade": "B",
+    "locations": [
+      "Welikada Plaza",
+      "Gothatuwa New Town",
+      "Kotikawatta",
+      "Kohilawatta"
+    ]
+  },
+  {
+    "id": "B470 ",
+    "grade": "B",
+    "locations": [
+      "Welikada Plaza",
+      "Nawala"
+    ]
+  },
+  {
+    "id": "B471 ",
+    "grade": "B",
+    "locations": [
+      "Welimada",
+      "Uda Pussellawa"
+    ]
+  },
+  {
+    "id": "B479 ",
+    "grade": "B",
+    "locations": [
+      "Yakkala",
+      "Radawana"
+    ]
+  },
+  {
+    "id": "B485 ",
+    "grade": "B",
+    "locations": [
+      "Walasmulla",
+      "Kirama",
+      "Katuwana",
+      "Middeniya"
+    ]
+  },
+  {
+    "id": "B486 ",
+    "grade": "B",
+    "locations": [
+      "Embilipitiya",
+      "Middeniya"
+    ]
+  },
+  {
+    "id": "B488 ",
+    "grade": "B",
+    "locations": [
+      "Polonnaruwa",
+      "Tambala (Polonnaruwa)",
+      "Sungawila",
+      "Somawathiya",
+      "Trikonamadu Nature Reserve",
+      "Serunuwara"
+    ]
+  },
+  {
+    "id": "B492 ",
+    "grade": "B",
+    "locations": [
+      "Kandehandiya",
+      "Randenigala",
+      "Loggal Oya"
+    ]
+  },
+  {
+    "id": "B499 ",
+    "grade": "B",
+    "locations": [
+      "Kirinda",
+      "Yala Wildlife Office"
+    ]
+  },
+  {
+    "id": "B501 ",
+    "grade": "B",
+    "locations": [
+      "Andara Wewa (Anuradhapura)",
+      "Tambuttegama",
+      "Balaluwewa"
+    ]
+  },
+  {
+    "id": "B502",
+    "grade": "B",
+    "locations": [
+      "Manampitiya",
+      "Dalukkane",
+      "Aralaganwila",
+      "Maha Oya (Ampara)"
+    ]
+  },
+  {
+    "id": "B504 ",
+    "grade": "B",
+    "locations": [
+      "Maharagama",
+      "Pamunuwa",
+      "Thalapathpitiya"
+    ]
+  },
+  {
+    "id": "B508",
+    "grade": "B",
+    "locations": [
+      "Welimada",
+      "Boralanda",
+      "Ohiya",
+      "Horton Plains"
+    ]
+  },
+  {
+    "id": "B512",
+    "grade": "B",
+    "locations": [
+      "Blackpool (Nuwara Eliya)",
+      "Pattipola",
+      "Horton Plains"
+    ]
+  },
+  {
+    "id": "B527",
+    "grade": "B",
+    "locations": [
+      "Bibile",
+      "Pitakumbura",
+      "Inginiyagala"
+    ]
+  },
+  {
+    "id": "B528 ",
+    "grade": "B",
+    "locations": [
+      "Bodagama",
+      "Hambegamuwa",
+      "Kaltota"
+    ]
+  },
+  {
+    "id": "B530 ",
+    "grade": "B",
+    "locations": [
+      "Udahamulla",
+      "Thalapathpitiya"
+    ]
+  },
+  {
+    "id": "B544 ",
+    "grade": "B",
+    "locations": [
+      "Moragala",
+      "Bellana"
+    ]
+  },
+  {
+    "id": "B594",
+    "grade": "B",
+    "locations": [
+      "Pinnaduwa Interchange",
+      "Galle Town"
+    ]
+  },
+  {
+    "id": "B627 ",
+    "grade": "B",
+    "locations": [
+      "Udupussellawa",
+      "Walapane"
+    ]
+  },
+  {
+    "id": "Darley",
+    "grade": "U",
+    "locations": [
+      "Maradana Railway",
+      "Hyde Park Corner (Colombo)"
+    ]
+  },
+  {
+    "id": "Deans",
+    "grade": "U",
+    "locations": [
+      "443 Maradana Rd",
+      "Town Hall (Colombo)"
+    ]
+  },
+  {
+    "id": "Delathura",
+    "grade": "U",
+    "locations": [
+      "Ja-Ela Interchage",
+      "Ja-Ela"
+    ]
+  },
+  {
+    "id": "Dolosbage",
+    "grade": "U",
+    "locations": [
+      "Dolosbage",
+      "Aranayake"
+    ]
+  },
+  {
+    "id": "E01",
+    "grade": "E",
+    "locations": [
+      "Kottawa",
+      "Kahathuduwa",
+      "Gelanigama",
+      "Dodangoda Interchage (E01)",
+      "Welipenna Exit",
+      "Kurundugahahetekma",
+      "Baddegama Exit",
+      "Pinnaduwa Interchange",
+      "Imaduwa",
+      "Kokmaduwa Interchange",
+      "Godagama (Matara)"
+    ]
+  },
+  {
+    "id": "E02",
+    "grade": "E",
+    "locations": [
+      "Kottawa",
+      "Athurugiriya Interchange",
+      "Kothalawala Interchange",
+      "Kaduwela Interchange",
+      "Kadawatha",
+      "Kerawalapitiya Interchange"
+    ]
+  },
+  {
+    "id": "E03",
+    "grade": "E",
+    "locations": [
+      "New Kelani Bridge",
+      "Peliyagoda Interchange",
+      "Kerawalapitiya Interchange",
+      "Ja-Ela Interchage",
+      "Katunayake"
+    ]
+  },
+  {
+    "id": "E03+",
+    "grade": "E",
+    "locations": [
+      "6.971, 79.885",
+      "Peliyagoda Interchange",
+      "Thorana Junction"
+    ]
+  },
+  {
+    "id": "Hadugala",
+    "grade": "U",
+    "locations": [
+      "Kirama",
+      "Mawarala"
+    ]
+  },
+  {
+    "id": "JP-SL",
+    "grade": "U",
+    "locations": [
+      "Sri Jayewardenepura",
+      "Rasambula (Colombo)"
+    ]
+  },
+  {
+    "id": "Janakapura/Welioya",
+    "grade": "U",
+    "locations": [
+      "9.091, 80.898",
+      "Welioya",
+      "Padaviya"
+    ]
+  },
+  {
+    "id": "Kottawa-Malabe",
+    "grade": "U",
+    "locations": [
+      "Malabe",
+      "Hokandara",
+      "Kottawa"
+    ]
+  },
+  {
+    "id": "Ohiya",
+    "grade": "U",
+    "locations": [
+      "Ohiya",
+      "Kalupahana Junction"
+    ]
+  },
+  {
+    "id": "Palampiddi",
+    "grade": "U",
+    "locations": [
+      "Vidataltivu",
+      "Palampiddi",
+      "Vavuniya"
+    ]
+  },
+  {
+    "id": "Park",
+    "grade": "U",
+    "locations": [
+      "1 Park Road (Colombo)",
+      "340 Park Road (Colombo)"
+    ]
+  },
+  {
+    "id": "Situlpawwa",
+    "grade": "U",
+    "locations": [
+      "Kataragama",
+      "Situlpawwa",
+      "Kirinda"
+    ]
+  },
+  {
+    "id": "Talawatugoda",
+    "grade": "U",
+    "locations": [
+      "Talawatugoda",
+      "Hokandara"
+    ]
+  },
+  {
+    "id": "Union",
+    "grade": "U",
+    "locations": [
+      "Town Hall (Colombo)",
+      "Hyde Park Corner (Colombo)",
+      "1 Union (Colombo)"
+    ]
+  },
+  {
+    "id": "W.A.Silva",
+    "grade": "U",
+    "locations": [
+      "Havelock Bo Tree (Colombo)",
+      "Wellawatta"
+    ]
+  },
+  {
+    "id": "Ward",
+    "grade": "U",
+    "locations": [
+      "Town Hall (Colombo)",
+      "1 Wijerama Mw (Colombo)",
+      "Borella Tunnel"
+    ]
+  },
+  {
+    "id": "Wijerama Mw",
+    "grade": "U",
+    "locations": [
+      "1 Wijerama Mw (Colombo)",
+      "62 Horton Pl (Colombo)",
+      "130 Wijerama Mw (Colombo)"
+    ]
+  }
+]
