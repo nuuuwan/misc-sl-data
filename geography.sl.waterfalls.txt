@@ -1,0 +1,21 @@
+name	height_m	river	main_river	top_elevation_m
+Bambarakanda Falls	263	Weli Oya	Walawe Ganga	1200
+"Garandi Ella, Kalugala"	220	Kotmale Oya	Mahaweli Ganga	1250
+Lihinihela Ella	200	Nilambe Oya	Mahaweli Ganga	650
+Kurundu Oya Falls	189	Kurundu Oya	Mahaweli Ganga	1300
+Diyaluma Falls	171	Kuda Oya	Kirindi Oya	650
+Mapalana Falls 	141	Kalu Ganga	Kalu Ganga	400
+Laxapana Falls	129	Kelani Ganga	Kelani Ganga	720
+Oolu Ella	127	Wee Oya	Kelani Ganga	250
+Mahakandura Falls	120	Mahaweli Ganga	Mahaweli Ganga	760
+Kirindi Ella	116	Kalu Ganga	Kalu Ganga	360
+Ramboda Falls	109	Ramboda Oya	Mahaweli Ganga	1200
+Rathna Falls	101	Hasalaka Oya	Mahaweli Ganga	300
+Galdola Falls	100	Rakwana Ganga	Walawe Ganga	520
+Nakkawita Falls	100	Seethawaka Ganga	Kelani Ganga	280
+Puna Falls	100	Ramboda Oya	Mahaweli Ganga	980
+Pundalu Oya Falls	100	Pundalu Oya	Mahaweli Ganga	1200
+Aberdeen Falls	98	Kehelgamu Oya	Kelani Ganga	560
+Devon Falls	97	"Kotmale Oya	Mahaweli Ganga"		1160
+Galamuduna Ahasgawwa Falls	92	Mahaweli Ganga	Mahaweli Ganga	520
+St. Clair's Falls	80	"Kotmale Oya	Mahaweli Ganga"		1100
