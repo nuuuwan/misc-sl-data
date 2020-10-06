@@ -1,0 +1,1288 @@
+{
+  "nodes": [
+    {
+      "id": "Akkarayan Kulam"
+    },
+    {
+      "id": "Aligalge Tank"
+    },
+    {
+      "id": "Allai Wewa"
+    },
+    {
+      "id": "Alut Wewa"
+    },
+    {
+      "id": "Ambalanaya Reservoir"
+    },
+    {
+      "id": "Amban Ganga"
+    },
+    {
+      "id": "Amparai Kulam"
+    },
+    {
+      "id": "Andella Oya Tank"
+    },
+    {
+      "id": "Angamuwa Tank"
+    },
+    {
+      "id": "Arugam Kalapuwa"
+    },
+    {
+      "id": "Aruvi Aru"
+    },
+    {
+      "id": "Athurumithuru Wewa"
+    },
+    {
+      "id": "Attanagalu Oya"
+    },
+    {
+      "id": "Badagiriya Tank"
+    },
+    {
+      "id": "Badulu Oya"
+    },
+    {
+      "id": "Bagura Kalapuwa"
+    },
+    {
+      "id": "Bakme Wewa"
+    },
+    {
+      "id": "Batalagoda Tank"
+    },
+    {
+      "id": "Batticaloa Lagoon"
+    },
+    {
+      "id": "Bentota Ganga"
+    },
+    {
+      "id": "Bentota Ganga ( Dedduwa L"
+    },
+    {
+      "id": "Bodigoda Aru"
+    },
+    {
+      "id": "Bolgoda Lake"
+    },
+    {
+      "id": "Bundala Lewaya"
+    },
+    {
+      "id": "Castlereagh Reservoir"
+    },
+    {
+      "id": "Chamalan Kulam"
+    },
+    {
+      "id": "Chandrika Wewa"
+    },
+    {
+      "id": "Chilaw Lake"
+    },
+    {
+      "id": "Churiyan Aru"
+    },
+    {
+      "id": "Dambarawa Wewa"
+    },
+    {
+      "id": "Darage Ara"
+    },
+    {
+      "id": "Dastota Wewa"
+    },
+    {
+      "id": "Deduru Oya"
+    },
+    {
+      "id": "Delgoda Ganga"
+    },
+    {
+      "id": "Dewahuwa Tank"
+    },
+    {
+      "id": "Ekgal Aru Tank"
+    },
+    {
+      "id": "Elahera Minneriya Yoda El"
+    },
+    {
+      "id": "Embilikala Kalapuwa"
+    },
+    {
+      "id": "Etabendi Wewa"
+    },
+    {
+      "id": "Etili Wewa"
+    },
+    {
+      "id": "Gal Oya"
+    },
+    {
+      "id": "Galgamuwa Wewa"
+    },
+    {
+      "id": "Gallodai Aru"
+    },
+    {
+      "id": "Giant's Tank"
+    },
+    {
+      "id": "Gin Ganga"
+    },
+    {
+      "id": "Giritale Wewa"
+    },
+    {
+      "id": "Hakwetuna Oya Reservoir"
+    },
+    {
+      "id": "Halrela Wewa"
+    },
+    {
+      "id": "Hambegamuwa Wewa"
+    },
+    {
+      "id": "Handapan Villu"
+    },
+    {
+      "id": "Handapangala Wewa"
+    },
+    {
+      "id": "Hasalaka Tank"
+    },
+    {
+      "id": "Heda Oya"
+    },
+    {
+      "id": "Hiyare Reservoir"
+    },
+    {
+      "id": "Horabora Wewa"
+    },
+    {
+      "id": "Hungamala Ela"
+    },
+    {
+      "id": "Hurulu Wewa"
+    },
+    {
+      "id": "Ilakkantai Kulam"
+    },
+    {
+      "id": "Inginimitiya Reservoir"
+    },
+    {
+      "id": "Irakkamam Kulam"
+    },
+    {
+      "id": "Iranamadu Tank"
+    },
+    {
+      "id": "Iratperiya Kulam"
+    },
+    {
+      "id": "Jayanthi Wewa"
+    },
+    {
+      "id": "Kaddumurivu Kulam"
+    },
+    {
+      "id": "Kal Aru"
+    },
+    {
+      "id": "Kala Oya"
+    },
+    {
+      "id": "Kala Wewa/ Balalu Wewa"
+    },
+    {
+      "id": "Kalagamu Oya"
+    },
+    {
+      "id": "Kalametiya/Lunama Kalapuw"
+    },
+    {
+      "id": "Kalapuwa"
+    },
+    {
+      "id": "Kalatuwawa Reservoir"
+    },
+    {
+      "id": "Kalu Ganga"
+    },
+    {
+      "id": "Kambukkan Oya"
+    },
+    {
+      "id": "Kanakarayan Aru"
+    },
+    {
+      "id": "Kandalama Wewa"
+    },
+    {
+      "id": "Kantale Wewa"
+    },
+    {
+      "id": "Kanukkeni Kulam"
+    },
+    {
+      "id": "Karagan Lewaya"
+    },
+    {
+      "id": "Karambalan Oya"
+    },
+    {
+      "id": "Karanda Oya"
+    },
+    {
+      "id": "Karapola Villu"
+    },
+    {
+      "id": "Karawila Wewa"
+    },
+    {
+      "id": "Kattiyawa Tank"
+    },
+    {
+      "id": "Kaudulla Oya"
+    },
+    {
+      "id": "Kaudulla Wewa"
+    },
+    {
+      "id": "Kelani Ganga"
+    },
+    {
+      "id": "Kimbulwana Oya"
+    },
+    {
+      "id": "Kimbulwana Wewa"
+    },
+    {
+      "id": "Kirindi Oya"
+    },
+    {
+      "id": "Kitul Wewa"
+    },
+    {
+      "id": "Koggala Lake"
+    },
+    {
+      "id": "Koholankal  Lewaya"
+    },
+    {
+      "id": "Kokkilai Lagoon"
+    },
+    {
+      "id": "Kolamunu Oya"
+    },
+    {
+      "id": "Kondavattavan Tank"
+    },
+    {
+      "id": "Kotmale Reservoir"
+    },
+    {
+      "id": "Kuda Ganga"
+    },
+    {
+      "id": "Kuda Oya"
+    },
+    {
+      "id": "Kumana Wewa"
+    },
+    {
+      "id": "Kunchikumban Aru"
+    },
+    {
+      "id": "Kuurunde Ara"
+    },
+    {
+      "id": "Labugama Reservoir"
+    },
+    {
+      "id": "Lahugala Tank"
+    },
+    {
+      "id": "Lavani Aru"
+    },
+    {
+      "id": "Lewaya"
+    },
+    {
+      "id": "Loggal Oya Reservoir"
+    },
+    {
+      "id": "Lunuganwehera Reservoir"
+    },
+    {
+      "id": "Ma Oya"
+    },
+    {
+      "id": "Madampe Lake"
+    },
+    {
+      "id": "Madu Ganga"
+    },
+    {
+      "id": "Maduru Oya"
+    },
+    {
+      "id": "Maduru Oya Reservoir"
+    },
+    {
+      "id": "Magalavatavan Aru"
+    },
+    {
+      "id": "Magalle Wewa"
+    },
+    {
+      "id": "Maguru Ganga"
+    },
+    {
+      "id": "Maguru Oya"
+    },
+    {
+      "id": "Maha Alan Kulam"
+    },
+    {
+      "id": "Maha Diwul Wewa"
+    },
+    {
+      "id": "Maha Lewaya"
+    },
+    {
+      "id": "Maha Oya"
+    },
+    {
+      "id": "Maha Uswewa"
+    },
+    {
+      "id": "Mahakanadarawa Tank"
+    },
+    {
+      "id": "Mahakaniya Tank"
+    },
+    {
+      "id": "Mahaweli Ganga"
+    },
+    {
+      "id": "Mahawilachchiya Tank"
+    },
+    {
+      "id": "Malala Lewaya"
+    },
+    {
+      "id": "Malala Oya"
+    },
+    {
+      "id": "Malapu Kulam"
+    },
+    {
+      "id": "Malwatu Oya"
+    },
+    {
+      "id": "Manal Aru"
+    },
+    {
+      "id": "Mandagala Tank"
+    },
+    {
+      "id": "Mandekal Aru"
+    },
+    {
+      "id": "Mapakada Wewa"
+    },
+    {
+      "id": "Maskeliya Oya"
+    },
+    {
+      "id": "Mau Ara"
+    },
+    {
+      "id": "Maussakalle Reservoir"
+    },
+    {
+      "id": "Mee Oya"
+    },
+    {
+      "id": "Menik Ganga"
+    },
+    {
+      "id": "Mi Oya"
+    },
+    {
+      "id": "Minipe Yoda Ela"
+    },
+    {
+      "id": "Minneriya Wewa"
+    },
+    {
+      "id": "Miyangolla Ela"
+    },
+    {
+      "id": "Modaragam Aru"
+    },
+    {
+      "id": "Mora Wewa"
+    },
+    {
+      "id": "Mundel Lake"
+    },
+    {
+      "id": "Mundeni Aru"
+    },
+    {
+      "id": "Muthuaiyankaddu Kulam"
+    },
+    {
+      "id": "Mutugalla Villu"
+    },
+    {
+      "id": "Mutukandiya Tank"
+    },
+    {
+      "id": "Nachchaduwa Tank"
+    },
+    {
+      "id": "Nagadeepa Maha Wewa"
+    },
+    {
+      "id": "Nagapaduvan Kulam"
+    },
+    {
+      "id": "Namal Oya Reservoir"
+    },
+    {
+      "id": "Nanneri Oya"
+    },
+    {
+      "id": "Nanthi Kadal Lagoon"
+    },
+    {
+      "id": "Navakiri Aru Tank"
+    },
+    {
+      "id": "Nay Aru"
+    },
+    {
+      "id": "Nayaru Lagoon"
+    },
+    {
+      "id": "Negombo Lagoon"
+    },
+    {
+      "id": "Nilwala Gannga"
+    },
+    {
+      "id": "Nuwara Wewa"
+    },
+    {
+      "id": "Padawiya Wewa"
+    },
+    {
+      "id": "Paladi Kalapuwa"
+    },
+    {
+      "id": "Palatupana Maha Lewaya"
+    },
+    {
+      "id": "Pali Aru"
+    },
+    {
+      "id": "Pan Ela"
+    },
+    {
+      "id": "Pankulam Aru"
+    },
+    {
+      "id": "Pannela Oya"
+    },
+    {
+      "id": "Pannelagama Reservoir"
+    },
+    {
+      "id": "Parakrama Samdra"
+    },
+    {
+      "id": "Parangi Aru"
+    },
+    {
+      "id": "Pavatkulam"
+    },
+    {
+      "id": "Per Aru"
+    },
+    {
+      "id": "Periya Kalapuwa"
+    },
+    {
+      "id": "Periya Kulam"
+    },
+    {
+      "id": "Periyakarachchi"
+    },
+    {
+      "id": "Periyamadu Kulam"
+    },
+    {
+      "id": "Periyaveli Kulam"
+    },
+    {
+      "id": "Perumaduwa Wewa"
+    },
+    {
+      "id": "Pimburettawa Wewa"
+    },
+    {
+      "id": "Rajangane Reservoir"
+    },
+    {
+      "id": "Rambukkan Oya"
+    },
+    {
+      "id": "Randenigala Reservoir"
+    },
+    {
+      "id": "Rantambe Reservoir"
+    },
+    {
+      "id": "Ratgama Lake"
+    },
+    {
+      "id": "Rathambala Oya"
+    },
+    {
+      "id": "Rathkinda Reservoir"
+    },
+    {
+      "id": "Ratmal Oya"
+    },
+    {
+      "id": "Rekawa Kalapuwa"
+    },
+    {
+      "id": "Reservoir"
+    },
+    {
+      "id": "Ridibendi Ela"
+    },
+    {
+      "id": "Ridiyagama Tank"
+    },
+    {
+      "id": "Rota Kulam"
+    },
+    {
+      "id": "Rufus Kulam"
+    },
+    {
+      "id": "Rukam Wewa"
+    },
+    {
+      "id": "Sagamam Kulam"
+    },
+    {
+      "id": "Senanayake Samudra"
+    },
+    {
+      "id": "Sigiri Wewa"
+    },
+    {
+      "id": "Sinnakarachchi"
+    },
+    {
+      "id": "Siyambalangamuwa Wewa"
+    },
+    {
+      "id": "Tabbowa Wewa"
+    },
+    {
+      "id": "Tannimurippu Kulam"
+    },
+    {
+      "id": "Tissa Wewa"
+    },
+    {
+      "id": "Turuwila Wewa"
+    },
+    {
+      "id": "Uda Walawe Reservoir"
+    },
+    {
+      "id": "Udakiriwila Tank"
+    },
+    {
+      "id": "Udayarkattu Kulam"
+    },
+    {
+      "id": "Ulhitiya Oya"
+    },
+    {
+      "id": "Ulhitiya Reservoir"
+    },
+    {
+      "id": "Ullackalie Lagoon"
+    },
+    {
+      "id": "Uma Oya"
+    },
+    {
+      "id": "Unnichchai  Wewa"
+    },
+    {
+      "id": "Upaar Lagoon"
+    },
+    {
+      "id": "Uppu Aru"
+    },
+    {
+      "id": "Vakaneri Wewa"
+    },
+    {
+      "id": "Valathapitty Kulam"
+    },
+    {
+      "id": "Vammiaddi Kulam"
+    },
+    {
+      "id": "Vanneri Kulam"
+    },
+    {
+      "id": "Vavuni Kulam"
+    },
+    {
+      "id": "Velankadu Villu"
+    },
+    {
+      "id": "Vendaransan Kulam"
+    },
+    {
+      "id": "Veragoda Tank"
+    },
+    {
+      "id": "Verugal Aru"
+    },
+    {
+      "id": "Vettu Kulam"
+    },
+    {
+      "id": "Victoria Reservoir"
+    },
+    {
+      "id": "Villu Kulam"
+    },
+    {
+      "id": "Wagollakada Wewa"
+    },
+    {
+      "id": "Wahalkada Wewa"
+    },
+    {
+      "id": "Welawe Ganga"
+    },
+    {
+      "id": "Weli Oya"
+    },
+    {
+      "id": "Wellawa Wewa"
+    },
+    {
+      "id": "Wey Ganga"
+    },
+    {
+      "id": "Wila Oya"
+    },
+    {
+      "id": "Wirawila Wewa"
+    },
+    {
+      "id": "Yakkala Kalapuwa"
+    },
+    {
+      "id": "Yan Oya"
+    },
+    {
+      "id": "Yoda Ela"
+    },
+    {
+      "id": "Yoda Wewa"
+    }
+  ],
+  "links": [
+    {
+      "source": "Nanthi Kadal Lagoon",
+      "target": "Per Aru"
+    },
+    {
+      "source": "Muthuaiyankaddu Kulam",
+      "target": "Per Aru"
+    },
+    {
+      "source": "Nayaru Lagoon",
+      "target": "Manal Aru"
+    },
+    {
+      "source": "Tannimurippu Kulam",
+      "target": "Manal Aru"
+    },
+    {
+      "source": "Vavuni Kulam",
+      "target": "Pali Aru"
+    },
+    {
+      "source": "Kokkilai Lagoon",
+      "target": "Ma Oya"
+    },
+    {
+      "source": "Periyamadu Kulam",
+      "target": "Nay Aru"
+    },
+    {
+      "source": "Mee Oya",
+      "target": "Kokkilai Lagoon"
+    },
+    {
+      "source": "Padawiya Wewa",
+      "target": "Ma Oya"
+    },
+    {
+      "source": "Wahalkada Wewa",
+      "target": "Yan Oya"
+    },
+    {
+      "source": "Iratperiya Kulam",
+      "target": "Aruvi Aru"
+    },
+    {
+      "source": "Pavatkulam",
+      "target": "Aruvi Aru"
+    },
+    {
+      "source": "Maha Diwul Wewa",
+      "target": "Pankulam Aru"
+    },
+    {
+      "source": "Mora Wewa",
+      "target": "Pankulam Aru"
+    },
+    {
+      "source": "Malwatu Oya",
+      "target": "Aruvi Aru"
+    },
+    {
+      "source": "Mahawilachchiya Tank",
+      "target": "Modaragam Aru"
+    },
+    {
+      "source": "Vendaransan Kulam",
+      "target": "Per Aru"
+    },
+    {
+      "source": "Allai Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Mahakanadarawa Tank",
+      "target": "Aruvi Aru"
+    },
+    {
+      "source": "Kantale Wewa",
+      "target": "Per Aru"
+    },
+    {
+      "source": "Uppu Aru",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Pan Ela",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Yoda Ela",
+      "target": "Per Aru"
+    },
+    {
+      "source": "Perumaduwa Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Nachchaduwa Tank",
+      "target": "Malwatu Oya"
+    },
+    {
+      "source": "Yoda Ela",
+      "target": "Kaudulla Oya"
+    },
+    {
+      "source": "Kaudulla Wewa",
+      "target": "Kaudulla Oya"
+    },
+    {
+      "source": "Angamuwa Tank",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Verugal Aru",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Kaudulla Oya",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Rajangane Reservoir",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Kattiyawa Tank",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Bodigoda Aru",
+      "target": "Upaar Lagoon"
+    },
+    {
+      "source": "Tabbowa Wewa",
+      "target": "Mi Oya"
+    },
+    {
+      "source": "Siyambalangamuwa Wewa",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Minneriya Wewa",
+      "target": "Yoda Ela"
+    },
+    {
+      "source": "Tabbowa Wewa",
+      "target": "Nanneri Oya"
+    },
+    {
+      "source": "Minneriya Wewa",
+      "target": "Kaudulla Oya"
+    },
+    {
+      "source": "Kala Wewa/ Balalu Wewa",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Giritale Wewa",
+      "target": "Kaudulla Oya"
+    },
+    {
+      "source": "Inginimitiya Reservoir",
+      "target": "Mi Oya"
+    },
+    {
+      "source": "Velankadu Villu",
+      "target": "Kaudulla Oya"
+    },
+    {
+      "source": "Maha Uswewa",
+      "target": "Mi Oya"
+    },
+    {
+      "source": "Sigiri Wewa",
+      "target": "Yan Oya"
+    },
+    {
+      "source": "Velankadu Villu",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Dastota Wewa",
+      "target": "Maduru Oya"
+    },
+    {
+      "source": "Parakrama Samdra",
+      "target": "Amban Ganga"
+    },
+    {
+      "source": "Kandalama Wewa",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Amban Ganga",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Elahera Minneriya Yoda El",
+      "target": "Amban Ganga"
+    },
+    {
+      "source": "Dewahuwa Tank",
+      "target": "Kala Oya"
+    },
+    {
+      "source": "Handapan Villu",
+      "target": "Hungamala Ela"
+    },
+    {
+      "source": "Lavani Aru",
+      "target": "Mundeni Aru"
+    },
+    {
+      "source": "Mundeni Aru",
+      "target": "Batticaloa Lagoon"
+    },
+    {
+      "source": "Hakwetuna Oya Reservoir",
+      "target": "Kimbulwana Oya"
+    },
+    {
+      "source": "Kalagamu Oya",
+      "target": "Mundel Lake"
+    },
+    {
+      "source": "Magalle Wewa",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Ridibendi Ela",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Kalagamu Oya",
+      "target": "Rathambala Oya"
+    },
+    {
+      "source": "Kuda Oya",
+      "target": "Amban Ganga"
+    },
+    {
+      "source": "Pimburettawa Wewa",
+      "target": "Maduru Oya"
+    },
+    {
+      "source": "Kimbulwana Oya",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Maguru Oya",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Rukam Wewa",
+      "target": "Mundeni Aru"
+    },
+    {
+      "source": "Kimbulwana Wewa",
+      "target": "Kimbulwana Oya"
+    },
+    {
+      "source": "Maduru Oya Reservoir",
+      "target": "Maduru Oya"
+    },
+    {
+      "source": "Kitul Wewa",
+      "target": "Rukam Wewa"
+    },
+    {
+      "source": "Kitul Wewa",
+      "target": "Mundeni Aru"
+    },
+    {
+      "source": "Kolamunu Oya",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Chilaw Lake",
+      "target": "Deduru Oya"
+    },
+    {
+      "source": "Ulhitiya Oya",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Rambukkan Oya",
+      "target": "Mundeni Aru"
+    },
+    {
+      "source": "Unnichchai  Wewa",
+      "target": "Magalavatavan Aru"
+    },
+    {
+      "source": "Gallodai Aru",
+      "target": "Mundeni Aru"
+    },
+    {
+      "source": "Batalagoda Tank",
+      "target": "Kimbulwana Oya"
+    },
+    {
+      "source": "Rambukkan Oya",
+      "target": "Maha Oya"
+    },
+    {
+      "source": "Chilaw Lake",
+      "target": "Karambalan Oya"
+    },
+    {
+      "source": "Chilaw Lake",
+      "target": "Ratmal Oya"
+    },
+    {
+      "source": "Ulhitiya Reservoir",
+      "target": "Ulhitiya Oya"
+    },
+    {
+      "source": "Hasalaka Tank",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Horabora Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Victoria Reservoir",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Namal Oya Reservoir",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Dambarawa Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Minipe Yoda Ela",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Ratmal Oya",
+      "target": "Maha Oya"
+    },
+    {
+      "source": "Kondavattavan Tank",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Wellawa Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Senanayake Samudra",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Nagadeepa Maha Wewa",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Aligalge Tank",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Randenigala Reservoir",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Badulu Oya",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Rantambe Reservoir",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Loggal Oya Reservoir",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Rantambe Reservoir",
+      "target": "Uma Oya"
+    },
+    {
+      "source": "Jayanthi Wewa",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Periya Kalapuwa",
+      "target": "Pannela Oya"
+    },
+    {
+      "source": "Negombo Lagoon",
+      "target": "Attanagalu Oya"
+    },
+    {
+      "source": "Pannelagama Reservoir",
+      "target": "Karanda Oya"
+    },
+    {
+      "source": "Kotmale Reservoir",
+      "target": "Mahaweli Ganga"
+    },
+    {
+      "source": "Attanagalu Oya",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Maskeliya Oya",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Mutukandiya Tank",
+      "target": "Heda Oya"
+    },
+    {
+      "source": "Rota Kulam",
+      "target": "Karanda Oya"
+    },
+    {
+      "source": "Paladi Kalapuwa",
+      "target": "Karanda Oya"
+    },
+    {
+      "source": "Lahugala Tank",
+      "target": "Heda Oya"
+    },
+    {
+      "source": "Castlereagh Reservoir",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Arugam Kalapuwa",
+      "target": "Karanda Oya"
+    },
+    {
+      "source": "Kalatuwawa Reservoir",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Arugam Kalapuwa",
+      "target": "Heda Oya"
+    },
+    {
+      "source": "Labugama Reservoir",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Maussakalle Reservoir",
+      "target": "Maskeliya Oya"
+    },
+    {
+      "source": "Bolgoda Lake",
+      "target": "Kelani Ganga"
+    },
+    {
+      "source": "Bolgoda Lake",
+      "target": "Kalu Ganga"
+    },
+    {
+      "source": "Maskeliya Oya",
+      "target": "Weli Oya"
+    },
+    {
+      "source": "Wey Ganga",
+      "target": "Kalu Ganga"
+    },
+    {
+      "source": "Handapangala Wewa",
+      "target": "Kirindi Oya"
+    },
+    {
+      "source": "Kuda Ganga",
+      "target": "Kalu Ganga"
+    },
+    {
+      "source": "Wey Ganga",
+      "target": "Welawe Ganga"
+    },
+    {
+      "source": "Maguru Ganga",
+      "target": "Kuda Ganga"
+    },
+    {
+      "source": "Bakme Wewa",
+      "target": "Kambukkan Oya"
+    },
+    {
+      "source": "Hambegamuwa Wewa",
+      "target": "Mau Ara"
+    },
+    {
+      "source": "Kirindi Oya",
+      "target": "Kuda Oya"
+    },
+    {
+      "source": "Delgoda Ganga",
+      "target": "Kuda Ganga"
+    },
+    {
+      "source": "Uda Walawe Reservoir",
+      "target": "Welawe Ganga"
+    },
+    {
+      "source": "Darage Ara",
+      "target": "Menik Ganga"
+    },
+    {
+      "source": "Bentota Ganga ( Dedduwa L",
+      "target": "Bentota Ganga"
+    },
+    {
+      "source": "Lunuganwehera Reservoir",
+      "target": "Kirindi Oya"
+    },
+    {
+      "source": "Chandrika Wewa",
+      "target": "Welawe Ganga"
+    },
+    {
+      "source": "Badagiriya Tank",
+      "target": "Malala Oya"
+    },
+    {
+      "source": "Halrela Wewa",
+      "target": "Nilwala Gannga"
+    },
+    {
+      "source": "Churiyan Aru",
+      "target": "Kokkilai Lagoon"
+    },
+    {
+      "source": "Hurulu Wewa",
+      "target": "Yan Oya"
+    },
+    {
+      "source": "Ullackalie Lagoon",
+      "target": "Verugal Aru"
+    },
+    {
+      "source": "Ekgal Aru Tank",
+      "target": "Gal Oya"
+    },
+    {
+      "source": "Pannelagama Reservoir",
+      "target": "Pannela Oya"
+    },
+    {
+      "source": "Lewaya",
+      "target": "Kuurunde Ara"
+    },
+    {
+      "source": "Uda Walawe Reservoir",
+      "target": "Weli Oya"
+    },
+    {
+      "source": "Delgoda Ganga",
+      "target": "Welawe Ganga"
+    },
+    {
+      "source": "Tissa Wewa",
+      "target": "Kirindi Oya"
+    },
+    {
+      "source": "Hiyare Reservoir",
+      "target": "Gin Ganga"
+    }
+  ]
+}
