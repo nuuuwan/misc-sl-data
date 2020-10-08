@@ -1,0 +1,7 @@
+﻿type,brand,model, length_m , width_m , height_m ,capacity, area_m2 , capacity_per_area 
+Bus,Tata,LP 913, 9.75 , 2.34 , 2.91 ,52, 22.82 , 2.28 
+Bus,Tata,LP 697, 7.51 , 2.20 , 2.80 ,35, 16.52 , 2.12 
+Car,Toyota,Prius XW30, 4.46 , 1.75 , 1.49 ,5, 7.78 , 0.64 
+Car,Toyota,Corolla, 4.65 , 1.78 , 1.45 ,5, 8.28 , 0.60 
+Three-Wheeler,Bajaj,, 2.63 , 1.30 , 1.71 ,3, 3.41 , 0.88 
+Motor Bike,Bajaj,Pulsar 150, 2.06 , 0.76 , 1.17 ,2, 1.55 , 1.29 
