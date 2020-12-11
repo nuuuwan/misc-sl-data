@@ -1,320 +1,1597 @@
-name	lat	lng
-Abanpola	7.918971	80.246083
-Ahangama	5.973143	80.363821
-Ahungalle	6.312662	80.03764
-Akurala	6.192057	80.064891
-Alawatupitiya	7.115815	79.887019
-Alawwa	7.29331	80.238594
-Aluth Ambalama	6.936789	80.171662
-Aluth oya	8.205555	80.90806
-Aluthgama	6.432949	80.000285
-Ambalangoda	6.235248	80.054991
-Ambewela	6.877134	80.814614
-Anawilundawa	7.70318	79.828178
-Andadola	6.266088	80.046996
-Angampitiya	6.853022	80.109368
-Angulana	6.798949	79.872614
-Anuradhapura	8.344419	80.410836
-Anuradhapura Town	8.344419	80.410836
-Arachchikattuwa	7.667317	79.82862
-Asgiriya	7.289564	80.632358
-Aukana	8.023347	80.531099
-Avissawella	6.954642	80.207363
-Badulla	6.980044	81.05968
-Balana	7.266666	80.489457
-Balapitiya	6.276649	80.043417
-Bambalapitiya	6.893698	79.852957
-Bandarawela	6.828927	80.987606
-Bangadeniya	7.635406	79.8285
-Baseline Road	6.926269	79.878444
-Batticaloa	7.724485	81.698769
-Batuwatte	7.055045	79.937154
-Bemmulla	7.122411	80.020516
-Bentota	6.422143	79.996688
-Beruwala	6.473838	79.991999
-Bolawatte	7.297037	79.860866
-Boossa	6.093286	80.139972
-Borelessa	7.319936	79.863095
-Botale	7.256678	80.153171
-Bulugahagoda	7.066084	79.945647
-Chavakachcheri	9.65715	80.158578
-Cheddiikulam	8.669057	80.305548
-Chilaw	7.575553	79.791113
-China Bey	8.556429	81.190427
-Chunnakam	9.745838	80.033413
-Colombo Fort	6.933701	79.85003
-Cotta Road	6.913418	79.884486
-Daraluwa	7.107115	80.01048
-Dehiwala	6.850906	79.862097
-Dematagoda	6.937477	79.879155
-Demodara	6.902916	81.06268
-Diyatalawa	6.801922	80.959175
-Dodanduwa	6.098215	80.132856
-Egoda Uyana	6.742868	79.89168
-Eliphant Pass	9.502183	80.405862
-Elle	6.875775	81.047108
-Eluthumattuval	9.652802	80.280043
-Enderamulla	7.000415	79.906833
-Eravur	7.785586	81.604414
-Free Trade Zone	7.157892	79.875248
-Galgamuwa	8.002143	80.271558
-Galle	6.033346	80.21436
-Gallella	7.914303	81.04901
-Galoya Junction	8.137789	80.865748
-Gammana	6.847951	80.032827
-Gampaha	7.093547	79.99373
-Gampola	7.162105	80.566934
-Ganegoda	7.212916	80.105133
-Ganemulla	7.068559	79.959958
-Gangoda	7.296247	80.454619
-Gantalawa	8.41668	81.036816
-Gelioya	7.213892	80.598621
-Ginthota	6.060699	80.179384
-Girambe	7.364366	80.302437
-Godagama	6.847951	80.032827
-Great Western	6.957195	80.689049
-Gulf of Mannar	8.971224	79.893781
-Habaraduwa	5.994052	80.307296
-Habarana	8.057336	80.769543
-Haliela	6.95399	81.033525
-Haputale	6.768293	80.957608
-Hatamuna	8.03969	80.951514
-Hatton	6.893239	80.597473
-Heel Oya	6.844251	81.02565
-Heendeniya	7.141145	80.047116
-Hettimulla	6.458077	79.990801
-Hikkaduwa	6.142173	80.100084
-Hingurakgoda	8.03969	80.951514
-Hingurala	6.936789	80.171662
-Hiriyala	7.711778	80.335867
-Homagama	6.845682	80.004154
-Homagama Hospital	6.845798	79.992327
-Horape	7.016598	79.918303
-Horiwiala	8.067914	80.678138
-Hunupitiya	6.987642	79.900389
-Idalgasinna	6.779384	80.897012
-Ihalakotte	7.288627	80.469414
-Ihalawatawala	6.949964	80.537542
-Induruwa	6.387498	80.008637
-Inguruoya	7.018215	80.545621
-Inuvil	9.726728	80.029532
-Ja-ela	7.077778	79.891989
-Jaffna	9.665077	80.020654
-Jayanthipura	7.948316	81.001783
-Kadigamuwa	7.317956	80.433515
-Kadugannawa	7.257817	80.520752
-Kadugoda	6.917882	80.134892
-Kahawa	6.183185	80.073973
-Kakkapalliya	7.53286	79.822728
-Kalawewa	8.023347	80.531099
-Kalkudah	7.896274	81.554113
-Kalutara North	6.601252	79.954368
-Kalutara South	6.584122	79.959001
-Kamburugamuwa	5.943477	80.495788
-Kandana	7.049299	79.901585
-Kandegoda	6.250131	80.052955
-Kandy	7.289564	80.632358
-Kankesanthurai	9.814578	80.048111
-Kantale	8.356347	81.006153
-Kathaluwa	5.982581	80.340338
-Kattuwa	7.239245	79.84756
-Katugastota	7.330459	80.632991
-Katugoda	6.032639	80.240112
-Katukurunda	6.560092	79.966108
-Katunayake	7.166962	79.872103
-Keenawala	7.185488	80.074522
-Kekirawa	8.058457	80.581469
-Kelaniya	6.961136	79.894558
-Kilinochchi	9.389756	80.4065
-Kinigama	6.829843	81.005861
-Kirulapana	6.883008	79.882906
-Kital Elle	6.861161	81.043117
-Kochchikade	7.264384	79.857248
-Kodikamam	9.681381	80.219829
-Koggala	5.985958	80.331666
-Kokuvil	9.688276	80.021131
-Kollupitiya	6.911263	79.848178
-Kompannavediya	6.923575	79.849679
-Kondavil	9.704142	80.024567
-Konwewa	7.850676	80.349173
-Koralawella	6.758426	79.885956
-Kosgama	6.940649	80.137318
-Kosgoda	6.338471	80.029373
-Kotagala	6.928365	80.608578
-Kottawa	6.843755	79.968278
-Kuda Wawa	7.462175	79.853085
-Kudahakapola	7.103914	79.88979
-Kumarakanda	6.112395	80.12424
-Kumbalgama	5.963602	80.409695
-Kurana	7.191076	79.862114
-Kurunegala	7.476759	80.374077
-Laksauyana	7.988299	80.996851
-Liyanagemulla	7.147195	79.878185
-Liyanwala	6.839058	80.079445
-Lunawa	6.787065	79.875439
-Lunuwila	7.346808	79.862957
-Madampagama	6.212642	80.061104
-Madampe	7.496873	79.841308
-Madurankuliya	7.903041	79.821019
-Magalegoda	7.133832	80.036248
-Maggona	6.504801	79.981402
-Mahaiyawa	7.302299	80.634869
-Maharagama	6.84822	79.926767
-Maho	7.8231	80.275144
-Mallakam	9.763005	80.03238
-Manampitiya	7.909584	81.110103
-Mangalaeliya	7.859909	79.820462
-Mannar	8.971224	79.893781
-Manuwangama	7.600702	79.82743
-Maradana	6.928458	79.864815
-Maraluwewa	7.495818	80.379109
-Matale	7.468023	80.624827
-Matara	5.951734	80.543485
-Mathottam	8.878508	79.988651
-Mavilmada	7.319075	80.630871
-Mavittapuram	9.798942	80.038627
-Medawachchiya	8.554562	80.458138
-Meegammana	7.339515	80.651281
-Meegoda	6.843367	80.046298
-Meesalai	9.672139	80.186566
-Mha Induruwa	6.364229	80.014101
-Midigama	5.965159	80.391501
-Mihintale Junction	8.359341	80.418589
-Minneriya	8.038216	80.904931
-Mirigama	7.242536	80.126693
-Mirihanpitigama	7.655586	80.348833
-Mirissa	5.956798	80.473386
-Mirusuvil	9.674252	80.243309
-Moragollagama	7.905911	80.422524
-Morakele	6.883133	80.123891
-Moratuwa	6.774393	79.882044
-Mount Lavinia	6.831685	79.862789
-Mundal	7.797689	79.825623
-Murikandy	9.269414	80.402697
-Murikandy Temple	9.304425	80.40703
-Murunkan	8.834949	80.049257
-Muththettugala	7.495818	80.379109
-Nagollagama	7.753517	80.314672
-Nailiya	7.449943	80.358548
-Nanuoya	6.9424	80.743643
-Narahenpita	6.896963	79.877905
-Nattandiya	7.414322	79.866017
-Navatkuli	9.661719	80.08139
-Nawalapitiya	7.057197	80.53501
-Nawinna	6.852845	79.917878
-Negama	7.981165	80.487095
-Negombo	7.210422	79.841892
-Nelumpokuna	7.477001	79.844593
-Neriyakulam	8.614506	80.362143
-Nooranagar	8.036037	79.839802
-Nugegoda	6.872101	79.891002
-Ohiya	6.817632	80.843105
-Omanthai	8.86527	80.501193
-Padukka	6.842796	80.091166
-Palavi	7.981732	79.832812
-Pallai	9.607859	80.330143
-Pallewala	7.198735	80.09001
-Palugaswewa	8.058749	80.712043
-Panadura	6.712404	79.904637
-Panagoda	6.846935	80.018991
-Pangiriwatta	6.864943	79.90225
-Pannipitiya	6.847192	79.948914
-Paranthan	9.440214	80.40708
-Parasangahawewa	8.445062	80.431592
-Pattipola	6.855846	80.830692
-Payagala North	6.531604	79.975035
-Payagala South	6.521688	79.978835
-Pemrose	6.99426	80.539425
-Peradeniya	7.257299	80.590061
-Perakum Uyana	7.973632	81.017615
-Perakumpura Sub Railway Station	6.919504	80.752473
-Peralanda	7.038012	79.912362
-Pesalai	9.08283	79.810063
-Piliduwa	5.95366	80.55669
-Pilimatalawa	7.26689	80.552622
-Pinnawala	6.869146	80.117269
-Pinwatte	6.68595	79.915994
-Piyadigama	6.05366	80.190853
-Polgahawela	7.331021	80.300943
-Polonnaruwa	7.930125	81.033335
-Polwathumodara	5.964243	80.457408
-Poonewa	8.61278	80.46286
-Porapola	7.610756	80.346305
-Porapola Junc.	7.590864	80.353028
-Potuhera	7.41986	80.327429
-Puliyankulam	8.959848	80.522361
-Punani	7.96366	81.387231
-Punkankulam	9.659315	80.038265
-Puttalam	8.022683	79.837872
-Puwakpitiya	6.933977	80.187435
-Puwakpitiya Town	6.933977	80.187435
-Radella	6.944783	80.71673
-Ragama	7.030013	79.921433
-Rambukkana	7.32134	80.390163
-Randenigama	7.848492	80.259306
-Rathgama	6.093286	80.139972
-Ratmalana	6.814763	79.866892
-Richmond Hill	6.053894	80.204689
-Saliyapura	8.389892	80.422293
-Sarasaviuyana	7.260005	80.596494
-Sawarana	7.55822	79.808893
-Secretartat Halt	6.932054	79.846128
-Seeduwa	7.12894	79.882466
-Seenigama	6.15866	80.094762
-Senarathgama	8.085833	80.277659
-Sevanapitiya	7.921447	81.183804
-Siyalangamuwa	7.942294	80.449656
-Srawasthipura	8.29882	80.377022
-Talaimannar	9.090022	79.735343
-Talaimannar Pier	9.105974	79.730122
-Talawa	8.231835	80.348318
-Talawakele	6.940059	80.661058
-Tellipallai	9.784896	80.035132
-Telwatte	6.169108	80.088996
-Thalpe	5.998461	80.280136
-Thambuttegama	8.154301	80.303812
-Thampalakamam	8.49845	81.095466
-Thandikulam	8.778334	80.484896
-Thiiruketheeswaram	8.910173	79.952378
-Thiranagama	6.122244	80.114458
-Thoddaveli	9.025321	79.867327
-Timbiriyagedara	7.781363	80.297763
-Tismalpola	7.321627	80.342835
-Train Halt 01	6.632534	79.940328
-Trincomalee	8.584442	81.226152
-Tudella	7.092964	79.890947
-Tummodara	7.390442	79.85897
-Udatalawinna	7.339515	80.651281
-Udhamulla	6.862229	79.908796
-Uduwara	6.931507	81.042119
-Uggalla	6.862546	80.114043
-Ukuwela	7.420309	80.634112
-Ulapane	7.108341	80.559693
-Unawatuna	6.021961	80.249146
-Uyangalla	7.711778	80.335867
-Valachchenei	7.910278	81.531813
-Vavuniya	8.753726	80.493618
-Veyangoda	7.152852	80.058662
-Wadduwa	6.662757	79.928584
-Waga	6.901009	80.127084
-Waikkala	7.277384	79.860193
-Walahapitiya	7.439467	79.859144
-Walgama	5.945401	80.514191
-Walpola	7.047284	79.931111
-Wanawasala	6.975663	79.899209
-Wandurawa	7.16761	80.066063
-Watagoda	6.968985	80.652872
-Wataraka	6.843156	80.060016
-Watawala	6.961998	80.526009
-Wattegama	7.350615	80.682631
-Weligama	5.975601	80.42965
-Welikanda	7.947088	81.250433
-Wellawatta	6.874972	79.857433
-Wijayarajadahana	7.230751	80.118485
-Wlakubura	7.313928	80.26909
-Yagoda	7.074695	79.973849
-Yapahuwa	7.828611	80.308016
-Yatagama	7.318499	80.364346
-Yatawara	7.364744	80.6699
-Yatirawana	7.350615	80.682631
-Yattalgoda	7.27055	80.194553
+[
+  {
+    "name": "Abanpola",
+    "lat": 7.918971,
+    "lng": 80.246083
+  },
+  {
+    "name": "Ahangama",
+    "lat": 5.973143,
+    "lng": 80.363821
+  },
+  {
+    "name": "Ahungalle",
+    "lat": 6.312662,
+    "lng": 80.03764
+  },
+  {
+    "name": "Akurala",
+    "lat": 6.192057,
+    "lng": 80.064891
+  },
+  {
+    "name": "Alawatupitiya",
+    "lat": 7.115815,
+    "lng": 79.887019
+  },
+  {
+    "name": "Alawwa",
+    "lat": 7.29331,
+    "lng": 80.238594
+  },
+  {
+    "name": "Aluth Ambalama",
+    "lat": 6.936789,
+    "lng": 80.171662
+  },
+  {
+    "name": "Aluth oya",
+    "lat": 8.205555,
+    "lng": 80.90806
+  },
+  {
+    "name": "Aluthgama",
+    "lat": 6.432949,
+    "lng": 80.000285
+  },
+  {
+    "name": "Ambalangoda",
+    "lat": 6.235248,
+    "lng": 80.054991
+  },
+  {
+    "name": "Ambewela",
+    "lat": 6.877134,
+    "lng": 80.814614
+  },
+  {
+    "name": "Anawilundawa",
+    "lat": 7.70318,
+    "lng": 79.828178
+  },
+  {
+    "name": "Andadola",
+    "lat": 6.266088,
+    "lng": 80.046996
+  },
+  {
+    "name": "Angampitiya",
+    "lat": 6.853022,
+    "lng": 80.109368
+  },
+  {
+    "name": "Angulana",
+    "lat": 6.798949,
+    "lng": 79.872614
+  },
+  {
+    "name": "Anuradhapura",
+    "lat": 8.344419,
+    "lng": 80.410836
+  },
+  {
+    "name": "Anuradhapura Town",
+    "lat": 8.344419,
+    "lng": 80.410836
+  },
+  {
+    "name": "Arachchikattuwa",
+    "lat": 7.667317,
+    "lng": 79.82862
+  },
+  {
+    "name": "Asgiriya",
+    "lat": 7.289564,
+    "lng": 80.632358
+  },
+  {
+    "name": "Aukana",
+    "lat": 8.023347,
+    "lng": 80.531099
+  },
+  {
+    "name": "Avissawella",
+    "lat": 6.954642,
+    "lng": 80.207363
+  },
+  {
+    "name": "Badulla",
+    "lat": 6.980044,
+    "lng": 81.05968
+  },
+  {
+    "name": "Balana",
+    "lat": 7.266666,
+    "lng": 80.489457
+  },
+  {
+    "name": "Balapitiya",
+    "lat": 6.276649,
+    "lng": 80.043417
+  },
+  {
+    "name": "Bambalapitiya",
+    "lat": 6.893698,
+    "lng": 79.852957
+  },
+  {
+    "name": "Bandarawela",
+    "lat": 6.828927,
+    "lng": 80.987606
+  },
+  {
+    "name": "Bangadeniya",
+    "lat": 7.635406,
+    "lng": 79.8285
+  },
+  {
+    "name": "Baseline Road",
+    "lat": 6.926269,
+    "lng": 79.878444
+  },
+  {
+    "name": "Batticaloa",
+    "lat": 7.724485,
+    "lng": 81.698769
+  },
+  {
+    "name": "Batuwatte",
+    "lat": 7.055045,
+    "lng": 79.937154
+  },
+  {
+    "name": "Bemmulla",
+    "lat": 7.122411,
+    "lng": 80.020516
+  },
+  {
+    "name": "Bentota",
+    "lat": 6.422143,
+    "lng": 79.996688
+  },
+  {
+    "name": "Beruwala",
+    "lat": 6.473838,
+    "lng": 79.991999
+  },
+  {
+    "name": "Bolawatte",
+    "lat": 7.297037,
+    "lng": 79.860866
+  },
+  {
+    "name": "Boossa",
+    "lat": 6.093286,
+    "lng": 80.139972
+  },
+  {
+    "name": "Borelessa",
+    "lat": 7.319936,
+    "lng": 79.863095
+  },
+  {
+    "name": "Botale",
+    "lat": 7.256678,
+    "lng": 80.153171
+  },
+  {
+    "name": "Bulugahagoda",
+    "lat": 7.066084,
+    "lng": 79.945647
+  },
+  {
+    "name": "Chavakachcheri",
+    "lat": 9.65715,
+    "lng": 80.158578
+  },
+  {
+    "name": "Cheddiikulam",
+    "lat": 8.669057,
+    "lng": 80.305548
+  },
+  {
+    "name": "Chilaw",
+    "lat": 7.575553,
+    "lng": 79.791113
+  },
+  {
+    "name": "China Bey",
+    "lat": 8.556429,
+    "lng": 81.190427
+  },
+  {
+    "name": "Chunnakam",
+    "lat": 9.745838,
+    "lng": 80.033413
+  },
+  {
+    "name": "Colombo Fort",
+    "lat": 6.933701,
+    "lng": 79.85003
+  },
+  {
+    "name": "Cotta Road",
+    "lat": 6.913418,
+    "lng": 79.884486
+  },
+  {
+    "name": "Daraluwa",
+    "lat": 7.107115,
+    "lng": 80.01048
+  },
+  {
+    "name": "Dehiwala",
+    "lat": 6.850906,
+    "lng": 79.862097
+  },
+  {
+    "name": "Dematagoda",
+    "lat": 6.937477,
+    "lng": 79.879155
+  },
+  {
+    "name": "Demodara",
+    "lat": 6.902916,
+    "lng": 81.06268
+  },
+  {
+    "name": "Diyatalawa",
+    "lat": 6.801922,
+    "lng": 80.959175
+  },
+  {
+    "name": "Dodanduwa",
+    "lat": 6.098215,
+    "lng": 80.132856
+  },
+  {
+    "name": "Egoda Uyana",
+    "lat": 6.742868,
+    "lng": 79.89168
+  },
+  {
+    "name": "Eliphant Pass",
+    "lat": 9.502183,
+    "lng": 80.405862
+  },
+  {
+    "name": "Elle",
+    "lat": 6.875775,
+    "lng": 81.047108
+  },
+  {
+    "name": "Eluthumattuval",
+    "lat": 9.652802,
+    "lng": 80.280043
+  },
+  {
+    "name": "Enderamulla",
+    "lat": 7.000415,
+    "lng": 79.906833
+  },
+  {
+    "name": "Eravur",
+    "lat": 7.785586,
+    "lng": 81.604414
+  },
+  {
+    "name": "Free Trade Zone",
+    "lat": 7.157892,
+    "lng": 79.875248
+  },
+  {
+    "name": "Galgamuwa",
+    "lat": 8.002143,
+    "lng": 80.271558
+  },
+  {
+    "name": "Galle",
+    "lat": 6.033346,
+    "lng": 80.21436
+  },
+  {
+    "name": "Gallella",
+    "lat": 7.914303,
+    "lng": 81.04901
+  },
+  {
+    "name": "Galoya Junction",
+    "lat": 8.137789,
+    "lng": 80.865748
+  },
+  {
+    "name": "Gammana",
+    "lat": 6.847951,
+    "lng": 80.032827
+  },
+  {
+    "name": "Gampaha",
+    "lat": 7.093547,
+    "lng": 79.99373
+  },
+  {
+    "name": "Gampola",
+    "lat": 7.162105,
+    "lng": 80.566934
+  },
+  {
+    "name": "Ganegoda",
+    "lat": 7.212916,
+    "lng": 80.105133
+  },
+  {
+    "name": "Ganemulla",
+    "lat": 7.068559,
+    "lng": 79.959958
+  },
+  {
+    "name": "Gangoda",
+    "lat": 7.296247,
+    "lng": 80.454619
+  },
+  {
+    "name": "Gantalawa",
+    "lat": 8.41668,
+    "lng": 81.036816
+  },
+  {
+    "name": "Gelioya",
+    "lat": 7.213892,
+    "lng": 80.598621
+  },
+  {
+    "name": "Ginthota",
+    "lat": 6.060699,
+    "lng": 80.179384
+  },
+  {
+    "name": "Girambe",
+    "lat": 7.364366,
+    "lng": 80.302437
+  },
+  {
+    "name": "Godagama",
+    "lat": 6.847951,
+    "lng": 80.032827
+  },
+  {
+    "name": "Great Western",
+    "lat": 6.957195,
+    "lng": 80.689049
+  },
+  {
+    "name": "Gulf of Mannar",
+    "lat": 8.971224,
+    "lng": 79.893781
+  },
+  {
+    "name": "Habaraduwa",
+    "lat": 5.994052,
+    "lng": 80.307296
+  },
+  {
+    "name": "Habarana",
+    "lat": 8.057336,
+    "lng": 80.769543
+  },
+  {
+    "name": "Haliela",
+    "lat": 6.95399,
+    "lng": 81.033525
+  },
+  {
+    "name": "Haputale",
+    "lat": 6.768293,
+    "lng": 80.957608
+  },
+  {
+    "name": "Hatamuna",
+    "lat": 8.03969,
+    "lng": 80.951514
+  },
+  {
+    "name": "Hatton",
+    "lat": 6.893239,
+    "lng": 80.597473
+  },
+  {
+    "name": "Heel Oya",
+    "lat": 6.844251,
+    "lng": 81.02565
+  },
+  {
+    "name": "Heendeniya",
+    "lat": 7.141145,
+    "lng": 80.047116
+  },
+  {
+    "name": "Hettimulla",
+    "lat": 6.458077,
+    "lng": 79.990801
+  },
+  {
+    "name": "Hikkaduwa",
+    "lat": 6.142173,
+    "lng": 80.100084
+  },
+  {
+    "name": "Hingurakgoda",
+    "lat": 8.03969,
+    "lng": 80.951514
+  },
+  {
+    "name": "Hingurala",
+    "lat": 6.936789,
+    "lng": 80.171662
+  },
+  {
+    "name": "Hiriyala",
+    "lat": 7.711778,
+    "lng": 80.335867
+  },
+  {
+    "name": "Homagama",
+    "lat": 6.845682,
+    "lng": 80.004154
+  },
+  {
+    "name": "Homagama Hospital",
+    "lat": 6.845798,
+    "lng": 79.992327
+  },
+  {
+    "name": "Horape",
+    "lat": 7.016598,
+    "lng": 79.918303
+  },
+  {
+    "name": "Horiwiala",
+    "lat": 8.067914,
+    "lng": 80.678138
+  },
+  {
+    "name": "Hunupitiya",
+    "lat": 6.987642,
+    "lng": 79.900389
+  },
+  {
+    "name": "Idalgasinna",
+    "lat": 6.779384,
+    "lng": 80.897012
+  },
+  {
+    "name": "Ihalakotte",
+    "lat": 7.288627,
+    "lng": 80.469414
+  },
+  {
+    "name": "Ihalawatawala",
+    "lat": 6.949964,
+    "lng": 80.537542
+  },
+  {
+    "name": "Induruwa",
+    "lat": 6.387498,
+    "lng": 80.008637
+  },
+  {
+    "name": "Inguruoya",
+    "lat": 7.018215,
+    "lng": 80.545621
+  },
+  {
+    "name": "Inuvil",
+    "lat": 9.726728,
+    "lng": 80.029532
+  },
+  {
+    "name": "Ja-ela",
+    "lat": 7.077778,
+    "lng": 79.891989
+  },
+  {
+    "name": "Jaffna",
+    "lat": 9.665077,
+    "lng": 80.020654
+  },
+  {
+    "name": "Jayanthipura",
+    "lat": 7.948316,
+    "lng": 81.001783
+  },
+  {
+    "name": "Kadigamuwa",
+    "lat": 7.317956,
+    "lng": 80.433515
+  },
+  {
+    "name": "Kadugannawa",
+    "lat": 7.257817,
+    "lng": 80.520752
+  },
+  {
+    "name": "Kadugoda",
+    "lat": 6.917882,
+    "lng": 80.134892
+  },
+  {
+    "name": "Kahawa",
+    "lat": 6.183185,
+    "lng": 80.073973
+  },
+  {
+    "name": "Kakkapalliya",
+    "lat": 7.53286,
+    "lng": 79.822728
+  },
+  {
+    "name": "Kalawewa",
+    "lat": 8.023347,
+    "lng": 80.531099
+  },
+  {
+    "name": "Kalkudah",
+    "lat": 7.896274,
+    "lng": 81.554113
+  },
+  {
+    "name": "Kalutara North",
+    "lat": 6.601252,
+    "lng": 79.954368
+  },
+  {
+    "name": "Kalutara South",
+    "lat": 6.584122,
+    "lng": 79.959001
+  },
+  {
+    "name": "Kamburugamuwa",
+    "lat": 5.943477,
+    "lng": 80.495788
+  },
+  {
+    "name": "Kandana",
+    "lat": 7.049299,
+    "lng": 79.901585
+  },
+  {
+    "name": "Kandegoda",
+    "lat": 6.250131,
+    "lng": 80.052955
+  },
+  {
+    "name": "Kandy",
+    "lat": 7.289564,
+    "lng": 80.632358
+  },
+  {
+    "name": "Kankesanthurai",
+    "lat": 9.814578,
+    "lng": 80.048111
+  },
+  {
+    "name": "Kantale",
+    "lat": 8.356347,
+    "lng": 81.006153
+  },
+  {
+    "name": "Kathaluwa",
+    "lat": 5.982581,
+    "lng": 80.340338
+  },
+  {
+    "name": "Kattuwa",
+    "lat": 7.239245,
+    "lng": 79.84756
+  },
+  {
+    "name": "Katugastota",
+    "lat": 7.330459,
+    "lng": 80.632991
+  },
+  {
+    "name": "Katugoda",
+    "lat": 6.032639,
+    "lng": 80.240112
+  },
+  {
+    "name": "Katukurunda",
+    "lat": 6.560092,
+    "lng": 79.966108
+  },
+  {
+    "name": "Katunayake",
+    "lat": 7.166962,
+    "lng": 79.872103
+  },
+  {
+    "name": "Keenawala",
+    "lat": 7.185488,
+    "lng": 80.074522
+  },
+  {
+    "name": "Kekirawa",
+    "lat": 8.058457,
+    "lng": 80.581469
+  },
+  {
+    "name": "Kelaniya",
+    "lat": 6.961136,
+    "lng": 79.894558
+  },
+  {
+    "name": "Kilinochchi",
+    "lat": 9.389756,
+    "lng": 80.4065
+  },
+  {
+    "name": "Kinigama",
+    "lat": 6.829843,
+    "lng": 81.005861
+  },
+  {
+    "name": "Kirulapana",
+    "lat": 6.883008,
+    "lng": 79.882906
+  },
+  {
+    "name": "Kital Elle",
+    "lat": 6.861161,
+    "lng": 81.043117
+  },
+  {
+    "name": "Kochchikade",
+    "lat": 7.264384,
+    "lng": 79.857248
+  },
+  {
+    "name": "Kodikamam",
+    "lat": 9.681381,
+    "lng": 80.219829
+  },
+  {
+    "name": "Koggala",
+    "lat": 5.985958,
+    "lng": 80.331666
+  },
+  {
+    "name": "Kokuvil",
+    "lat": 9.688276,
+    "lng": 80.021131
+  },
+  {
+    "name": "Kollupitiya",
+    "lat": 6.911263,
+    "lng": 79.848178
+  },
+  {
+    "name": "Kompannavediya",
+    "lat": 6.923575,
+    "lng": 79.849679
+  },
+  {
+    "name": "Kondavil",
+    "lat": 9.704142,
+    "lng": 80.024567
+  },
+  {
+    "name": "Konwewa",
+    "lat": 7.850676,
+    "lng": 80.349173
+  },
+  {
+    "name": "Koralawella",
+    "lat": 6.758426,
+    "lng": 79.885956
+  },
+  {
+    "name": "Kosgama",
+    "lat": 6.940649,
+    "lng": 80.137318
+  },
+  {
+    "name": "Kosgoda",
+    "lat": 6.338471,
+    "lng": 80.029373
+  },
+  {
+    "name": "Kotagala",
+    "lat": 6.928365,
+    "lng": 80.608578
+  },
+  {
+    "name": "Kottawa",
+    "lat": 6.843755,
+    "lng": 79.968278
+  },
+  {
+    "name": "Kuda Wawa",
+    "lat": 7.462175,
+    "lng": 79.853085
+  },
+  {
+    "name": "Kudahakapola",
+    "lat": 7.103914,
+    "lng": 79.88979
+  },
+  {
+    "name": "Kumarakanda",
+    "lat": 6.112395,
+    "lng": 80.12424
+  },
+  {
+    "name": "Kumbalgama",
+    "lat": 5.963602,
+    "lng": 80.409695
+  },
+  {
+    "name": "Kurana",
+    "lat": 7.191076,
+    "lng": 79.862114
+  },
+  {
+    "name": "Kurunegala",
+    "lat": 7.476759,
+    "lng": 80.374077
+  },
+  {
+    "name": "Laksauyana",
+    "lat": 7.988299,
+    "lng": 80.996851
+  },
+  {
+    "name": "Liyanagemulla",
+    "lat": 7.147195,
+    "lng": 79.878185
+  },
+  {
+    "name": "Liyanwala",
+    "lat": 6.839058,
+    "lng": 80.079445
+  },
+  {
+    "name": "Lunawa",
+    "lat": 6.787065,
+    "lng": 79.875439
+  },
+  {
+    "name": "Lunuwila",
+    "lat": 7.346808,
+    "lng": 79.862957
+  },
+  {
+    "name": "Madampagama",
+    "lat": 6.212642,
+    "lng": 80.061104
+  },
+  {
+    "name": "Madampe",
+    "lat": 7.496873,
+    "lng": 79.841308
+  },
+  {
+    "name": "Madurankuliya",
+    "lat": 7.903041,
+    "lng": 79.821019
+  },
+  {
+    "name": "Magalegoda",
+    "lat": 7.133832,
+    "lng": 80.036248
+  },
+  {
+    "name": "Maggona",
+    "lat": 6.504801,
+    "lng": 79.981402
+  },
+  {
+    "name": "Mahaiyawa",
+    "lat": 7.302299,
+    "lng": 80.634869
+  },
+  {
+    "name": "Maharagama",
+    "lat": 6.84822,
+    "lng": 79.926767
+  },
+  {
+    "name": "Maho",
+    "lat": 7.8231,
+    "lng": 80.275144
+  },
+  {
+    "name": "Mallakam",
+    "lat": 9.763005,
+    "lng": 80.03238
+  },
+  {
+    "name": "Manampitiya",
+    "lat": 7.909584,
+    "lng": 81.110103
+  },
+  {
+    "name": "Mangalaeliya",
+    "lat": 7.859909,
+    "lng": 79.820462
+  },
+  {
+    "name": "Mannar",
+    "lat": 8.971224,
+    "lng": 79.893781
+  },
+  {
+    "name": "Manuwangama",
+    "lat": 7.600702,
+    "lng": 79.82743
+  },
+  {
+    "name": "Maradana",
+    "lat": 6.928458,
+    "lng": 79.864815
+  },
+  {
+    "name": "Maraluwewa",
+    "lat": 7.495818,
+    "lng": 80.379109
+  },
+  {
+    "name": "Matale",
+    "lat": 7.468023,
+    "lng": 80.624827
+  },
+  {
+    "name": "Matara",
+    "lat": 5.951734,
+    "lng": 80.543485
+  },
+  {
+    "name": "Mathottam",
+    "lat": 8.878508,
+    "lng": 79.988651
+  },
+  {
+    "name": "Mavilmada",
+    "lat": 7.319075,
+    "lng": 80.630871
+  },
+  {
+    "name": "Mavittapuram",
+    "lat": 9.798942,
+    "lng": 80.038627
+  },
+  {
+    "name": "Medawachchiya",
+    "lat": 8.554562,
+    "lng": 80.458138
+  },
+  {
+    "name": "Meegammana",
+    "lat": 7.339515,
+    "lng": 80.651281
+  },
+  {
+    "name": "Meegoda",
+    "lat": 6.843367,
+    "lng": 80.046298
+  },
+  {
+    "name": "Meesalai",
+    "lat": 9.672139,
+    "lng": 80.186566
+  },
+  {
+    "name": "Mha Induruwa",
+    "lat": 6.364229,
+    "lng": 80.014101
+  },
+  {
+    "name": "Midigama",
+    "lat": 5.965159,
+    "lng": 80.391501
+  },
+  {
+    "name": "Mihintale Junction",
+    "lat": 8.359341,
+    "lng": 80.418589
+  },
+  {
+    "name": "Minneriya",
+    "lat": 8.038216,
+    "lng": 80.904931
+  },
+  {
+    "name": "Mirigama",
+    "lat": 7.242536,
+    "lng": 80.126693
+  },
+  {
+    "name": "Mirihanpitigama",
+    "lat": 7.655586,
+    "lng": 80.348833
+  },
+  {
+    "name": "Mirissa",
+    "lat": 5.956798,
+    "lng": 80.473386
+  },
+  {
+    "name": "Mirusuvil",
+    "lat": 9.674252,
+    "lng": 80.243309
+  },
+  {
+    "name": "Moragollagama",
+    "lat": 7.905911,
+    "lng": 80.422524
+  },
+  {
+    "name": "Morakele",
+    "lat": 6.883133,
+    "lng": 80.123891
+  },
+  {
+    "name": "Moratuwa",
+    "lat": 6.774393,
+    "lng": 79.882044
+  },
+  {
+    "name": "Mount Lavinia",
+    "lat": 6.831685,
+    "lng": 79.862789
+  },
+  {
+    "name": "Mundal",
+    "lat": 7.797689,
+    "lng": 79.825623
+  },
+  {
+    "name": "Murikandy",
+    "lat": 9.269414,
+    "lng": 80.402697
+  },
+  {
+    "name": "Murikandy Temple",
+    "lat": 9.304425,
+    "lng": 80.40703
+  },
+  {
+    "name": "Murunkan",
+    "lat": 8.834949,
+    "lng": 80.049257
+  },
+  {
+    "name": "Muththettugala",
+    "lat": 7.495818,
+    "lng": 80.379109
+  },
+  {
+    "name": "Nagollagama",
+    "lat": 7.753517,
+    "lng": 80.314672
+  },
+  {
+    "name": "Nailiya",
+    "lat": 7.449943,
+    "lng": 80.358548
+  },
+  {
+    "name": "Nanuoya",
+    "lat": 6.9424,
+    "lng": 80.743643
+  },
+  {
+    "name": "Narahenpita",
+    "lat": 6.896963,
+    "lng": 79.877905
+  },
+  {
+    "name": "Nattandiya",
+    "lat": 7.414322,
+    "lng": 79.866017
+  },
+  {
+    "name": "Navatkuli",
+    "lat": 9.661719,
+    "lng": 80.08139
+  },
+  {
+    "name": "Nawalapitiya",
+    "lat": 7.057197,
+    "lng": 80.53501
+  },
+  {
+    "name": "Nawinna",
+    "lat": 6.852845,
+    "lng": 79.917878
+  },
+  {
+    "name": "Negama",
+    "lat": 7.981165,
+    "lng": 80.487095
+  },
+  {
+    "name": "Negombo",
+    "lat": 7.210422,
+    "lng": 79.841892
+  },
+  {
+    "name": "Nelumpokuna",
+    "lat": 7.477001,
+    "lng": 79.844593
+  },
+  {
+    "name": "Neriyakulam",
+    "lat": 8.614506,
+    "lng": 80.362143
+  },
+  {
+    "name": "Nooranagar",
+    "lat": 8.036037,
+    "lng": 79.839802
+  },
+  {
+    "name": "Nugegoda",
+    "lat": 6.872101,
+    "lng": 79.891002
+  },
+  {
+    "name": "Ohiya",
+    "lat": 6.817632,
+    "lng": 80.843105
+  },
+  {
+    "name": "Omanthai",
+    "lat": 8.86527,
+    "lng": 80.501193
+  },
+  {
+    "name": "Padukka",
+    "lat": 6.842796,
+    "lng": 80.091166
+  },
+  {
+    "name": "Palavi",
+    "lat": 7.981732,
+    "lng": 79.832812
+  },
+  {
+    "name": "Pallai",
+    "lat": 9.607859,
+    "lng": 80.330143
+  },
+  {
+    "name": "Pallewala",
+    "lat": 7.198735,
+    "lng": 80.09001
+  },
+  {
+    "name": "Palugaswewa",
+    "lat": 8.058749,
+    "lng": 80.712043
+  },
+  {
+    "name": "Panadura",
+    "lat": 6.712404,
+    "lng": 79.904637
+  },
+  {
+    "name": "Panagoda",
+    "lat": 6.846935,
+    "lng": 80.018991
+  },
+  {
+    "name": "Pangiriwatta",
+    "lat": 6.864943,
+    "lng": 79.90225
+  },
+  {
+    "name": "Pannipitiya",
+    "lat": 6.847192,
+    "lng": 79.948914
+  },
+  {
+    "name": "Paranthan",
+    "lat": 9.440214,
+    "lng": 80.40708
+  },
+  {
+    "name": "Parasangahawewa",
+    "lat": 8.445062,
+    "lng": 80.431592
+  },
+  {
+    "name": "Pattipola",
+    "lat": 6.855846,
+    "lng": 80.830692
+  },
+  {
+    "name": "Payagala North",
+    "lat": 6.531604,
+    "lng": 79.975035
+  },
+  {
+    "name": "Payagala South",
+    "lat": 6.521688,
+    "lng": 79.978835
+  },
+  {
+    "name": "Pemrose",
+    "lat": 6.99426,
+    "lng": 80.539425
+  },
+  {
+    "name": "Peradeniya",
+    "lat": 7.257299,
+    "lng": 80.590061
+  },
+  {
+    "name": "Perakum Uyana",
+    "lat": 7.973632,
+    "lng": 81.017615
+  },
+  {
+    "name": "Perakumpura Sub Railway Station",
+    "lat": 6.919504,
+    "lng": 80.752473
+  },
+  {
+    "name": "Peralanda",
+    "lat": 7.038012,
+    "lng": 79.912362
+  },
+  {
+    "name": "Pesalai",
+    "lat": 9.08283,
+    "lng": 79.810063
+  },
+  {
+    "name": "Piliduwa",
+    "lat": 5.95366,
+    "lng": 80.55669
+  },
+  {
+    "name": "Pilimatalawa",
+    "lat": 7.26689,
+    "lng": 80.552622
+  },
+  {
+    "name": "Pinnawala",
+    "lat": 6.869146,
+    "lng": 80.117269
+  },
+  {
+    "name": "Pinwatte",
+    "lat": 6.68595,
+    "lng": 79.915994
+  },
+  {
+    "name": "Piyadigama",
+    "lat": 6.05366,
+    "lng": 80.190853
+  },
+  {
+    "name": "Polgahawela",
+    "lat": 7.331021,
+    "lng": 80.300943
+  },
+  {
+    "name": "Polonnaruwa",
+    "lat": 7.930125,
+    "lng": 81.033335
+  },
+  {
+    "name": "Polwathumodara",
+    "lat": 5.964243,
+    "lng": 80.457408
+  },
+  {
+    "name": "Poonewa",
+    "lat": 8.61278,
+    "lng": 80.46286
+  },
+  {
+    "name": "Porapola",
+    "lat": 7.610756,
+    "lng": 80.346305
+  },
+  {
+    "name": "Porapola Junc.",
+    "lat": 7.590864,
+    "lng": 80.353028
+  },
+  {
+    "name": "Potuhera",
+    "lat": 7.41986,
+    "lng": 80.327429
+  },
+  {
+    "name": "Puliyankulam",
+    "lat": 8.959848,
+    "lng": 80.522361
+  },
+  {
+    "name": "Punani",
+    "lat": 7.96366,
+    "lng": 81.387231
+  },
+  {
+    "name": "Punkankulam",
+    "lat": 9.659315,
+    "lng": 80.038265
+  },
+  {
+    "name": "Puttalam",
+    "lat": 8.022683,
+    "lng": 79.837872
+  },
+  {
+    "name": "Puwakpitiya",
+    "lat": 6.933977,
+    "lng": 80.187435
+  },
+  {
+    "name": "Puwakpitiya Town",
+    "lat": 6.933977,
+    "lng": 80.187435
+  },
+  {
+    "name": "Radella",
+    "lat": 6.944783,
+    "lng": 80.71673
+  },
+  {
+    "name": "Ragama",
+    "lat": 7.030013,
+    "lng": 79.921433
+  },
+  {
+    "name": "Rambukkana",
+    "lat": 7.32134,
+    "lng": 80.390163
+  },
+  {
+    "name": "Randenigama",
+    "lat": 7.848492,
+    "lng": 80.259306
+  },
+  {
+    "name": "Rathgama",
+    "lat": 6.093286,
+    "lng": 80.139972
+  },
+  {
+    "name": "Ratmalana",
+    "lat": 6.814763,
+    "lng": 79.866892
+  },
+  {
+    "name": "Richmond Hill",
+    "lat": 6.053894,
+    "lng": 80.204689
+  },
+  {
+    "name": "Saliyapura",
+    "lat": 8.389892,
+    "lng": 80.422293
+  },
+  {
+    "name": "Sarasaviuyana",
+    "lat": 7.260005,
+    "lng": 80.596494
+  },
+  {
+    "name": "Sawarana",
+    "lat": 7.55822,
+    "lng": 79.808893
+  },
+  {
+    "name": "Secretartat Halt",
+    "lat": 6.932054,
+    "lng": 79.846128
+  },
+  {
+    "name": "Seeduwa",
+    "lat": 7.12894,
+    "lng": 79.882466
+  },
+  {
+    "name": "Seenigama",
+    "lat": 6.15866,
+    "lng": 80.094762
+  },
+  {
+    "name": "Senarathgama",
+    "lat": 8.085833,
+    "lng": 80.277659
+  },
+  {
+    "name": "Sevanapitiya",
+    "lat": 7.921447,
+    "lng": 81.183804
+  },
+  {
+    "name": "Siyalangamuwa",
+    "lat": 7.942294,
+    "lng": 80.449656
+  },
+  {
+    "name": "Srawasthipura",
+    "lat": 8.29882,
+    "lng": 80.377022
+  },
+  {
+    "name": "Talaimannar",
+    "lat": 9.090022,
+    "lng": 79.735343
+  },
+  {
+    "name": "Talaimannar Pier",
+    "lat": 9.105974,
+    "lng": 79.730122
+  },
+  {
+    "name": "Talawa",
+    "lat": 8.231835,
+    "lng": 80.348318
+  },
+  {
+    "name": "Talawakele",
+    "lat": 6.940059,
+    "lng": 80.661058
+  },
+  {
+    "name": "Tellipallai",
+    "lat": 9.784896,
+    "lng": 80.035132
+  },
+  {
+    "name": "Telwatte",
+    "lat": 6.169108,
+    "lng": 80.088996
+  },
+  {
+    "name": "Thalpe",
+    "lat": 5.998461,
+    "lng": 80.280136
+  },
+  {
+    "name": "Thambuttegama",
+    "lat": 8.154301,
+    "lng": 80.303812
+  },
+  {
+    "name": "Thampalakamam",
+    "lat": 8.49845,
+    "lng": 81.095466
+  },
+  {
+    "name": "Thandikulam",
+    "lat": 8.778334,
+    "lng": 80.484896
+  },
+  {
+    "name": "Thiiruketheeswaram",
+    "lat": 8.910173,
+    "lng": 79.952378
+  },
+  {
+    "name": "Thiranagama",
+    "lat": 6.122244,
+    "lng": 80.114458
+  },
+  {
+    "name": "Thoddaveli",
+    "lat": 9.025321,
+    "lng": 79.867327
+  },
+  {
+    "name": "Timbiriyagedara",
+    "lat": 7.781363,
+    "lng": 80.297763
+  },
+  {
+    "name": "Tismalpola",
+    "lat": 7.321627,
+    "lng": 80.342835
+  },
+  {
+    "name": "Train Halt 01",
+    "lat": 6.632534,
+    "lng": 79.940328
+  },
+  {
+    "name": "Trincomalee",
+    "lat": 8.584442,
+    "lng": 81.226152
+  },
+  {
+    "name": "Tudella",
+    "lat": 7.092964,
+    "lng": 79.890947
+  },
+  {
+    "name": "Tummodara",
+    "lat": 7.390442,
+    "lng": 79.85897
+  },
+  {
+    "name": "Udatalawinna",
+    "lat": 7.339515,
+    "lng": 80.651281
+  },
+  {
+    "name": "Udhamulla",
+    "lat": 6.862229,
+    "lng": 79.908796
+  },
+  {
+    "name": "Uduwara",
+    "lat": 6.931507,
+    "lng": 81.042119
+  },
+  {
+    "name": "Uggalla",
+    "lat": 6.862546,
+    "lng": 80.114043
+  },
+  {
+    "name": "Ukuwela",
+    "lat": 7.420309,
+    "lng": 80.634112
+  },
+  {
+    "name": "Ulapane",
+    "lat": 7.108341,
+    "lng": 80.559693
+  },
+  {
+    "name": "Unawatuna",
+    "lat": 6.021961,
+    "lng": 80.249146
+  },
+  {
+    "name": "Uyangalla",
+    "lat": 7.711778,
+    "lng": 80.335867
+  },
+  {
+    "name": "Valachchenei",
+    "lat": 7.910278,
+    "lng": 81.531813
+  },
+  {
+    "name": "Vavuniya",
+    "lat": 8.753726,
+    "lng": 80.493618
+  },
+  {
+    "name": "Veyangoda",
+    "lat": 7.152852,
+    "lng": 80.058662
+  },
+  {
+    "name": "Wadduwa",
+    "lat": 6.662757,
+    "lng": 79.928584
+  },
+  {
+    "name": "Waga",
+    "lat": 6.901009,
+    "lng": 80.127084
+  },
+  {
+    "name": "Waikkala",
+    "lat": 7.277384,
+    "lng": 79.860193
+  },
+  {
+    "name": "Walahapitiya",
+    "lat": 7.439467,
+    "lng": 79.859144
+  },
+  {
+    "name": "Walgama",
+    "lat": 5.945401,
+    "lng": 80.514191
+  },
+  {
+    "name": "Walpola",
+    "lat": 7.047284,
+    "lng": 79.931111
+  },
+  {
+    "name": "Wanawasala",
+    "lat": 6.975663,
+    "lng": 79.899209
+  },
+  {
+    "name": "Wandurawa",
+    "lat": 7.16761,
+    "lng": 80.066063
+  },
+  {
+    "name": "Watagoda",
+    "lat": 6.968985,
+    "lng": 80.652872
+  },
+  {
+    "name": "Wataraka",
+    "lat": 6.843156,
+    "lng": 80.060016
+  },
+  {
+    "name": "Watawala",
+    "lat": 6.961998,
+    "lng": 80.526009
+  },
+  {
+    "name": "Wattegama",
+    "lat": 7.350615,
+    "lng": 80.682631
+  },
+  {
+    "name": "Weligama",
+    "lat": 5.975601,
+    "lng": 80.42965
+  },
+  {
+    "name": "Welikanda",
+    "lat": 7.947088,
+    "lng": 81.250433
+  },
+  {
+    "name": "Wellawatta",
+    "lat": 6.874972,
+    "lng": 79.857433
+  },
+  {
+    "name": "Wijayarajadahana",
+    "lat": 7.230751,
+    "lng": 80.118485
+  },
+  {
+    "name": "Wlakubura",
+    "lat": 7.313928,
+    "lng": 80.26909
+  },
+  {
+    "name": "Yagoda",
+    "lat": 7.074695,
+    "lng": 79.973849
+  },
+  {
+    "name": "Yapahuwa",
+    "lat": 7.828611,
+    "lng": 80.308016
+  },
+  {
+    "name": "Yatagama",
+    "lat": 7.318499,
+    "lng": 80.364346
+  },
+  {
+    "name": "Yatawara",
+    "lat": 7.364744,
+    "lng": 80.6699
+  },
+  {
+    "name": "Yatirawana",
+    "lat": 7.350615,
+    "lng": 80.682631
+  },
+  {
+    "name": "Yattalgoda",
+    "lat": 7.27055,
+    "lng": 80.194553
+  }
+]
